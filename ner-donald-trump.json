@@ -1,0 +1,921 @@
+{
+    "documents": [
+        {
+            "id": "id__5477",
+            "entities": [
+                {
+                    "text": "Fulton County Grand Jury",
+                    "category": "Organization",
+                    "offset": 4,
+                    "length": 24,
+                    "confidenceScore": 0.85
+                },
+                {
+                    "text": "Friday",
+                    "category": "DateTime",
+                    "subcategory": "Date",
+                    "offset": 34,
+                    "length": 6,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "investigation",
+                    "category": "Skill",
+                    "offset": 44,
+                    "length": 13,
+                    "confidenceScore": 0.56
+                },
+                {
+                    "text": "Atlanta",
+                    "category": "Location",
+                    "subcategory": "City",
+                    "offset": 61,
+                    "length": 7,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "primary election",
+                    "category": "Event",
+                    "offset": 78,
+                    "length": 16,
+                    "confidenceScore": 0.96
+                },
+                {
+                    "text": "City Executive Committee",
+                    "category": "Organization",
+                    "offset": 213,
+                    "length": 24,
+                    "confidenceScore": 0.97
+                },
+                {
+                    "text": "election",
+                    "category": "Event",
+                    "offset": 272,
+                    "length": 8,
+                    "confidenceScore": 0.76
+                },
+                {
+                    "text": "Atlanta",
+                    "category": "Location",
+                    "subcategory": "City",
+                    "offset": 329,
+                    "length": 7,
+                    "confidenceScore": 0.96
+                },
+                {
+                    "text": "election",
+                    "category": "Event",
+                    "offset": 366,
+                    "length": 8,
+                    "confidenceScore": 0.77
+                },
+                {
+                    "text": "September-October",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 395,
+                    "length": 17,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "Fulton",
+                    "category": "Location",
+                    "subcategory": "City",
+                    "offset": 443,
+                    "length": 6,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "Durwood Pye",
+                    "category": "Person",
+                    "offset": 471,
+                    "length": 11,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "investigate",
+                    "category": "Skill",
+                    "offset": 486,
+                    "length": 11,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Mayor",
+                    "category": "PersonType",
+                    "offset": 579,
+                    "length": 5,
+                    "confidenceScore": 0.76
+                },
+                {
+                    "text": "Ivan Allen Jr&",
+                    "category": "Person",
+                    "offset": 594,
+                    "length": 14,
+                    "confidenceScore": 0.85
+                },
+                {
+                    "text": "jury",
+                    "category": "PersonType",
+                    "offset": 673,
+                    "length": 4,
+                    "confidenceScore": 0.92
+                },
+                {
+                    "text": "election",
+                    "category": "Event",
+                    "offset": 728,
+                    "length": 8,
+                    "confidenceScore": 0.98
+                },
+                {
+                    "text": "voters",
+                    "category": "PersonType",
+                    "offset": 752,
+                    "length": 6,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "city",
+                    "category": "Location",
+                    "offset": 780,
+                    "length": 4,
+                    "confidenceScore": 0.9
+                },
+                {
+                    "text": "jury",
+                    "category": "PersonType",
+                    "offset": 794,
+                    "length": 4,
+                    "confidenceScore": 0.55
+                },
+                {
+                    "text": "Georgia",
+                    "category": "Location",
+                    "subcategory": "CountryRegion",
+                    "offset": 829,
+                    "length": 7,
+                    "confidenceScore": 0.89
+                },
+                {
+                    "text": "Fulton",
+                    "category": "Location",
+                    "subcategory": "Structural",
+                    "offset": 943,
+                    "length": 6,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Fulton",
+                    "category": "Location",
+                    "subcategory": "City",
+                    "offset": 943,
+                    "length": 6,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "legislators",
+                    "category": "PersonType",
+                    "offset": 950,
+                    "length": 11,
+                    "confidenceScore": 0.89
+                },
+                {
+                    "text": "Atlanta",
+                    "category": "Location",
+                    "subcategory": "City",
+                    "offset": 1125,
+                    "length": 7,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Fulton County",
+                    "category": "Location",
+                    "subcategory": "City",
+                    "offset": 1137,
+                    "length": 13,
+                    "confidenceScore": 0.97
+                },
+                {
+                    "text": "purchasing",
+                    "category": "Skill",
+                    "offset": 1151,
+                    "length": 10,
+                    "confidenceScore": 0.95
+                },
+                {
+                    "text": "jury",
+                    "category": "PersonType",
+                    "offset": 1335,
+                    "length": 4,
+                    "confidenceScore": 0.58
+                },
+                {
+                    "text": "two",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 1364,
+                    "length": 3,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "offices",
+                    "category": "Location",
+                    "offset": 1368,
+                    "length": 7,
+                    "confidenceScore": 0.73
+                },
+                {
+                    "text": "administration",
+                    "category": "Skill",
+                    "offset": 1448,
+                    "length": 14,
+                    "confidenceScore": 0.91
+                },
+                {
+                    "text": "City Purchasing Department",
+                    "category": "Organization",
+                    "offset": 1472,
+                    "length": 26,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "personnel",
+                    "category": "PersonType",
+                    "offset": 1551,
+                    "length": 9,
+                    "confidenceScore": 0.56
+                },
+                {
+                    "text": "city",
+                    "category": "Location",
+                    "offset": 1620,
+                    "length": 4,
+                    "confidenceScore": 0.65
+                },
+                {
+                    "text": "Georgia",
+                    "category": "Location",
+                    "subcategory": "CountryRegion",
+                    "offset": 1683,
+                    "length": 7,
+                    "confidenceScore": 0.98
+                },
+                {
+                    "text": "Legislature",
+                    "category": "Skill",
+                    "offset": 1781,
+                    "length": 11,
+                    "confidenceScore": 0.53
+                },
+                {
+                    "text": "implementation",
+                    "category": "Skill",
+                    "offset": 1866,
+                    "length": 14,
+                    "confidenceScore": 0.92
+                },
+                {
+                    "text": "law",
+                    "category": "Skill",
+                    "offset": 1888,
+                    "length": 3,
+                    "confidenceScore": 0.68
+                },
+                {
+                    "text": "State Welfare Department",
+                    "category": "Organization",
+                    "offset": 1948,
+                    "length": 24,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "services",
+                    "category": "Skill",
+                    "offset": 2027,
+                    "length": 8,
+                    "confidenceScore": 0.64
+                },
+                {
+                    "text": "foster homes",
+                    "category": "Location",
+                    "offset": 2039,
+                    "length": 12,
+                    "confidenceScore": 0.96
+                },
+                {
+                    "text": "one",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 2065,
+                    "length": 3,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "Fulton County",
+                    "category": "Location",
+                    "subcategory": "City",
+                    "offset": 2095,
+                    "length": 13,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "jury",
+                    "category": "PersonType",
+                    "offset": 2142,
+                    "length": 4,
+                    "confidenceScore": 0.87
+                },
+                {
+                    "text": "State Welfare Department",
+                    "category": "Organization",
+                    "offset": 2161,
+                    "length": 24,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Fulton County",
+                    "category": "Location",
+                    "subcategory": "City",
+                    "offset": 2313,
+                    "length": 13,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "jurors",
+                    "category": "PersonType",
+                    "offset": 2370,
+                    "length": 6,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "counties",
+                    "category": "Location",
+                    "offset": 2488,
+                    "length": 8,
+                    "confidenceScore": 0.81
+                },
+                {
+                    "text": "Fulton County",
+                    "category": "Location",
+                    "subcategory": "City",
+                    "offset": 2544,
+                    "length": 13,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "jurors",
+                    "category": "PersonType",
+                    "offset": 2617,
+                    "length": 6,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "Fulton",
+                    "category": "Location",
+                    "subcategory": "Structural",
+                    "offset": 2703,
+                    "length": 6,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Fulton",
+                    "category": "Location",
+                    "subcategory": "City",
+                    "offset": 2703,
+                    "length": 6,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "taxpayers",
+                    "category": "PersonType",
+                    "offset": 2710,
+                    "length": 9,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "jury",
+                    "category": "PersonType",
+                    "offset": 2728,
+                    "length": 4,
+                    "confidenceScore": 0.73
+                },
+                {
+                    "text": "Fulton",
+                    "category": "Location",
+                    "subcategory": "City",
+                    "offset": 2755,
+                    "length": 6,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "court",
+                    "category": "Location",
+                    "offset": 2773,
+                    "length": 5,
+                    "confidenceScore": 0.61
+                },
+                {
+                    "text": "appraisers",
+                    "category": "PersonType",
+                    "offset": 2845,
+                    "length": 10,
+                    "confidenceScore": 0.92
+                },
+                {
+                    "text": "guardians",
+                    "category": "PersonType",
+                    "offset": 2857,
+                    "length": 9,
+                    "confidenceScore": 0.92
+                },
+                {
+                    "text": "administrators",
+                    "category": "PersonType",
+                    "offset": 2871,
+                    "length": 14,
+                    "confidenceScore": 0.95
+                },
+                {
+                    "text": "jury",
+                    "category": "PersonType",
+                    "offset": 2953,
+                    "length": 4,
+                    "confidenceScore": 0.54
+                },
+                {
+                    "text": "operating procedures",
+                    "category": "Skill",
+                    "offset": 3009,
+                    "length": 20,
+                    "confidenceScore": 0.88
+                },
+                {
+                    "text": "two",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 3054,
+                    "length": 3,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "juries",
+                    "category": "PersonType",
+                    "offset": 3073,
+                    "length": 6,
+                    "confidenceScore": 0.51
+                },
+                {
+                    "text": "Atlanta Bar Association",
+                    "category": "Organization",
+                    "offset": 3085,
+                    "length": 23,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "citizens",
+                    "category": "PersonType",
+                    "offset": 3124,
+                    "length": 8,
+                    "confidenceScore": 0.65
+                },
+                {
+                    "text": "appointed",
+                    "category": "PersonType",
+                    "offset": 3249,
+                    "length": 9,
+                    "confidenceScore": 0.73
+                },
+                {
+                    "text": "elected servants",
+                    "category": "PersonType",
+                    "offset": 3263,
+                    "length": 16,
+                    "confidenceScore": 0.74
+                },
+                {
+                    "text": "jury",
+                    "category": "PersonType",
+                    "offset": 3316,
+                    "length": 4,
+                    "confidenceScore": 0.91
+                },
+                {
+                    "text": "Atlanta",
+                    "category": "Location",
+                    "subcategory": "City",
+                    "offset": 3340,
+                    "length": 7,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "million-dollar",
+                    "category": "Quantity",
+                    "subcategory": "Currency",
+                    "offset": 3360,
+                    "length": 14,
+                    "confidenceScore": 0.68
+                },
+                {
+                    "text": "airport",
+                    "category": "Location",
+                    "offset": 3375,
+                    "length": 7,
+                    "confidenceScore": 0.63
+                },
+                {
+                    "text": "1",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 3453,
+                    "length": 1,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "airport",
+                    "category": "Location",
+                    "offset": 3459,
+                    "length": 7,
+                    "confidenceScore": 0.54
+                },
+                {
+                    "text": "surveillance",
+                    "category": "Skill",
+                    "offset": 3607,
+                    "length": 12,
+                    "confidenceScore": 0.55
+                },
+                {
+                    "text": "pricing",
+                    "category": "Skill",
+                    "offset": 3627,
+                    "length": 7,
+                    "confidenceScore": 0.6
+                },
+                {
+                    "text": "concessionaires",
+                    "category": "PersonType",
+                    "offset": 3652,
+                    "length": 15,
+                    "confidenceScore": 0.58
+                },
+                {
+                    "text": "1",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 3788,
+                    "length": 1,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "Four",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 3792,
+                    "length": 4,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "deputies",
+                    "category": "PersonType",
+                    "offset": 3808,
+                    "length": 8,
+                    "confidenceScore": 0.92
+                },
+                {
+                    "text": "Fulton County Jail",
+                    "category": "Location",
+                    "subcategory": "Structural",
+                    "offset": 3836,
+                    "length": 18,
+                    "confidenceScore": 0.93
+                },
+                {
+                    "text": "doctor",
+                    "category": "PersonType",
+                    "offset": 3862,
+                    "length": 6,
+                    "confidenceScore": 0.98
+                },
+                {
+                    "text": "medical intern",
+                    "category": "PersonType",
+                    "offset": 3870,
+                    "length": 14,
+                    "confidenceScore": 0.88
+                },
+                {
+                    "text": "night",
+                    "category": "DateTime",
+                    "subcategory": "TimeRange",
+                    "offset": 3911,
+                    "length": 5,
+                    "confidenceScore": 0.73
+                },
+                {
+                    "text": "weekend",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 3921,
+                    "length": 7,
+                    "confidenceScore": 0.97
+                },
+                {
+                    "text": "jail",
+                    "category": "Location",
+                    "subcategory": "Structural",
+                    "offset": 3941,
+                    "length": 4,
+                    "confidenceScore": 0.72
+                },
+                {
+                    "text": "2",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 3950,
+                    "length": 1,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "legislators",
+                    "category": "PersonType",
+                    "offset": 3961,
+                    "length": 11,
+                    "confidenceScore": 0.68
+                },
+                {
+                    "text": "city officials",
+                    "category": "PersonType",
+                    "offset": 3984,
+                    "length": 14,
+                    "confidenceScore": 0.51
+                },
+                {
+                    "text": "employes",
+                    "category": "PersonType",
+                    "offset": 4110,
+                    "length": 8,
+                    "confidenceScore": 0.49
+                },
+                {
+                    "text": "administration",
+                    "category": "Skill",
+                    "offset": 4142,
+                    "length": 14,
+                    "confidenceScore": 0.9
+                },
+                {
+                    "text": "Atlanta Police Department",
+                    "category": "Organization",
+                    "offset": 4178,
+                    "length": 25,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Fulton Tax Commissioner's Office",
+                    "category": "Organization",
+                    "offset": 4209,
+                    "length": 32,
+                    "confidenceScore": 0.92
+                },
+                {
+                    "text": "Bellwood",
+                    "category": "Location",
+                    "offset": 4247,
+                    "length": 8,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "Alpharetta",
+                    "category": "Location",
+                    "offset": 4260,
+                    "length": 10,
+                    "confidenceScore": 0.97
+                },
+                {
+                    "text": "prison",
+                    "category": "Location",
+                    "subcategory": "Structural",
+                    "offset": 4271,
+                    "length": 6,
+                    "confidenceScore": 0.57
+                },
+                {
+                    "text": "Grady Hospital",
+                    "category": "Organization",
+                    "offset": 4285,
+                    "length": 14,
+                    "confidenceScore": 0.97
+                },
+                {
+                    "text": "Fulton Health Department",
+                    "category": "Organization",
+                    "offset": 4308,
+                    "length": 24,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "William B& Hartsfield",
+                    "category": "Person",
+                    "offset": 4341,
+                    "length": 21,
+                    "confidenceScore": 0.98
+                },
+                {
+                    "text": "wife",
+                    "category": "PersonType",
+                    "offset": 4395,
+                    "length": 4,
+                    "confidenceScore": 0.98
+                },
+                {
+                    "text": "Pearl Williams Hartsfield",
+                    "category": "Person",
+                    "offset": 4401,
+                    "length": 25,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Fulton Superior Court",
+                    "category": "Location",
+                    "offset": 4431,
+                    "length": 21,
+                    "confidenceScore": 0.79
+                },
+                {
+                    "text": "Friday",
+                    "category": "DateTime",
+                    "subcategory": "Date",
+                    "offset": 4453,
+                    "length": 6,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "petition",
+                    "category": "Event",
+                    "offset": 4465,
+                    "length": 8,
+                    "confidenceScore": 0.77
+                },
+                {
+                    "text": "Aug",
+                    "category": "DateTime",
+                    "subcategory": "Date",
+                    "offset": 4524,
+                    "length": 3,
+                    "confidenceScore": 0.51
+                },
+                {
+                    "text": "2",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 4529,
+                    "length": 1,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "1913",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 4532,
+                    "length": 4,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "son",
+                    "category": "PersonType",
+                    "offset": 4550,
+                    "length": 3,
+                    "confidenceScore": 0.96
+                },
+                {
+                    "text": "William Berry Jr&",
+                    "category": "Person",
+                    "offset": 4555,
+                    "length": 17,
+                    "confidenceScore": 0.87
+                },
+                {
+                    "text": "daughter",
+                    "category": "PersonType",
+                    "offset": 4580,
+                    "length": 8,
+                    "confidenceScore": 0.98
+                },
+                {
+                    "text": "Mrs",
+                    "category": "Person",
+                    "offset": 4590,
+                    "length": 3,
+                    "confidenceScore": 0.72
+                },
+                {
+                    "text": "J",
+                    "category": "Person",
+                    "offset": 4595,
+                    "length": 1,
+                    "confidenceScore": 0.56
+                },
+                {
+                    "text": "Cheshire",
+                    "category": "Person",
+                    "offset": 4601,
+                    "length": 8,
+                    "confidenceScore": 0.76
+                },
+                {
+                    "text": "Griffin",
+                    "category": "Location",
+                    "subcategory": "City",
+                    "offset": 4613,
+                    "length": 7,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "Attorneys",
+                    "category": "PersonType",
+                    "offset": 4625,
+                    "length": 9,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "mayor",
+                    "category": "PersonType",
+                    "offset": 4643,
+                    "length": 5,
+                    "confidenceScore": 0.98
+                },
+                {
+                    "text": "mayor",
+                    "category": "PersonType",
+                    "offset": 4740,
+                    "length": 5,
+                    "confidenceScore": 0.97
+                },
+                {
+                    "text": "attorney",
+                    "category": "PersonType",
+                    "offset": 4763,
+                    "length": 8,
+                    "confidenceScore": 0.95
+                },
+                {
+                    "text": "71",
+                    "category": "Quantity",
+                    "subcategory": "Age",
+                    "offset": 4788,
+                    "length": 2,
+                    "confidenceScore": 0.97
+                },
+                {
+                    "text": "wife",
+                    "category": "PersonType",
+                    "offset": 4806,
+                    "length": 4,
+                    "confidenceScore": 0.97
+                },
+                {
+                    "text": "74",
+                    "category": "Quantity",
+                    "subcategory": "Age",
+                    "offset": 4820,
+                    "length": 2,
+                    "confidenceScore": 0.92
+                },
+                {
+                    "text": "Opelika",
+                    "category": "Location",
+                    "subcategory": "City",
+                    "offset": 4845,
+                    "length": 7,
+                    "confidenceScore": 0.91
+                },
+                {
+                    "text": "Ala",
+                    "category": "Location",
+                    "subcategory": "State",
+                    "offset": 4854,
+                    "length": 3,
+                    "confidenceScore": 0.97
+                },
+                {
+                    "text": "wife",
+                    "category": "PersonType",
+                    "offset": 4931,
+                    "length": 4,
+                    "confidenceScore": 0.96
+                },
+                {
+                    "text": "more than a year",
+                    "category": "DateTime",
+                    "subcategory": "Duration",
+                    "offset": 4940,
+                    "length": 16,
+                    "confidenceScore": 0.99
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2023-09-01"
+}
