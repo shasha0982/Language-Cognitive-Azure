@@ -1,0 +1,28 @@
+[
+    {
+        "kind": "AbstractiveSummarizationLROResults",
+        "lastUpdateDateTime": "2024-05-24T08:08:23.9899643Z",
+        "status": "succeeded",
+        "results": {
+            "documents": [
+                {
+                    "summaries": [
+                        {
+                            "text": "The document provides a list of various numbers and their associated references. 0191 is a UK telephone dialing code used by Newcastle, Durham, Sunderland, and other nearby areas. 0120 is a live album from The Mad Capsule Markets. 0 is a 2000 film from Spain about mistaken identity and coincidental meetings. 100,000,000 Bon Jovi Fans Can't Be Wrong is a boxed set released in 2004. 10,000 BC is a British reality television series. 1000 Blank White Cards is a party game played with cards. 1000 Fires is the debut studio album by American singer and actress Traci Lords. 1000 Fires was a successful album by the same name. 1000 heartbeats was a British daytime game show. 1000 Hours is the debut EP by American punk rock band Green Day. 1000 Hours is a debut EP by Green Day. 1000 Days of Summer was an American reality television series. 100-07: L' affaire Zeus is a French Canadian TV police drama series. 100 Books by August Derleth is a bibliography of books by American author August Derleth. 100 Code is a Swedish crime drama series. 100 Days of Summer was a reality television series. 101 Shark Pets is a pet caring simulation.",
+                            "contexts": [
+                                {
+                                    "offset": 0,
+                                    "length": 103331
+                                }
+                            ]
+                        }
+                    ],
+                    "id": "id__942",
+                    "warnings": []
+                }
+            ],
+            "errors": [],
+            "modelVersion": "latest"
+        }
+    }
+]
