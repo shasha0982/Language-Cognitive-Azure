@@ -1,0 +1,2063 @@
+{
+    "documents": [
+        {
+            "id": "id__4335",
+            "sentiment": "mixed",
+            "confidenceScores": {
+                "positive": 0.51,
+                "neutral": 0.16,
+                "negative": 0.32
+            },
+            "sentences": [
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.1,
+                        "neutral": 0.88,
+                        "negative": 0.02
+                    },
+                    "offset": 0,
+                    "length": 16,
+                    "text": "Hello Colorado. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.99,
+                        "neutral": 0,
+                        "negative": 0
+                    },
+                    "offset": 16,
+                    "length": 88,
+                    "text": "We love Colorado, most beautiful place And I'm thrilled to be back in Colorado Springs. ",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 24,
+                            "length": 8,
+                            "text": "Colorado",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/1/assessments/0"
+                                }
+                            ]
+                        },
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 49,
+                            "length": 5,
+                            "text": "place",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/1/assessments/1"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 19,
+                            "length": 4,
+                            "text": "love",
+                            "isNegated": false
+                        },
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 39,
+                            "length": 9,
+                            "text": "beautiful",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.13,
+                        "neutral": 0.85,
+                        "negative": 0.03
+                    },
+                    "offset": 104,
+                    "length": 46,
+                    "text": "I've spent a lot of time here over the years. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.99,
+                        "neutral": 0.01,
+                        "negative": 0
+                    },
+                    "offset": 150,
+                    "length": 147,
+                    "text": "Beautiful place, beneath the majestic peaks, that's true, of the Rocky Mountains with thousands of terrific, hardworking, great American patriots. ",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 160,
+                            "length": 5,
+                            "text": "place",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/3/assessments/0"
+                                }
+                            ]
+                        },
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 278,
+                            "length": 17,
+                            "text": "American patriots",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/3/assessments/1"
+                                },
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/3/assessments/2"
+                                },
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/3/assessments/3"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 150,
+                            "length": 9,
+                            "text": "Beautiful",
+                            "isNegated": false
+                        },
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 249,
+                            "length": 8,
+                            "text": "terrific",
+                            "isNegated": false
+                        },
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 0.99,
+                                "negative": 0.01
+                            },
+                            "offset": 259,
+                            "length": 11,
+                            "text": "hardworking",
+                            "isNegated": false
+                        },
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 272,
+                            "length": 5,
+                            "text": "great",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.49,
+                        "neutral": 0.42,
+                        "negative": 0.1
+                    },
+                    "offset": 297,
+                    "length": 124,
+                    "text": "With your help this November, we are going to defeat the radical Democrats and we are going to win Colorado in a landslide. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.54,
+                        "neutral": 0.44,
+                        "negative": 0.02
+                    },
+                    "offset": 421,
+                    "length": 94,
+                    "text": "And you're going to help us get Cory Gardner across that line because he's been with us 100%. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.03,
+                        "neutral": 0.73,
+                        "negative": 0.24
+                    },
+                    "offset": 515,
+                    "length": 21,
+                    "text": "there was no waiver. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.06,
+                        "neutral": 0.91,
+                        "negative": 0.03
+                    },
+                    "offset": 536,
+                    "length": 19,
+                    "text": "He's been with us. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.85,
+                        "negative": 0.14
+                    },
+                    "offset": 555,
+                    "length": 32,
+                    "text": "There was no waiver with Corey. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.9,
+                        "neutral": 0.08,
+                        "negative": 0.02
+                    },
+                    "offset": 587,
+                    "length": 18,
+                    "text": "We appreciate it. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.94,
+                        "neutral": 0.05,
+                        "negative": 0.01
+                    },
+                    "offset": 605,
+                    "length": 17,
+                    "text": "Thank you Corey. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.93,
+                        "neutral": 0.06,
+                        "negative": 0.01
+                    },
+                    "offset": 622,
+                    "length": 11,
+                    "text": "Thank you. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.32,
+                        "neutral": 0.65,
+                        "negative": 0.03
+                    },
+                    "offset": 633,
+                    "length": 47,
+                    "text": "This month we mark a very special anniversary. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.03,
+                        "neutral": 0.24,
+                        "negative": 0.73
+                    },
+                    "offset": 680,
+                    "length": 152,
+                    "text": "75 years ago this week our brave United States Marines landed on the shores of Iwo Jima and began one of the bloodiest battles of the second world war. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.17,
+                        "negative": 0.82
+                    },
+                    "offset": 832,
+                    "length": 20,
+                    "text": "It was a rough one. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.65,
+                        "neutral": 0.33,
+                        "negative": 0.01
+                    },
+                    "offset": 852,
+                    "length": 143,
+                    "text": "Tonight it's our great privilege to be joined by three of the heroes of the Battle of Iwo Jima, James Blaine, Donald Whipple and John Thurman. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.98,
+                        "neutral": 0.01,
+                        "negative": 0
+                    },
+                    "offset": 995,
+                    "length": 42,
+                    "text": "Great, great patriots, very brave people. ",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 1008,
+                            "length": 8,
+                            "text": "patriots",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/16/assessments/0"
+                                },
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/16/assessments/1"
+                                }
+                            ]
+                        },
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 1029,
+                            "length": 6,
+                            "text": "people",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/16/assessments/2"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 995,
+                            "length": 5,
+                            "text": "Great",
+                            "isNegated": false
+                        },
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 1002,
+                            "length": 5,
+                            "text": "great",
+                            "isNegated": false
+                        },
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 1023,
+                            "length": 5,
+                            "text": "brave",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.04,
+                        "neutral": 0.28,
+                        "negative": 0.68
+                    },
+                    "offset": 1037,
+                    "length": 18,
+                    "text": "Just passed away. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.02,
+                        "negative": 0.97
+                    },
+                    "offset": 1055,
+                    "length": 42,
+                    "text": "Sadly he passed away just a few days ago. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.05,
+                        "neutral": 0.9,
+                        "negative": 0.05
+                    },
+                    "offset": 1097,
+                    "length": 25,
+                    "text": "He was going to be here. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.94,
+                        "neutral": 0.04,
+                        "negative": 0.02
+                    },
+                    "offset": 1122,
+                    "length": 46,
+                    "text": "Passed away a few days ago, but he was great. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.87,
+                        "neutral": 0.12,
+                        "negative": 0.02
+                    },
+                    "offset": 1168,
+                    "length": 93,
+                    "text": "I have a beautiful picture of him right outside and we're going to honor him and his family. ",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 1187,
+                            "length": 7,
+                            "text": "picture",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/21/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 1177,
+                            "length": 9,
+                            "text": "beautiful",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.99,
+                        "neutral": 0.01,
+                        "negative": 0
+                    },
+                    "offset": 1261,
+                    "length": 24,
+                    "text": "Great, great gentlemen. ",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 1274,
+                            "length": 9,
+                            "text": "gentlemen",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/22/assessments/0"
+                                },
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/22/assessments/1"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 1261,
+                            "length": 5,
+                            "text": "Great",
+                            "isNegated": false
+                        },
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 1268,
+                            "length": 5,
+                            "text": "great",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.06,
+                        "neutral": 0.92,
+                        "negative": 0.02
+                    },
+                    "offset": 1285,
+                    "length": 31,
+                    "text": "So we were going to have four. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.89,
+                        "neutral": 0.1,
+                        "negative": 0.01
+                    },
+                    "offset": 1316,
+                    "length": 55,
+                    "text": "We have three and we want to thank you for being here. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.93,
+                        "neutral": 0.07,
+                        "negative": 0.01
+                    },
+                    "offset": 1371,
+                    "length": 15,
+                    "text": "Thank you all. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.93,
+                        "neutral": 0.06,
+                        "negative": 0.01
+                    },
+                    "offset": 1386,
+                    "length": 11,
+                    "text": "Thank you. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.93,
+                        "neutral": 0.05,
+                        "negative": 0.02
+                    },
+                    "offset": 1397,
+                    "length": 219,
+                    "text": "Because America is truly a land of heroes, on behalf of the grateful nation I would like to recognize the many veterans of the Vietnam War and the Iraq and Afghanistan Wars who are here this evening, and a lot of them. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.99,
+                        "neutral": 0.01,
+                        "negative": 0
+                    },
+                    "offset": 1616,
+                    "length": 28,
+                    "text": "Great people, great people. ",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 1622,
+                            "length": 6,
+                            "text": "people",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/28/assessments/0"
+                                }
+                            ]
+                        },
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 1636,
+                            "length": 6,
+                            "text": "people",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/28/assessments/1"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 1616,
+                            "length": 5,
+                            "text": "Great",
+                            "isNegated": false
+                        },
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 1630,
+                            "length": 5,
+                            "text": "great",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.89,
+                        "neutral": 0.09,
+                        "negative": 0.01
+                    },
+                    "offset": 1644,
+                    "length": 45,
+                    "text": "This is a truly incredible time for America. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.78,
+                        "neutral": 0.2,
+                        "negative": 0.02
+                    },
+                    "offset": 1689,
+                    "length": 77,
+                    "text": "We have the best economy in our history, the most prosperity of any country. ",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 1706,
+                            "length": 7,
+                            "text": "economy",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/30/assessments/0"
+                                },
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/30/assessments/1"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 1701,
+                            "length": 4,
+                            "text": "best",
+                            "isNegated": false
+                        },
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 1739,
+                            "length": 10,
+                            "text": "prosperity",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.55,
+                        "neutral": 0.37,
+                        "negative": 0.08
+                    },
+                    "offset": 1766,
+                    "length": 75,
+                    "text": "We are doing better than any country in the world, that is not even close. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.05,
+                        "neutral": 0.93,
+                        "negative": 0.02
+                    },
+                    "offset": 1841,
+                    "length": 58,
+                    "text": "And we've rebuilt our military over the last three years. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.04,
+                        "neutral": 0.81,
+                        "negative": 0.15
+                    },
+                    "offset": 1899,
+                    "length": 66,
+                    "text": "Don't tell anybody, but we spent two and a half trillion dollars. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.4,
+                        "neutral": 0.46,
+                        "negative": 0.15
+                    },
+                    "offset": 1965,
+                    "length": 104,
+                    "text": "But when it comes to our military and our safety and our security, we don't worry about budgets, right? ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.43,
+                        "neutral": 0.47,
+                        "negative": 0.1
+                    },
+                    "offset": 2069,
+                    "length": 30,
+                    "text": "We don't worry about budgets. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.25,
+                        "neutral": 0.57,
+                        "negative": 0.18
+                    },
+                    "offset": 2099,
+                    "length": 22,
+                    "text": "We had to rebuild it. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0.02,
+                        "negative": 0.98
+                    },
+                    "offset": 2121,
+                    "length": 17,
+                    "text": "It was depleted. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0.01,
+                        "negative": 0.99
+                    },
+                    "offset": 2138,
+                    "length": 21,
+                    "text": "It was in bad shape. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0.02,
+                        "negative": 0.98
+                    },
+                    "offset": 2159,
+                    "length": 26,
+                    "text": "It was old, it was tired. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.23,
+                        "neutral": 0.61,
+                        "negative": 0.16
+                    },
+                    "offset": 2185,
+                    "length": 66,
+                    "text": "We have the best people in the world, but they had old equipment. ",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 0.97,
+                                "negative": 0.03
+                            },
+                            "offset": 2202,
+                            "length": 6,
+                            "text": "people",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/40/assessments/0"
+                                }
+                            ]
+                        },
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0,
+                                "negative": 1
+                            },
+                            "offset": 2240,
+                            "length": 9,
+                            "text": "equipment",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/40/assessments/1"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 0.97,
+                                "negative": 0.03
+                            },
+                            "offset": 2197,
+                            "length": 4,
+                            "text": "best",
+                            "isNegated": false
+                        },
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0,
+                                "negative": 1
+                            },
+                            "offset": 2236,
+                            "length": 3,
+                            "text": "old",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.11,
+                        "neutral": 0.88,
+                        "negative": 0.01
+                    },
+                    "offset": 2251,
+                    "length": 28,
+                    "text": "Now we have brand new jets. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.05,
+                        "neutral": 0.94,
+                        "negative": 0.01
+                    },
+                    "offset": 2279,
+                    "length": 40,
+                    "text": "We have brand new missiles and rockets. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.98,
+                        "negative": 0.01
+                    },
+                    "offset": 2319,
+                    "length": 40,
+                    "text": "We have everything all made in the USA. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.65,
+                        "neutral": 0.31,
+                        "negative": 0.04
+                    },
+                    "offset": 2359,
+                    "length": 110,
+                    "text": "In my State of the Union Address, I proudly declared that we are in the midst of the great American comeback. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.09,
+                        "neutral": 0.88,
+                        "negative": 0.04
+                    },
+                    "offset": 2469,
+                    "length": 25,
+                    "text": "That's what we're doing. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.49,
+                        "neutral": 0.48,
+                        "negative": 0.03
+                    },
+                    "offset": 2494,
+                    "length": 48,
+                    "text": "Our country is stronger today than ever before. ",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 2498,
+                            "length": 7,
+                            "text": "country",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/46/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 2509,
+                            "length": 8,
+                            "text": "stronger",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.03,
+                        "negative": 0.97
+                    },
+                    "offset": 2542,
+                    "length": 190,
+                    "text": "After three years of ridiculous witch hunts and scams and partisan Democrat crusades, the radical left's attempt to poison our democracy and overturn this last election have totally failed. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.05,
+                        "neutral": 0.48,
+                        "negative": 0.47
+                    },
+                    "offset": 2732,
+                    "length": 111,
+                    "text": "They have been a complete flop and we today have the highest poll numbers we've ever had today, just came out. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.04,
+                        "neutral": 0.75,
+                        "negative": 0.21
+                    },
+                    "offset": 2843,
+                    "length": 100,
+                    "text": "And I don't know if anybody watched last night's debate, it got very big ratings and you know what? ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0.01,
+                        "negative": 0.99
+                    },
+                    "offset": 2943,
+                    "length": 37,
+                    "text": "Mini Mike didn't do well last night. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.03,
+                        "neutral": 0.36,
+                        "negative": 0.61
+                    },
+                    "offset": 2980,
+                    "length": 76,
+                    "text": "I was going to send him a note saying it's not easy doing what I do, is it? ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.09,
+                        "negative": 0.9
+                    },
+                    "offset": 3056,
+                    "length": 21,
+                    "text": "It's not easy, Mike. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0.04,
+                        "negative": 0.96
+                    },
+                    "offset": 3077,
+                    "length": 26,
+                    "text": "Not easy for any of them. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.06,
+                        "negative": 0.93
+                    },
+                    "offset": 3103,
+                    "length": 30,
+                    "text": "Now, Mike didn't do too well. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.91,
+                        "negative": 0.08
+                    },
+                    "offset": 3133,
+                    "length": 18,
+                    "text": "He went way down. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.27,
+                        "neutral": 0.61,
+                        "negative": 0.11
+                    },
+                    "offset": 3151,
+                    "length": 16,
+                    "text": "It's all right. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.99,
+                        "negative": 0
+                    },
+                    "offset": 3167,
+                    "length": 11,
+                    "text": "Mini mike. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.04,
+                        "neutral": 0.92,
+                        "negative": 0.04
+                    },
+                    "offset": 3178,
+                    "length": 38,
+                    "text": "How about Klobuchar, did you see her? ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.03,
+                        "neutral": 0.56,
+                        "negative": 0.41
+                    },
+                    "offset": 3216,
+                    "length": 12,
+                    "text": "She choked. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.04,
+                        "neutral": 0.52,
+                        "negative": 0.44
+                    },
+                    "offset": 3228,
+                    "length": 12,
+                    "text": "She choked. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.25,
+                        "negative": 0.73
+                    },
+                    "offset": 3240,
+                    "length": 22,
+                    "text": "She couldn't breathe. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.04,
+                        "neutral": 0.46,
+                        "negative": 0.5
+                    },
+                    "offset": 3262,
+                    "length": 121,
+                    "text": "Alfred E. Neuman looked at her and said something slightly derogatory and she said, \"Are you accusing me of being dumb?\" ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.06,
+                        "neutral": 0.83,
+                        "negative": 0.11
+                    },
+                    "offset": 3383,
+                    "length": 38,
+                    "text": "Who would make a statement like that? ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.72,
+                        "negative": 0.25
+                    },
+                    "offset": 3421,
+                    "length": 74,
+                    "text": "Because that's really what he was doing, but he doesn't want to say that. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.04,
+                        "neutral": 0.85,
+                        "negative": 0.1
+                    },
+                    "offset": 3495,
+                    "length": 20,
+                    "text": "No, how about that? ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.06,
+                        "neutral": 0.57,
+                        "negative": 0.37
+                    },
+                    "offset": 3515,
+                    "length": 27,
+                    "text": "\"Are you saying I'm dumb?\" ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.08,
+                        "neutral": 0.87,
+                        "negative": 0.05
+                    },
+                    "offset": 3542,
+                    "length": 45,
+                    "text": "That was the end of her campaign in my book. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.86,
+                        "negative": 0.12
+                    },
+                    "offset": 3587,
+                    "length": 20,
+                    "text": "You don't say that. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.03,
+                        "neutral": 0.6,
+                        "negative": 0.37
+                    },
+                    "offset": 3607,
+                    "length": 39,
+                    "text": "Even if it's true, you don't say that. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.08,
+                        "neutral": 0.49,
+                        "negative": 0.43
+                    },
+                    "offset": 3646,
+                    "length": 58,
+                    "text": "They had a crazy person on today on one of the Fox shows. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.56,
+                        "negative": 0.42
+                    },
+                    "offset": 3704,
+                    "length": 55,
+                    "text": "I tell you, Fox doesn't treat us the way they used to. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.49,
+                        "neutral": 0.48,
+                        "negative": 0.03
+                    },
+                    "offset": 3759,
+                    "length": 73,
+                    "text": "But we have the great Sean Hannity, we do, and we have Laura and Tucker. ",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 3781,
+                            "length": 12,
+                            "text": "Sean Hannity",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/72/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 3775,
+                            "length": 5,
+                            "text": "great",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.56,
+                        "neutral": 0.42,
+                        "negative": 0.03
+                    },
+                    "offset": 3832,
+                    "length": 111,
+                    "text": "And we have in the morning Fox and Friends, Steve and Ainsley, and Brian's gotten much better, he's moving up. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.77,
+                        "neutral": 0.21,
+                        "negative": 0.02
+                    },
+                    "offset": 3943,
+                    "length": 33,
+                    "text": "And we have the great Lou Dobbs. ",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 3965,
+                            "length": 9,
+                            "text": "Lou Dobbs",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/74/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 3959,
+                            "length": 5,
+                            "text": "great",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.57,
+                        "neutral": 0.4,
+                        "negative": 0.03
+                    },
+                    "offset": 3976,
+                    "length": 49,
+                    "text": "Lou Dobbs says he's the greatest president ever. ",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 4009,
+                            "length": 9,
+                            "text": "president",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/75/assessments/0"
+                                }
+                            ]
+                        },
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 3976,
+                            "length": 9,
+                            "text": "Lou Dobbs",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/75/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 4000,
+                            "length": 8,
+                            "text": "greatest",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.99,
+                        "neutral": 0.01,
+                        "negative": 0
+                    },
+                    "offset": 4025,
+                    "length": 21,
+                    "text": "The great Lou Dobbs. ",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 4035,
+                            "length": 9,
+                            "text": "Lou Dobbs",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/76/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 4029,
+                            "length": 5,
+                            "text": "great",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.58,
+                        "neutral": 0.39,
+                        "negative": 0.03
+                    },
+                    "offset": 4046,
+                    "length": 95,
+                    "text": "He says, Lou Dobbs a year and a half, two years ago he said, \"He's the greatest since Reagan.\" ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.19,
+                        "neutral": 0.77,
+                        "negative": 0.04
+                    },
+                    "offset": 4141,
+                    "length": 62,
+                    "text": "Then he said about six months ago, \"He's better than Reagan.\" ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.44,
+                        "neutral": 0.5,
+                        "negative": 0.06
+                    },
+                    "offset": 4203,
+                    "length": 71,
+                    "text": "And then he said a few nights ago, \"He's the greatest we've ever had.\" ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.98,
+                        "negative": 0.01
+                    },
+                    "offset": 4274,
+                    "length": 59,
+                    "text": "I said, \"Does that include Lincoln and George Washington?\" ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.97,
+                        "negative": 0.02
+                    },
+                    "offset": 4333,
+                    "length": 35,
+                    "text": "He said, \"That includes them all.\" ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.03,
+                        "neutral": 0.97,
+                        "negative": 0.01
+                    },
+                    "offset": 4368,
+                    "length": 18,
+                    "text": "That's Lou Dobbs. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.98,
+                        "neutral": 0.02,
+                        "negative": 0
+                    },
+                    "offset": 4386,
+                    "length": 21,
+                    "text": "The great Lou Dobbs. ",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 4396,
+                            "length": 9,
+                            "text": "Lou Dobbs",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/83/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 4390,
+                            "length": 5,
+                            "text": "great",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.03,
+                        "neutral": 0.96,
+                        "negative": 0.01
+                    },
+                    "offset": 4407,
+                    "length": 52,
+                    "text": "And you've got Hegseth and you've got Jesse Waters. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.97,
+                        "negative": 0.02
+                    },
+                    "offset": 4459,
+                    "length": 17,
+                    "text": "How about Jesse? ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.04,
+                        "neutral": 0.94,
+                        "negative": 0.02
+                    },
+                    "offset": 4476,
+                    "length": 41,
+                    "text": "And Judge Jeanine and even Greg Gutfeld. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.07,
+                        "neutral": 0.22,
+                        "negative": 0.71
+                    },
+                    "offset": 4517,
+                    "length": 22,
+                    "text": "Greg hated us, right? ",
+                    "targets": [
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0.04,
+                                "negative": 0.96
+                            },
+                            "offset": 4517,
+                            "length": 4,
+                            "text": "Greg",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/87/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0.04,
+                                "negative": 0.96
+                            },
+                            "offset": 4522,
+                            "length": 5,
+                            "text": "hated",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.1,
+                        "neutral": 0.8,
+                        "negative": 0.11
+                    },
+                    "offset": 4539,
+                    "length": 68,
+                    "text": "But now he says, \"Look, whether I like him or not, he gets it done. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.1,
+                        "neutral": 0.87,
+                        "negative": 0.03
+                    },
+                    "offset": 4607,
+                    "length": 33,
+                    "text": "It's all about getting it done.\" ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.07,
+                        "neutral": 0.92,
+                        "negative": 0.01
+                    },
+                    "offset": 4640,
+                    "length": 23,
+                    "text": "We're getting it done. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.04,
+                        "neutral": 0.54,
+                        "negative": 0.42
+                    },
+                    "offset": 4663,
+                    "length": 36,
+                    "text": "Nobody's ever done what we've done. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.93,
+                        "negative": 0.06
+                    },
+                    "offset": 4699,
+                    "length": 52,
+                    "text": "No, but Fox says, and I don't know, it's different. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.88,
+                        "negative": 0.1
+                    },
+                    "offset": 4751,
+                    "length": 18,
+                    "text": "It was different. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.74,
+                        "neutral": 0.23,
+                        "negative": 0.02
+                    },
+                    "offset": 4769,
+                    "length": 39,
+                    "text": "In the old days, it was better for us. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.88,
+                        "neutral": 0.08,
+                        "negative": 0.04
+                    },
+                    "offset": 4808,
+                    "length": 22,
+                    "text": "It was better for us. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.41,
+                        "neutral": 0.46,
+                        "negative": 0.12
+                    },
+                    "offset": 4830,
+                    "length": 33,
+                    "text": "But it's okay, we'll win anyway. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.03,
+                        "neutral": 0.91,
+                        "negative": 0.06
+                    },
+                    "offset": 4863,
+                    "length": 32,
+                    "text": "No, but they had this woman on. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.04,
+                        "negative": 0.95
+                    },
+                    "offset": 4895,
+                    "length": 36,
+                    "text": "Neil Cavuto, doesn't treat us good. ",
+                    "targets": [
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0,
+                                "negative": 1
+                            },
+                            "offset": 4895,
+                            "length": 11,
+                            "text": "Neil Cavuto",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/98/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0,
+                                "negative": 1
+                            },
+                            "offset": 4925,
+                            "length": 4,
+                            "text": "good",
+                            "isNegated": true
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.1,
+                        "negative": 0.88
+                    },
+                    "offset": 4931,
+                    "length": 32,
+                    "text": "Neil Cavuto, he's not too good. ",
+                    "targets": [
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0,
+                                "negative": 1
+                            },
+                            "offset": 4931,
+                            "length": 11,
+                            "text": "Neil Cavuto",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/99/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0,
+                                "negative": 1
+                            },
+                            "offset": 4957,
+                            "length": 4,
+                            "text": "good",
+                            "isNegated": true
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.87,
+                        "negative": 0.11
+                    },
+                    "offset": 4963,
+                    "length": 30,
+                    "text": "She said, \"I don't like him.\" ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.1,
+                        "neutral": 0.78,
+                        "negative": 0.13
+                    },
+                    "offset": 4993,
+                    "length": 7,
+                    "text": "Nobody ",
+                    "targets": [],
+                    "assessments": []
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2022-11-01"
+}
