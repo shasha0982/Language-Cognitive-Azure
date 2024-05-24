@@ -17,16 +17,18 @@ Summarization Extractive & Abstractive - https://github.com/shasha0982/Language-
 
 
 
-# 2) . Anime Recommendation Database 2020
+# 2) . Tweets Blogs News
 
 
-Dataset - https://www.kaggle.com/datasets/hernan4444/anime-recommendation-database-2020?select=anime.csv
+Dataset - https://www.kaggle.com/datasets/crmercado/tweets-blogs-news-swiftkey-dataset-4million
 
-Extract PII -
+Extract PII - https://github.com/shasha0982/Language-Cognitive-Azure/blob/main/extract-pii-twitter.json
 
-NER -
+NER - https://github.com/shasha0982/Language-Cognitive-Azure/blob/main/ner-twitter.json
 
-Summarization Extractive & Abstractive -
+Sentiment Analysis - https://github.com/shasha0982/Language-Cognitive-Azure/blob/main/sentiment-analysis-twiter.json
+
+Summarization Extractive & Abstractive - https://github.com/shasha0982/Language-Cognitive-Azure/blob/main/summarization-twitter.json
 
 
 
@@ -36,14 +38,11 @@ Summarization Extractive & Abstractive -
 
 Dataset - https://www.kaggle.com/datasets/wjburns/common-password-list-rockyoutxt
 
-Extract PII - https://github.com/shasha0982/Language-Cognitive-Azure/blob/main/extract-pii-password-list
+Extract PII - https://github.com/shasha0982/Language-Cognitive-Azure/blob/main/extract-pii-password-list.json
 
-NER - https://github.com/shasha0982/Language-Cognitive-Azure/blob/main/ner-password-list
+NER - https://github.com/shasha0982/Language-Cognitive-Azure/blob/main/ner-password-list.json
 
-Sentiment Analysis - https://github.com/shasha0982/Language-Cognitive-Azure/blob/main/sentiment-analysis-password-list
-
-Summarization Extractive & Abstractive - 
-
+Sentiment Analysis - https://github.com/shasha0982/Language-Cognitive-Azure/blob/main/sentiment-analysis-password-list.json
 
 
 
@@ -52,7 +51,7 @@ Summarization Extractive & Abstractive -
 
 Dataset - https://www.kaggle.com/datasets/ankurzing/sentiment-analysis-for-financial-news
 
-Extract PII - https://github.com/shasha0982/Language-Cognitive-Azure/blob/main/extract-pii-finance.
+Extract PII - https://github.com/shasha0982/Language-Cognitive-Azure/blob/main/extract-pii-finance.json
 
 Sentiment Analysis - https://github.com/shasha0982/Language-Cognitive-Azure/blob/main/sentiment-finance.json
 
@@ -73,7 +72,7 @@ Extract PII - https://github.com/shasha0982/Language-Cognitive-Azure/blob/main/e
 
 Sentiment Analysis - https://github.com/shasha0982/Language-Cognitive-Azure/blob/main/bike-sentiment-analysis.json
 
-NER - https://github.com/shasha0982/Language-Cognitive-Azure/blob/main/ner-bike
+NER - https://github.com/shasha0982/Language-Cognitive-Azure/blob/main/ner-bike.json
 
 Summarization Extractive & Abstractive - https://github.com/shasha0982/Language-Cognitive-Azure/blob/main/bike-summarization.json
 
@@ -88,7 +87,7 @@ Extract PII - https://github.com/shasha0982/Language-Cognitive-Azure/blob/main/e
 
 Sentiment Analysis - https://github.com/shasha0982/Language-Cognitive-Azure/blob/main/sentiment-analysis-wikipedia.json
 
-NER - https://github.com/shasha0982/Language-Cognitive-Azure/blob/main/ner-wikipedia
+NER - https://github.com/shasha0982/Language-Cognitive-Azure/blob/main/ner-wikipedia.json
 
 Summarization Extractive & Abstractive - https://github.com/shasha0982/Language-Cognitive-Azure/blob/main/summarization-wikipedia.json
 
@@ -99,11 +98,11 @@ Summarization Extractive & Abstractive - https://github.com/shasha0982/Language-
 
 Dataset - https://www.kaggle.com/datasets/bittlingmayer/spelling?select=big.txt
 
-Extract PII - https://github.com/shasha0982/Language-Cognitive-Azure/blob/main/extract-pii-spelling-corrector
+Extract PII - https://github.com/shasha0982/Language-Cognitive-Azure/blob/main/extract-pii-spelling-corrector.json
 
 Sentiment Analysis - https://github.com/shasha0982/Language-Cognitive-Azure/blob/main/sentiment-analysis-spelling-corrector.json
 
-NER - https://github.com/shasha0982/Language-Cognitive-Azure/blob/main/ner-spelling-corrector
+NER - https://github.com/shasha0982/Language-Cognitive-Azure/blob/main/ner-spelling-corrector.json
 
 Summarization Extractive & Abstractive - https://github.com/shasha0982/Language-Cognitive-Azure/blob/main/summarization-spelling-corrector.json
 
@@ -115,13 +114,13 @@ Summarization Extractive & Abstractive - https://github.com/shasha0982/Language-
 
 Dataset - https://www.kaggle.com/datasets/luisgasparcordeiro/14-million-word-corpus-txt
 
-Extract PII -
+Extract PII - https://github.com/shasha0982/Language-Cognitive-Azure/blob/main/extract-pii-corpus.json
 
-Sentiment Analysis - 
+Sentiment Analysis - https://github.com/shasha0982/Language-Cognitive-Azure/blob/main/sentiment-analysis-corpus.json
 
-NER -
+NER - https://github.com/shasha0982/Language-Cognitive-Azure/blob/main/ner-corpus.json
 
-Summarization Extractive & Abstractive -
+Summarization Extractive & Abstractive - https://github.com/shasha0982/Language-Cognitive-Azure/blob/main/summarization-14-%20million-word-corpus.json
 
 
 
@@ -131,13 +130,13 @@ Summarization Extractive & Abstractive -
 
 Dataset - https://www.kaggle.com/datasets/christianlillelund/donald-trumps-rallies
 
-Extract PII -
+Extract PII - https://github.com/shasha0982/Language-Cognitive-Azure/blob/main/extract-pii-donald-trump.json
 
-Sentiment Analysis - 
+Sentiment Analysis - https://github.com/shasha0982/Language-Cognitive-Azure/blob/main/sentiment-analysis-donald-trump
 
-NER -
+NER - https://github.com/shasha0982/Language-Cognitive-Azure/blob/main/ner-donald-trump.json
 
-Summarization Extractive & Abstractive -
+Summarization Extractive & Abstractive - https://github.com/shasha0982/Language-Cognitive-Azure/blob/main/summarization-tally-speeches.json
 
 
 
@@ -147,12 +146,12 @@ Summarization Extractive & Abstractive -
 
 Dataset - https://www.kaggle.com/datasets/rtatman/questionanswer-dataset?select=S09_question_answer_pairs.txt
 
-Extract PII -
+Extract PII - https://github.com/shasha0982/Language-Cognitive-Azure/blob/main/extract-pii-q%26a-08
 
-Sentiment Analysis - 
+Sentiment Analysis - https://github.com/shasha0982/Language-Cognitive-Azure/blob/main/sentiment-analysis-q%26a08.json
 
-NER -
+NER - https://github.com/shasha0982/Language-Cognitive-Azure/blob/main/ner-q%26a-08.json
 
-Summarization Extractive & Abstractive -
+Summarization Extractive & Abstractive - https://github.com/shasha0982/Language-Cognitive-Azure/blob/main/Summarization-Q%26A-08.json
 
 
