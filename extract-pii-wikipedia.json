@@ -1,0 +1,506 @@
+{
+    "documents": [
+        {
+            "redactedText": "0.000123, which corresponds to a distance of 705 Mly, or 216 Mpc.\r\n000webhost is a free web hosting service, operated by *********.\r\n0010x0010 is a *****-born audiovisual ******, currently living in Los Angeles.\r\n******* is an alcohol abuse prevention program developed in 2004 at Francis E. Warren Air Force Base based on research by the ************************************************** regarding binge drinking in ****************.\r\n0.01 is the debut studio album of ********, released on ***************** by ********************.\r\n001 of ***************, which was signed between the ************************************, and *******.\r\n****** is a ************ food manufacturer.\r\n0.04%Gas molecules in soil are in continuous thermal motion according to the kinetic theory of gasses, there is also collision between molecules - a random walk.\r\n0.04% of the votes were invalid.\r\n005.1999.06 is the fifth studio album by the ************ ****** and ******* ************.\r\n005 is a 1981 arcade game by ****.\r\n007 Legends is a first-person shooter video game featuring the character of ******* ************ **********.\r\n007 Legends is the fourth and final ********** game title released by **********, the last game ******* developed before the company ceased operations and also the last ********** video game to be available on home video game systems, to date.\r\n007 Racing is a racing video game based on the ********** license.\r\n00 AM PST and burned a total of 8,110 acres.\r\n00am to 1:00pm on ***, and it is the biggest project to date this year by the network and hosted by majority of the network's bunch of talents collectively known as \"HappyPeeps\".\r\n0.0 is a live album by *********** that came out on **************************** perform some of their shows under the name Melt-Banana Lite, which means that they perform their music with a different arrangement.\r\n0.0% is considered to be the start of the retracement, while 100.0% is a complete reversal to the original part of the move.\r\n00 pm in daily goes on rerun programs to simultaneously networks.\r\n00 - The ****** started to throw objects with a catapult.\r\n********* as noted in the catalog.\r\n010 being the areacode for the city of Rotterdam.\r\n010 is the debut studio album by the rock band *******.\r\n01.10 denotes to January 2010.The album was released on ***************\r\n********).The ID3 specifications require that multibyte numbers such as these be stored in big-endian order, so the bytes will be ordered exactly as laid out in the examples above.\r\n0114 is the national dialing code for Sheffield in the United Kingdom.\r\n0:12 Revolution in Just Listening is the third studio album to be released by Missouri band ********, which was released on ***************** through ***************.\r\n0137 was a live-broadcast German talk show.\r\n013 is a music venue in Tilburg, the Netherlands.\r\n013 is the largest popular music venue in the southern Netherlands.\r\n************* is the fourth album from Scottish rock band ***.\r\n01:59PM is the first studio album by South Korean boy band, ***.\r\n01708 is the national dialing code for Romford in the United Kingdom.\r\n0181 is a compilation album by ********, released by ************ in January 2013.\r\n0191 is the UK telephone dialing code used by Newcastle, Durham, Sunderland and other nearby areas in the north east of England.\r\n01-cv-01351-TEH (N.D. Cal.), is a federal class action civil rights lawsuit alleging that the *******************************************************'s (****) medical services are inadequate and violate the Eighth Amendment, the ********* with ************ Act, and section 504 of the Rehabilitation Act of 1973.\r\n01 Gallery has been frequented by Los Angeles ********* such as ****************, **************, **************** and ************.\r\n01 Gallery (or Zero One Gallery) is a contemporary art gallery located in downtown Los Angeles, California, U.S., founded by ********** and ******* ***********.\r\n01 Instrumentals was released on **************\r\n01 is ***********'s debut album, released in 2008.\r\n0.1% of all web pages use Windows-1254 in February 2016.\r\n01 Properties Ladies Cup is a tournament for professional female ************** played on indoor hard courts.\r\n01, the digital album was released on **************** and the CD was released on ******************\r\n01 was published in January 2008.\r\n01 was voted top selling anime/special effects DVD in Japan in 2008 with 97,292 copies.\r\n****** is a live album from The Mad Capsule Markets.\r\n020 is the national dialing code for London in the United Kingdom.\r\n02138 was an independent magazine founded in 2006 by ******* and ***********, later purchased by ************** (*************); it featured ********* of ******************.\r\n021 is also the area code of Tehran, where ****** of Deep Dish was born.\r\n0229 62-SK is derived from pGreenII 0229, the LacZ blue/white cloning selection has been replaced with a 35S-MCS-CaMV cassette that allows the insertion of a gene of interest i",
+            "id": "id__2951",
+            "entities": [
+                {
+                    "text": "Hostinger",
+                    "category": "Organization",
+                    "offset": 120,
+                    "length": 9,
+                    "confidenceScore": 0.98
+                },
+                {
+                    "text": "Dutch",
+                    "category": "PersonType",
+                    "offset": 146,
+                    "length": 5,
+                    "confidenceScore": 0.55
+                },
+                {
+                    "text": "artist",
+                    "category": "PersonType",
+                    "offset": 169,
+                    "length": 6,
+                    "confidenceScore": 0.48
+                },
+                {
+                    "text": "0-0-1-3",
+                    "category": "PhoneNumber",
+                    "offset": 210,
+                    "length": 7,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "National Institute on Alcohol Abuse and Alcoholism",
+                    "category": "Organization",
+                    "offset": 336,
+                    "length": 50,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "college students",
+                    "category": "PersonType",
+                    "offset": 415,
+                    "length": 16,
+                    "confidenceScore": 0.71
+                },
+                {
+                    "text": "H3llb3nt",
+                    "category": "Organization",
+                    "offset": 467,
+                    "length": 8,
+                    "confidenceScore": 0.96
+                },
+                {
+                    "text": "February 20, 1996",
+                    "category": "DateTime",
+                    "subcategory": "Date",
+                    "offset": 489,
+                    "length": 17,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Fifth Colvmn Records",
+                    "category": "Organization",
+                    "offset": 510,
+                    "length": 20,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "3 February 1997",
+                    "category": "DateTime",
+                    "subcategory": "Date",
+                    "offset": 539,
+                    "length": 15,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "Government of the Republic of Rwanda",
+                    "category": "Organization",
+                    "offset": 585,
+                    "length": 36,
+                    "confidenceScore": 0.87
+                },
+                {
+                    "text": "FAPADER",
+                    "category": "Organization",
+                    "offset": 627,
+                    "length": 7,
+                    "confidenceScore": 0.96
+                },
+                {
+                    "text": "003230",
+                    "category": "PhoneNumber",
+                    "offset": 636,
+                    "length": 6,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "South Korean",
+                    "category": "PersonType",
+                    "offset": 648,
+                    "length": 12,
+                    "confidenceScore": 0.65
+                },
+                {
+                    "text": "South Korean",
+                    "category": "PersonType",
+                    "offset": 920,
+                    "length": 12,
+                    "confidenceScore": 0.83
+                },
+                {
+                    "text": "singer",
+                    "category": "PersonType",
+                    "offset": 933,
+                    "length": 6,
+                    "confidenceScore": 0.73
+                },
+                {
+                    "text": "actress",
+                    "category": "PersonType",
+                    "offset": 944,
+                    "length": 7,
+                    "confidenceScore": 0.97
+                },
+                {
+                    "text": "Uhm Jung-hwa",
+                    "category": "Person",
+                    "offset": 952,
+                    "length": 12,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Sega",
+                    "category": "Organization",
+                    "offset": 995,
+                    "length": 4,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "British",
+                    "category": "PersonType",
+                    "offset": 1077,
+                    "length": 7,
+                    "confidenceScore": 0.82
+                },
+                {
+                    "text": "secret agent",
+                    "category": "PersonType",
+                    "offset": 1085,
+                    "length": 12,
+                    "confidenceScore": 0.67
+                },
+                {
+                    "text": "James Bond",
+                    "category": "Person",
+                    "offset": 1098,
+                    "length": 10,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "James Bond",
+                    "category": "Person",
+                    "offset": 1146,
+                    "length": 10,
+                    "confidenceScore": 0.93
+                },
+                {
+                    "text": "Activision",
+                    "category": "Organization",
+                    "offset": 1180,
+                    "length": 10,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Eurocom",
+                    "category": "Organization",
+                    "offset": 1206,
+                    "length": 7,
+                    "confidenceScore": 0.96
+                },
+                {
+                    "text": "James Bond",
+                    "category": "Person",
+                    "offset": 1279,
+                    "length": 10,
+                    "confidenceScore": 0.93
+                },
+                {
+                    "text": "James Bond",
+                    "category": "Person",
+                    "offset": 1401,
+                    "length": 10,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "TV5",
+                    "category": "Organization",
+                    "offset": 1484,
+                    "length": 3,
+                    "confidenceScore": 0.98
+                },
+                {
+                    "text": "Melt-Banana",
+                    "category": "Organization",
+                    "offset": 1668,
+                    "length": 11,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "November 3, 2009.",
+                    "category": "DateTime",
+                    "subcategory": "Date",
+                    "offset": 1697,
+                    "length": 17,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "Melt-Banana",
+                    "category": "Organization",
+                    "offset": 1714,
+                    "length": 11,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "rebels",
+                    "category": "PersonType",
+                    "offset": 2059,
+                    "length": 6,
+                    "confidenceScore": 0.97
+                },
+                {
+                    "text": "01-04-043",
+                    "category": "DateTime",
+                    "subcategory": "Date",
+                    "offset": 2108,
+                    "length": 9,
+                    "confidenceScore": 0.91
+                },
+                {
+                    "text": "Ulysses",
+                    "category": "Organization",
+                    "offset": 2240,
+                    "length": 7,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "April 26, 2010.",
+                    "category": "DateTime",
+                    "subcategory": "Date",
+                    "offset": 2305,
+                    "length": 15,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "01111111",
+                    "category": "PhoneNumber",
+                    "offset": 2321,
+                    "length": 8,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "Coalesce",
+                    "category": "Organization",
+                    "offset": 2665,
+                    "length": 8,
+                    "confidenceScore": 0.98
+                },
+                {
+                    "text": "November 16, 1999",
+                    "category": "DateTime",
+                    "subcategory": "Date",
+                    "offset": 2697,
+                    "length": 17,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Relapse Records",
+                    "category": "Organization",
+                    "offset": 2723,
+                    "length": 15,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "0141 632 6326",
+                    "category": "PhoneNumber",
+                    "offset": 2902,
+                    "length": 13,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "Gun",
+                    "category": "Organization",
+                    "offset": 2960,
+                    "length": 3,
+                    "confidenceScore": 0.95
+                },
+                {
+                    "text": "2PM",
+                    "category": "Organization",
+                    "offset": 3025,
+                    "length": 3,
+                    "confidenceScore": 0.98
+                },
+                {
+                    "text": "Four Tet",
+                    "category": "Organization",
+                    "offset": 3131,
+                    "length": 8,
+                    "confidenceScore": 0.98
+                },
+                {
+                    "text": "Text Records",
+                    "category": "Organization",
+                    "offset": 3153,
+                    "length": 12,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "California Department of Corrections and Rehabilitation",
+                    "category": "Organization",
+                    "offset": 3406,
+                    "length": 55,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "CDCR",
+                    "category": "Organization",
+                    "offset": 3465,
+                    "length": 4,
+                    "confidenceScore": 0.97
+                },
+                {
+                    "text": "Americans",
+                    "category": "PersonType",
+                    "offset": 3541,
+                    "length": 9,
+                    "confidenceScore": 0.76
+                },
+                {
+                    "text": "Disabilities",
+                    "category": "PersonType",
+                    "offset": 3556,
+                    "length": 12,
+                    "confidenceScore": 0.6
+                },
+                {
+                    "text": "residents",
+                    "category": "PersonType",
+                    "offset": 3671,
+                    "length": 9,
+                    "confidenceScore": 0.71
+                },
+                {
+                    "text": "Raymond Pettibon",
+                    "category": "Person",
+                    "offset": 3689,
+                    "length": 16,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "David Lee Roth",
+                    "category": "Person",
+                    "offset": 3707,
+                    "length": 14,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Tomata du Plenty",
+                    "category": "Person",
+                    "offset": 3723,
+                    "length": 16,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "John Belushi",
+                    "category": "Person",
+                    "offset": 3744,
+                    "length": 12,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "art dealer",
+                    "category": "PersonType",
+                    "offset": 3883,
+                    "length": 10,
+                    "confidenceScore": 0.88
+                },
+                {
+                    "text": "curator",
+                    "category": "PersonType",
+                    "offset": 3898,
+                    "length": 7,
+                    "confidenceScore": 0.9
+                },
+                {
+                    "text": "John Pochna",
+                    "category": "Person",
+                    "offset": 3906,
+                    "length": 11,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "June 25, 2013.",
+                    "category": "DateTime",
+                    "subcategory": "Date",
+                    "offset": 3952,
+                    "length": 14,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Blue Stahli",
+                    "category": "Person",
+                    "offset": 3973,
+                    "length": 11,
+                    "confidenceScore": 0.97
+                },
+                {
+                    "text": "tennis players",
+                    "category": "PersonType",
+                    "offset": 4140,
+                    "length": 14,
+                    "confidenceScore": 0.63
+                },
+                {
+                    "text": "December 9, 2011",
+                    "category": "DateTime",
+                    "subcategory": "Date",
+                    "offset": 4223,
+                    "length": 16,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "December 16, 2011.",
+                    "category": "DateTime",
+                    "subcategory": "Date",
+                    "offset": 4267,
+                    "length": 18,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "020120",
+                    "category": "PhoneNumber",
+                    "offset": 4408,
+                    "length": 6,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "Bom Kim",
+                    "category": "Person",
+                    "offset": 4581,
+                    "length": 7,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Daniel Loss",
+                    "category": "Person",
+                    "offset": 4593,
+                    "length": 11,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Atlantic Media",
+                    "category": "Organization",
+                    "offset": 4625,
+                    "length": 14,
+                    "confidenceScore": 0.98
+                },
+                {
+                    "text": "David Bradley",
+                    "category": "Person",
+                    "offset": 4641,
+                    "length": 13,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "graduates",
+                    "category": "PersonType",
+                    "offset": 4669,
+                    "length": 9,
+                    "confidenceScore": 0.95
+                },
+                {
+                    "text": "Harvard University",
+                    "category": "Organization",
+                    "subcategory": "Sports",
+                    "offset": 4682,
+                    "length": 18,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Sharam",
+                    "category": "Person",
+                    "offset": 4745,
+                    "length": 6,
+                    "confidenceScore": 1
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2023-09-01"
+}
