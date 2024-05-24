@@ -1,0 +1,515 @@
+{
+    "documents": [
+        {
+            "id": "id__4033",
+            "sentiment": "negative",
+            "confidenceScores": {
+                "positive": 0.03,
+                "neutral": 0.33,
+                "negative": 0.64
+            },
+            "sentences": [
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.58,
+                        "negative": 0.4
+                    },
+                    "offset": 0,
+                    "length": 157,
+                    "text": "The Fulton County Grand Jury said Friday an investigation of Atlanta's recent primary election produced \"no evidence\" that any irregularities took place.     ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.23,
+                        "neutral": 0.64,
+                        "negative": 0.12
+                    },
+                    "offset": 157,
+                    "length": 233,
+                    "text": "The jury further said in term-end presentments that the City Executive Committee, which had over-all charge of the election, \"deserves the praise and thanks of the City of Atlanta\" for the manner in which the election was conducted.\r\n",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.03,
+                        "neutral": 0.38,
+                        "negative": 0.59
+                    },
+                    "offset": 390,
+                    "length": 222,
+                    "text": "The September-October term jury had been charged by Fulton Superior Court Judge Durwood Pye to investigate reports of possible \"irregularities\" in the hard-fought primary which was won by Mayor-nominate Ivan Allen Jr&.     ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.76,
+                        "negative": 0.22
+                    },
+                    "offset": 612,
+                    "length": 177,
+                    "text": "\"Only a relative handful of such reports was received\", the jury said, \"considering the widespread interest in the election, the number of voters and the size of this city\".     ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.27,
+                        "negative": 0.72
+                    },
+                    "offset": 789,
+                    "length": 133,
+                    "text": "The jury said it did find that many of Georgia's registration and election laws \"are outmoded or inadequate and often ambiguous\".     ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.3,
+                        "neutral": 0.67,
+                        "negative": 0.02
+                    },
+                    "offset": 922,
+                    "length": 133,
+                    "text": "It recommended that Fulton legislators act \"to have these laws studied and revised to the end of modernizing and improving them\".     ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.43,
+                        "neutral": 0.51,
+                        "negative": 0.06
+                    },
+                    "offset": 1055,
+                    "length": 246,
+                    "text": "The grand jury commented on a number of other topics, among them the Atlanta and Fulton County purchasing departments which it said \"are well operated and follow generally accepted practices which inure to the best interest of both governments\".\r\n",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.14,
+                        "neutral": 0.84,
+                        "negative": 0.02
+                    },
+                    "offset": 1301,
+                    "length": 17,
+                    "text": "#MERGER PROPOSED#\r\n",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.07,
+                        "neutral": 0.87,
+                        "negative": 0.06
+                    },
+                    "offset": 1318,
+                    "length": 145,
+                    "text": "However, the jury said it believes \"these two offices should be combined to achieve greater efficiency and reduce the cost of administration\".     ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.34,
+                        "negative": 0.64
+                    },
+                    "offset": 1463,
+                    "length": 133,
+                    "text": "The City Purchasing Department, the jury said, \"is lacking in experienced clerical personnel as a result of city personnel policies\". ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.06,
+                        "neutral": 0.46,
+                        "negative": 0.48
+                    },
+                    "offset": 1596,
+                    "length": 64,
+                    "text": "It urged that the city \"take steps to remedy\" this problem.     ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.3,
+                        "neutral": 0.68,
+                        "negative": 0.02
+                    },
+                    "offset": 1660,
+                    "length": 92,
+                    "text": "Implementation of Georgia's automobile title law was also recommended by the outgoing jury.\r\n",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.15,
+                        "neutral": 0.82,
+                        "negative": 0.03
+                    },
+                    "offset": 1752,
+                    "length": 154,
+                    "text": "It urged that the next Legislature \"provide enabling funds and re-set the effective date so that an orderly implementation of the law may be effected\".     ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.05,
+                        "neutral": 0.62,
+                        "negative": 0.33
+                    },
+                    "offset": 1906,
+                    "length": 143,
+                    "text": "The grand jury took a swipe at the State Welfare Department's handling of federal funds granted for child welfare services in foster homes.     ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.1,
+                        "neutral": 0.58,
+                        "negative": 0.32
+                    },
+                    "offset": 2049,
+                    "length": 310,
+                    "text": "\"This is one of the major items in the Fulton County general assistance program\", the jury said, but the State Welfare Department \"has seen fit to distribute these funds through the welfare departments of all the counties in the state with the exception of Fulton County, which receives none of this money.     ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.03,
+                        "neutral": 0.47,
+                        "negative": 0.5
+                    },
+                    "offset": 2359,
+                    "length": 136,
+                    "text": "The jurors said they realize \"a proportionate distribution of these funds might disable this program in our less populous counties\".     ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.07,
+                        "neutral": 0.9,
+                        "negative": 0.04
+                    },
+                    "offset": 2495,
+                    "length": 127,
+                    "text": "Nevertheless, \"we feel that in the future Fulton County should receive some portion of these available funds\", the jurors said. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.04,
+                        "neutral": 0.29,
+                        "negative": 0.67
+                    },
+                    "offset": 2622,
+                    "length": 95,
+                    "text": "\"Failure to do this will continue to place a disproportionate burden\" on Fulton taxpayers.     ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.17,
+                        "negative": 0.82
+                    },
+                    "offset": 2717,
+                    "length": 205,
+                    "text": "The jury also commented on the Fulton ordinary's court which has been under fire for its practices in the appointment of appraisers, guardians and administrators and the awarding of fees and compensation.\r\n",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.31,
+                        "neutral": 0.68,
+                        "negative": 0.01
+                    },
+                    "offset": 2922,
+                    "length": 17,
+                    "text": "#WARDS PROTECTED#\r\n",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.57,
+                        "negative": 0.42
+                    },
+                    "offset": 2939,
+                    "length": 194,
+                    "text": "The jury said it found the court \"has incorporated into its operating procedures the recommendations\" of two previous grand juries, the Atlanta Bar Association and an interim citizens committee.\r\n",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.03,
+                        "neutral": 0.32,
+                        "negative": 0.64
+                    },
+                    "offset": 3133,
+                    "length": 184,
+                    "text": "\"These actions should serve to protect in fact and in effect the court's wards from undue costs and its appointed and elected servants from unmeritorious criticisms\", the jury said.     ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.06,
+                        "neutral": 0.63,
+                        "negative": 0.31
+                    },
+                    "offset": 3317,
+                    "length": 204,
+                    "text": "Regarding Atlanta's new multi-million-dollar airport, the jury recommended \"that when the new management takes charge Jan& 1 the airport be operated in a manner that will eliminate political influences\".\r\n",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.93,
+                        "negative": 0.05
+                    },
+                    "offset": 3521,
+                    "length": 183,
+                    "text": "The jury did not elaborate, but it added that \"there should be periodic surveillance of the pricing practices of the concessionaires for the purpose of keeping the prices reasonable\".\r\n",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 0.96,
+                                "negative": 0.04
+                            },
+                            "offset": 3568,
+                            "length": 4,
+                            "text": "jury",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/23/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 0.96,
+                                "negative": 0.04
+                            },
+                            "offset": 3581,
+                            "length": 9,
+                            "text": "elaborate",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.08,
+                        "neutral": 0.83,
+                        "negative": 0.09
+                    },
+                    "offset": 3704,
+                    "length": 19,
+                    "text": "#ASK JAIL DEPUTIES#\r\n",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.55,
+                        "negative": 0.43
+                    },
+                    "offset": 3723,
+                    "length": 205,
+                    "text": "On other matters, the jury recommended that: _(1)_ Four additional deputies be employed at the Fulton County Jail and \"a doctor, medical intern or extern be employed for night and weekend duty at the jail\". ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.25,
+                        "neutral": 0.73,
+                        "negative": 0.02
+                    },
+                    "offset": 3928,
+                    "length": 173,
+                    "text": "_(2)_ Fulton legislators \"work with city officials to pass enabling legislation that will permit the establishment of a fair and equitable\" pension plan for city employes.\r\n",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.21,
+                        "neutral": 0.63,
+                        "negative": 0.16
+                    },
+                    "offset": 4101,
+                    "length": 212,
+                    "text": "The jury praised the administration and operation of the Atlanta Police Department, the Fulton Tax Commissioner's Office, the Bellwood and Alpharetta prison farms, Grady Hospital and the Fulton Health Department.\r\n",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.03,
+                        "neutral": 0.68,
+                        "negative": 0.29
+                    },
+                    "offset": 4313,
+                    "length": 124,
+                    "text": "Mayor William B& Hartsfield filed suit for divorce from his wife, Pearl Williams Hartsfield, in Fulton Superior Court Friday. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.3,
+                        "negative": 0.69
+                    },
+                    "offset": 4437,
+                    "length": 41,
+                    "text": "His petition charged mental cruelty.     ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.03,
+                        "neutral": 0.96,
+                        "negative": 0.01
+                    },
+                    "offset": 4478,
+                    "length": 36,
+                    "text": "The couple was married Aug& 2, 1913. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.97,
+                        "negative": 0.01
+                    },
+                    "offset": 4514,
+                    "length": 88,
+                    "text": "They have a son, William Berry Jr&, and a daughter, Mrs& J& M& Cheshire of Griffin.     ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.13,
+                        "neutral": 0.84,
+                        "negative": 0.02
+                    },
+                    "offset": 4602,
+                    "length": 91,
+                    "text": "Attorneys for the mayor said that an amicable property settlement has been agreed upon.     ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.84,
+                        "negative": 0.15
+                    },
+                    "offset": 4693,
+                    "length": 75,
+                    "text": "The petition listed the mayor's occupation as \"attorney\" and his age as 71. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.98,
+                        "negative": 0.01
+                    },
+                    "offset": 4768,
+                    "length": 72,
+                    "text": "It listed his wife's age as 74 and place of birth as Opelika, Ala&.     ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.5,
+                        "negative": 0.49
+                    },
+                    "offset": 4840,
+                    "length": 95,
+                    "text": "The petition said that the couple has not lived together as man and wife for more than a year.  ",
+                    "targets": [],
+                    "assessments": []
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2022-11-01"
+}
