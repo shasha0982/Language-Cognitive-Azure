@@ -1,0 +1,934 @@
+{
+    "documents": [
+        {
+            "id": "id__1136",
+            "sentiment": "mixed",
+            "confidenceScores": {
+                "positive": 0.24,
+                "neutral": 0.23,
+                "negative": 0.53
+            },
+            "sentences": [
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.98,
+                        "negative": 0.01
+                    },
+                    "offset": 0,
+                    "length": 85,
+                    "text": "This data was collected (2016-2018) through an interactive on-line personality test.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.99,
+                        "negative": 0.01
+                    },
+                    "offset": 85,
+                    "length": 87,
+                    "text": "The personality test was constructed with the \"Big-Five Factor Markers\" from the IPIP. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.97,
+                        "negative": 0.01
+                    },
+                    "offset": 172,
+                    "length": 222,
+                    "text": "https://ipip.ori.org/newBigFive5broadKey.htm  Participants were informed that their responses would be recorded and used for research at the beginning of the test, and asked to confirm their consent at the end of the test.\r\n",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0.98,
+                        "negative": 0.01
+                    },
+                    "offset": 394,
+                    "length": 108,
+                    "text": "The following items were presented on one page and each was rated on a five point scale using radio buttons. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.93,
+                        "negative": 0.06
+                    },
+                    "offset": 502,
+                    "length": 68,
+                    "text": "The order on page was was EXT1, AGR1, CSN1, EST1, OPN1, EXT2, etc.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.03,
+                        "neutral": 0.27,
+                        "negative": 0.7
+                    },
+                    "offset": 570,
+                    "length": 53,
+                    "text": "The scale was labeled 1=Disagree, 3=Neutral, 5=Agree\r\n",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.37,
+                        "neutral": 0.61,
+                        "negative": 0.02
+                    },
+                    "offset": 623,
+                    "length": 32,
+                    "text": "EXT1 I am the life of the party.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.88,
+                        "negative": 0.09
+                    },
+                    "offset": 655,
+                    "length": 25,
+                    "text": "EXT2 I don't talk a lot.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.73,
+                        "neutral": 0.25,
+                        "negative": 0.01
+                    },
+                    "offset": 680,
+                    "length": 39,
+                    "text": "EXT3 I feel comfortable around people.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.98,
+                        "negative": 0.01
+                    },
+                    "offset": 719,
+                    "length": 31,
+                    "text": "EXT4 I keep in the background.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.98,
+                        "negative": 0.01
+                    },
+                    "offset": 750,
+                    "length": 28,
+                    "text": "EXT5 I start conversations.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.07,
+                        "neutral": 0.82,
+                        "negative": 0.12
+                    },
+                    "offset": 778,
+                    "length": 27,
+                    "text": "EXT6 I have little to say.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.03,
+                        "neutral": 0.96,
+                        "negative": 0.01
+                    },
+                    "offset": 805,
+                    "length": 53,
+                    "text": "EXT7 I talk to a lot of different people at parties.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.03,
+                        "neutral": 0.58,
+                        "negative": 0.39
+                    },
+                    "offset": 858,
+                    "length": 47,
+                    "text": "EXT8 I don't like to draw attention to myself.  ",
+                    "targets": [
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0,
+                                "negative": 1
+                            },
+                            "offset": 875,
+                            "length": 4,
+                            "text": "EXT8",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/13/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0,
+                                "negative": 1
+                            },
+                            "offset": 888,
+                            "length": 4,
+                            "text": "like",
+                            "isNegated": true
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.08,
+                        "neutral": 0.82,
+                        "negative": 0.1
+                    },
+                    "offset": 905,
+                    "length": 49,
+                    "text": "EXT9 I don't mind being the center of attention.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.23,
+                        "neutral": 0.73,
+                        "negative": 0.05
+                    },
+                    "offset": 954,
+                    "length": 35,
+                    "text": "EXT10 I am quiet around strangers.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.38,
+                        "neutral": 0.29,
+                        "negative": 0.33
+                    },
+                    "offset": 989,
+                    "length": 32,
+                    "text": "EST1 I get stressed out easily.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.44,
+                        "neutral": 0.54,
+                        "negative": 0.03
+                    },
+                    "offset": 1021,
+                    "length": 36,
+                    "text": "EST2 I am relaxed most of the time.  ",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 1042,
+                            "length": 4,
+                            "text": "EST2",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/17/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 1052,
+                            "length": 7,
+                            "text": "relaxed",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.03,
+                        "neutral": 0.47,
+                        "negative": 0.5
+                    },
+                    "offset": 1057,
+                    "length": 27,
+                    "text": "EST3 I worry about things.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.82,
+                        "negative": 0.16
+                    },
+                    "offset": 1084,
+                    "length": 25,
+                    "text": "EST4 I seldom feel blue.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.06,
+                        "negative": 0.92
+                    },
+                    "offset": 1109,
+                    "length": 28,
+                    "text": "EST5 I am easily disturbed.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.03,
+                        "neutral": 0.06,
+                        "negative": 0.92
+                    },
+                    "offset": 1137,
+                    "length": 25,
+                    "text": "EST6 I get upset easily.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.97,
+                        "negative": 0.01
+                    },
+                    "offset": 1162,
+                    "length": 29,
+                    "text": "EST7 I change my mood a lot.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.92,
+                        "negative": 0.06
+                    },
+                    "offset": 1191,
+                    "length": 34,
+                    "text": "EST8 I have frequent mood swings.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.06,
+                        "neutral": 0.12,
+                        "negative": 0.82
+                    },
+                    "offset": 1225,
+                    "length": 29,
+                    "text": "EST9 I get irritated easily.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.91,
+                        "negative": 0.07
+                    },
+                    "offset": 1254,
+                    "length": 25,
+                    "text": "EST10 I often feel blue.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.06,
+                        "neutral": 0.69,
+                        "negative": 0.25
+                    },
+                    "offset": 1279,
+                    "length": 39,
+                    "text": "AGR1 I feel little concern for others.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.38,
+                        "neutral": 0.6,
+                        "negative": 0.02
+                    },
+                    "offset": 1318,
+                    "length": 32,
+                    "text": "AGR2 I am interested in people.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.03,
+                        "neutral": 0.18,
+                        "negative": 0.78
+                    },
+                    "offset": 1350,
+                    "length": 22,
+                    "text": "AGR3 I insult people.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.52,
+                        "neutral": 0.43,
+                        "negative": 0.05
+                    },
+                    "offset": 1372,
+                    "length": 41,
+                    "text": "AGR4 I sympathize with others' feelings.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.19,
+                        "negative": 0.8
+                    },
+                    "offset": 1413,
+                    "length": 53,
+                    "text": "AGR5 I am not interested in other people's problems.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.11,
+                        "neutral": 0.87,
+                        "negative": 0.03
+                    },
+                    "offset": 1466,
+                    "length": 26,
+                    "text": "AGR6 I have a soft heart.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.85,
+                        "negative": 0.13
+                    },
+                    "offset": 1492,
+                    "length": 43,
+                    "text": "AGR7 I am not really interested in others.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.06,
+                        "neutral": 0.93,
+                        "negative": 0.01
+                    },
+                    "offset": 1535,
+                    "length": 33,
+                    "text": "AGR8 I take time out for others.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.09,
+                        "neutral": 0.89,
+                        "negative": 0.03
+                    },
+                    "offset": 1568,
+                    "length": 30,
+                    "text": "AGR9 I feel others' emotions.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.52,
+                        "neutral": 0.46,
+                        "negative": 0.02
+                    },
+                    "offset": 1598,
+                    "length": 34,
+                    "text": "AGR10 I make people feel at ease.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.05,
+                        "neutral": 0.94,
+                        "negative": 0.01
+                    },
+                    "offset": 1632,
+                    "length": 27,
+                    "text": "CSN1 I am always prepared.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.99,
+                        "negative": 0.01
+                    },
+                    "offset": 1659,
+                    "length": 35,
+                    "text": "CSN2 I leave my belongings around.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.04,
+                        "neutral": 0.96,
+                        "negative": 0.01
+                    },
+                    "offset": 1694,
+                    "length": 33,
+                    "text": "CSN3 I pay attention to details.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.11,
+                        "negative": 0.88
+                    },
+                    "offset": 1727,
+                    "length": 30,
+                    "text": "CSN4 I make a mess of things.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.05,
+                        "neutral": 0.94,
+                        "negative": 0.01
+                    },
+                    "offset": 1757,
+                    "length": 35,
+                    "text": "CSN5 I get chores done right away.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.87,
+                        "negative": 0.12
+                    },
+                    "offset": 1792,
+                    "length": 62,
+                    "text": "CSN6 I often forget to put things back in their proper place.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.96,
+                        "neutral": 0.04,
+                        "negative": 0
+                    },
+                    "offset": 1854,
+                    "length": 19,
+                    "text": "CSN7 I like order.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.03,
+                        "neutral": 0.43,
+                        "negative": 0.54
+                    },
+                    "offset": 1873,
+                    "length": 24,
+                    "text": "CSN8 I shirk my duties.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.99,
+                        "negative": 0
+                    },
+                    "offset": 1897,
+                    "length": 26,
+                    "text": "CSN9 I follow a schedule.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.09,
+                        "neutral": 0.9,
+                        "negative": 0.01
+                    },
+                    "offset": 1923,
+                    "length": 32,
+                    "text": "CSN10 I am exacting in my work.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.5,
+                        "neutral": 0.49,
+                        "negative": 0.02
+                    },
+                    "offset": 1955,
+                    "length": 31,
+                    "text": "OPN1 I have a rich vocabulary.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0.05,
+                        "negative": 0.94
+                    },
+                    "offset": 1986,
+                    "length": 53,
+                    "text": "OPN2 I have difficulty understanding abstract ideas.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.32,
+                        "neutral": 0.65,
+                        "negative": 0.03
+                    },
+                    "offset": 2039,
+                    "length": 33,
+                    "text": "OPN3 I have a vivid imagination.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.21,
+                        "negative": 0.78
+                    },
+                    "offset": 2072,
+                    "length": 44,
+                    "text": "OPN4 I am not interested in abstract ideas.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.89,
+                        "neutral": 0.1,
+                        "negative": 0.01
+                    },
+                    "offset": 2116,
+                    "length": 29,
+                    "text": "OPN5 I have excellent ideas.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.03,
+                        "neutral": 0.29,
+                        "negative": 0.68
+                    },
+                    "offset": 2145,
+                    "length": 39,
+                    "text": "OPN6 I do not have a good imagination.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.24,
+                        "neutral": 0.75,
+                        "negative": 0.02
+                    },
+                    "offset": 2184,
+                    "length": 38,
+                    "text": "OPN7 I am quick to understand things.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.56,
+                        "negative": 0.42
+                    },
+                    "offset": 2222,
+                    "length": 28,
+                    "text": "OPN8 I use difficult words.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.05,
+                        "neutral": 0.93,
+                        "negative": 0.02
+                    },
+                    "offset": 2250,
+                    "length": 40,
+                    "text": "OPN9 I spend time reflecting on things.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.31,
+                        "neutral": 0.68,
+                        "negative": 0.02
+                    },
+                    "offset": 2290,
+                    "length": 26,
+                    "text": "OPN10 I am full of ideas.\r\n",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.98,
+                        "negative": 0.01
+                    },
+                    "offset": 2316,
+                    "length": 64,
+                    "text": "The time spent on each question is also recorded in milliseconds. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.99,
+                        "negative": 0
+                    },
+                    "offset": 2380,
+                    "length": 38,
+                    "text": "These are the variables ending in _E. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0.95,
+                        "negative": 0.04
+                    },
+                    "offset": 2418,
+                    "length": 139,
+                    "text": "This was calculated by taking the time when the button for the question was clicked minus the time of the most recent other button click.\r\n",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.99,
+                        "negative": 0
+                    },
+                    "offset": 2557,
+                    "length": 51,
+                    "text": "dateload The timestamp when the survey was started.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.09,
+                        "neutral": 0.68,
+                        "negative": 0.23
+                    },
+                    "offset": 2608,
+                    "length": 427,
+                    "text": "screenw The width the of user's screen in pixels  screenh The height of the user's screen in pixels  introelapse The time in seconds spent on the landing / intro page  testelapse The time in seconds spent on the page with the survey questions  endelapse The time in seconds spent on the finalization page (where the user was asked to indicate if they has answered accurately and their answers could be stored and used for research. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.97,
+                        "negative": 0.03
+                    },
+                    "offset": 3035,
+                    "length": 222,
+                    "text": "Again: this dataset only includes users who answered \"Yes\" to this question, users were free to answer no and could still view their results either way)  IPC The number of records from the user's IP address in the dataset. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.14,
+                        "neutral": 0.84,
+                        "negative": 0.01
+                    },
+                    "offset": 3257,
+                    "length": 61,
+                    "text": "For max cleanliness, only use records where this value is 1. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.04,
+                        "neutral": 0.93,
+                        "negative": 0.03
+                    },
+                    "offset": 3318,
+                    "length": 231,
+                    "text": "High values can be because of shared networks (e.g. entire universities) or multiple submissions  country The country, determined by technical information (NOT ASKED AS A QUESTION)  lat_appx_lots_of_err approximate latitude of user. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.18,
+                        "negative": 0.81
+                    },
+                    "offset": 3549,
+                    "length": 64,
+                    "text": "determined by technical information, THIS IS NOT VERY ACCURATE. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.03,
+                        "neutral": 0.75,
+                        "negative": 0.23
+                    },
+                    "offset": 3613,
+                    "length": 298,
+                    "text": "Read the article \"How an internet mapping glitch turned a random Kansas farm into a digital hell\" https://splinternews.com/how-an-internet-mapping-glitch-turned-a-random-kansas-f-1793856052 to learn about the perils of relying on this information  long_appx_lots_of_err approximate longitude of user",
+                    "targets": [],
+                    "assessments": []
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2022-11-01"
+}
