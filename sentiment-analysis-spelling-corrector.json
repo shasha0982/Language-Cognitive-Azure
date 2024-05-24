@@ -1,0 +1,930 @@
+{
+    "documents": [
+        {
+            "id": "id__2075",
+            "sentiment": "mixed",
+            "confidenceScores": {
+                "positive": 0.32,
+                "neutral": 0.2,
+                "negative": 0.48
+            },
+            "sentences": [
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.03,
+                        "neutral": 0.97,
+                        "negative": 0.01
+                    },
+                    "offset": 0,
+                    "length": 137,
+                    "text": "The Project Gutenberg EBook of The Adventures of Sherlock Holmes by Sir Arthur Conan Doyle (#15 in our series by Sir Arthur Conan Doyle)\n",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.96,
+                        "negative": 0.03
+                    },
+                    "offset": 137,
+                    "length": 48,
+                    "text": "Copyright laws are changing all over the world. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.96,
+                        "negative": 0.02
+                    },
+                    "offset": 185,
+                    "length": 133,
+                    "text": "Be sure to check the copyright laws for your country before downloading or redistributing this or any other Project Gutenberg eBook.\n",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.98,
+                        "negative": 0.01
+                    },
+                    "offset": 318,
+                    "length": 85,
+                    "text": "This header should be the first thing seen when viewing this Project Gutenberg file. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.03,
+                        "neutral": 0.51,
+                        "negative": 0.46
+                    },
+                    "offset": 403,
+                    "length": 25,
+                    "text": "Please do not remove it. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.67,
+                        "negative": 0.32
+                    },
+                    "offset": 428,
+                    "length": 61,
+                    "text": "Do not change or edit the header without written permission.\n",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.98,
+                        "negative": 0.01
+                    },
+                    "offset": 489,
+                    "length": 125,
+                    "text": "Please read the \"legal small print,\" and other information about the eBook and Project Gutenberg at the bottom of this file. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.98,
+                        "negative": 0.01
+                    },
+                    "offset": 614,
+                    "length": 107,
+                    "text": "Included is important information about your specific rights and restrictions in how the file may be used. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.04,
+                        "neutral": 0.95,
+                        "negative": 0.01
+                    },
+                    "offset": 721,
+                    "length": 98,
+                    "text": "You can also find out about how to make a donation to Project Gutenberg, and how to get involved.\n",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.21,
+                        "neutral": 0.77,
+                        "negative": 0.01
+                    },
+                    "offset": 819,
+                    "length": 64,
+                    "text": "**Welcome To The World of Free Plain Vanilla Electronic Texts**\n",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.98,
+                        "negative": 0.01
+                    },
+                    "offset": 883,
+                    "length": 64,
+                    "text": "**eBooks Readable By Both Humans and By Computers, Since 1971**\n",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.42,
+                        "neutral": 0.52,
+                        "negative": 0.06
+                    },
+                    "offset": 947,
+                    "length": 65,
+                    "text": "*****These eBooks Were Prepared By Thousands of Volunteers!*****\n",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.03,
+                        "neutral": 0.96,
+                        "negative": 0.01
+                    },
+                    "offset": 1012,
+                    "length": 41,
+                    "text": "Title: The Adventures of Sherlock Holmes\n",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.97,
+                        "negative": 0.01
+                    },
+                    "offset": 1053,
+                    "length": 31,
+                    "text": "Author: Sir Arthur Conan Doyle\n",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.96,
+                        "negative": 0.02
+                    },
+                    "offset": 1084,
+                    "length": 83,
+                    "text": "Release Date: March, 1999 [EBook #1661] [Most recently updated: November 29, 2002]\n",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.97,
+                        "negative": 0.02
+                    },
+                    "offset": 1167,
+                    "length": 12,
+                    "text": "Edition: 12\n",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.95,
+                        "negative": 0.03
+                    },
+                    "offset": 1179,
+                    "length": 18,
+                    "text": "Language: English\n",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.99,
+                        "negative": 0
+                    },
+                    "offset": 1197,
+                    "length": 30,
+                    "text": "Character set encoding: ASCII\n",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.05,
+                        "neutral": 0.94,
+                        "negative": 0.01
+                    },
+                    "offset": 1227,
+                    "length": 80,
+                    "text": "*** START OF THE PROJECT GUTENBERG EBOOK, THE ADVENTURES OF SHERLOCK HOLMES ***\n",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0.99,
+                        "negative": 0
+                    },
+                    "offset": 1307,
+                    "length": 38,
+                    "text": "(Additional editing by Jose Menendez)\n",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.1,
+                        "neutral": 0.89,
+                        "negative": 0.01
+                    },
+                    "offset": 1345,
+                    "length": 34,
+                    "text": "THE ADVENTURES OF SHERLOCK HOLMES\n",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.07,
+                        "neutral": 0.92,
+                        "negative": 0.01
+                    },
+                    "offset": 1379,
+                    "length": 3,
+                    "text": "BY\n",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.19,
+                        "neutral": 0.8,
+                        "negative": 0.01
+                    },
+                    "offset": 1382,
+                    "length": 23,
+                    "text": "SIR ARTHUR CONAN DOYLE\n",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.03,
+                        "neutral": 0.97,
+                        "negative": 0.01
+                    },
+                    "offset": 1405,
+                    "length": 9,
+                    "text": "CONTENTS\n",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.04,
+                        "neutral": 0.48,
+                        "negative": 0.48
+                    },
+                    "offset": 1414,
+                    "length": 28,
+                    "text": "I. A Scandal in Bohemia II. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.03,
+                        "neutral": 0.96,
+                        "negative": 0.01
+                    },
+                    "offset": 1442,
+                    "length": 27,
+                    "text": "The Red-Headed League III. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.97,
+                        "negative": 0.01
+                    },
+                    "offset": 1469,
+                    "length": 23,
+                    "text": "A Case of Identity IV. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.03,
+                        "neutral": 0.92,
+                        "negative": 0.05
+                    },
+                    "offset": 1492,
+                    "length": 31,
+                    "text": "The Boscombe Valley Mystery V. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.98,
+                        "negative": 0.01
+                    },
+                    "offset": 1523,
+                    "length": 25,
+                    "text": "The Five Orange Pips VI. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.05,
+                        "neutral": 0.94,
+                        "negative": 0.01
+                    },
+                    "offset": 1548,
+                    "length": 34,
+                    "text": "The Man with the Twisted Lip VII. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.04,
+                        "neutral": 0.96,
+                        "negative": 0.01
+                    },
+                    "offset": 1582,
+                    "length": 42,
+                    "text": "The Adventure of the Blue Carbuncle VIII. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.07,
+                        "neutral": 0.91,
+                        "negative": 0.01
+                    },
+                    "offset": 1624,
+                    "length": 39,
+                    "text": "The Adventure of the Speckled Band IX. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.13,
+                        "neutral": 0.85,
+                        "negative": 0.02
+                    },
+                    "offset": 1663,
+                    "length": 41,
+                    "text": "The Adventure of the Engineer's Thumb X. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.14,
+                        "neutral": 0.85,
+                        "negative": 0.01
+                    },
+                    "offset": 1704,
+                    "length": 40,
+                    "text": "The Adventure of the Noble Bachelor XI. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.09,
+                        "neutral": 0.9,
+                        "negative": 0.01
+                    },
+                    "offset": 1744,
+                    "length": 40,
+                    "text": "The Adventure of the Beryl Coronet XII. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.09,
+                        "neutral": 0.89,
+                        "negative": 0.01
+                    },
+                    "offset": 1784,
+                    "length": 36,
+                    "text": "The Adventure of the Copper Beeches\n",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.04,
+                        "neutral": 0.96,
+                        "negative": 0.01
+                    },
+                    "offset": 1820,
+                    "length": 13,
+                    "text": "ADVENTURE I. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.21,
+                        "neutral": 0.75,
+                        "negative": 0.04
+                    },
+                    "offset": 1833,
+                    "length": 21,
+                    "text": "A SCANDAL IN BOHEMIA\n",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.15,
+                        "neutral": 0.71,
+                        "negative": 0.14
+                    },
+                    "offset": 1854,
+                    "length": 3,
+                    "text": "I.\n",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.16,
+                        "neutral": 0.75,
+                        "negative": 0.08
+                    },
+                    "offset": 1857,
+                    "length": 44,
+                    "text": "To Sherlock Holmes she is always the woman. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.81,
+                        "negative": 0.16
+                    },
+                    "offset": 1901,
+                    "length": 58,
+                    "text": "I have seldom heard him mention her under any other name. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.03,
+                        "neutral": 0.91,
+                        "negative": 0.06
+                    },
+                    "offset": 1959,
+                    "length": 64,
+                    "text": "In his eyes she eclipses and predominates the whole of her sex. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.11,
+                        "neutral": 0.48,
+                        "negative": 0.41
+                    },
+                    "offset": 2023,
+                    "length": 66,
+                    "text": "It was not that he felt any emotion akin to love for Irene Adler. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.47,
+                        "neutral": 0.15,
+                        "negative": 0.38
+                    },
+                    "offset": 2089,
+                    "length": 106,
+                    "text": "All emotions, and that one particularly, were abhorrent to his cold, precise but admirably balanced mind. ",
+                    "targets": [
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0.08,
+                                "negative": 0.92
+                            },
+                            "offset": 2124,
+                            "length": 8,
+                            "text": "emotions",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/43/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0.08,
+                                "negative": 0.92
+                            },
+                            "offset": 2166,
+                            "length": 9,
+                            "text": "abhorrent",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.17,
+                        "neutral": 0.25,
+                        "negative": 0.58
+                    },
+                    "offset": 2195,
+                    "length": 158,
+                    "text": "He was, I take it, the most perfect reasoning and observing machine that the world has seen, but as a lover he would have placed himself in a false position. ",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 2286,
+                            "length": 7,
+                            "text": "machine",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/44/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 2254,
+                            "length": 7,
+                            "text": "perfect",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.03,
+                        "neutral": 0.5,
+                        "negative": 0.47
+                    },
+                    "offset": 2353,
+                    "length": 69,
+                    "text": "He never spoke of the softer passions, save with a gibe and a sneer. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.98,
+                        "neutral": 0.02,
+                        "negative": 0
+                    },
+                    "offset": 2422,
+                    "length": 108,
+                    "text": "They were admirable things for the observer--excellent for drawing the veil from men's motives and actions. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.15,
+                        "negative": 0.83
+                    },
+                    "offset": 2530,
+                    "length": 201,
+                    "text": "But for the trained reasoner to admit such intrusions into his own delicate and finely adjusted temperament was to introduce a distracting factor which might throw a doubt upon all his mental results. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.09,
+                        "neutral": 0.48,
+                        "negative": 0.43
+                    },
+                    "offset": 2731,
+                    "length": 156,
+                    "text": "Grit in a sensitive instrument, or a crack in one of his own high-power lenses, would not be more disturbing than a strong emotion in a nature such as his. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.15,
+                        "negative": 0.84
+                    },
+                    "offset": 2887,
+                    "length": 117,
+                    "text": "And yet there was but one woman to him, and that woman was the late Irene Adler, of dubious and questionable memory.\n",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.83,
+                        "negative": 0.16
+                    },
+                    "offset": 3004,
+                    "length": 36,
+                    "text": "I had seen little of Holmes lately. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.03,
+                        "neutral": 0.72,
+                        "negative": 0.25
+                    },
+                    "offset": 3040,
+                    "length": 49,
+                    "text": "My marriage had drifted us away from each other. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.17,
+                        "neutral": 0.56,
+                        "negative": 0.26
+                    },
+                    "offset": 3089,
+                    "length": 474,
+                    "text": "My own complete happiness, and the home-centred interests which rise up around the man who first finds himself master of his own establishment, were sufficient to absorb all my attention, while Holmes, who loathed every form of society with his whole Bohemian soul, remained in our lodgings in Baker Street, buried among his old books, and alternating from week to week between cocaine and ambition, the drowsiness of the drug, and the fierce energy of his own keen nature. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.09,
+                        "neutral": 0.12,
+                        "negative": 0.79
+                    },
+                    "offset": 3563,
+                    "length": 261,
+                    "text": "He was still, as ever, deeply attracted by the study of crime, and occupied his immense faculties and extraordinary powers of observation in following out those clues, and clearing up those mysteries which had been abandoned as hopeless by the official police. ",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 3683,
+                            "length": 9,
+                            "text": "faculties",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/53/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 3675,
+                            "length": 7,
+                            "text": "immense",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.1,
+                        "neutral": 0.15,
+                        "negative": 0.75
+                    },
+                    "offset": 3824,
+                    "length": 324,
+                    "text": "From time to time I heard some vague account of his doings: of his summons to Odessa in the case of the Trepoff murder, of his clearing up of the singular tragedy of the Atkinson brothers at Trincomalee, and finally of the mission which he had accomplished so delicately and successfully for the reigning family of Holland. ",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 4079,
+                            "length": 7,
+                            "text": "mission",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/54/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 4116,
+                            "length": 10,
+                            "text": "delicately",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.04,
+                        "neutral": 0.76,
+                        "negative": 0.2
+                    },
+                    "offset": 4148,
+                    "length": 157,
+                    "text": "Beyond these signs of his activity, however, which I merely shared with all the readers of the daily press, I knew little of my former friend and companion.\n",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.05,
+                        "neutral": 0.93,
+                        "negative": 0.03
+                    },
+                    "offset": 4305,
+                    "length": 180,
+                    "text": "One night--it was on the twentieth of March, 1888--I was returning from a journey to a patient (for I had now returned to civil practice), when my way led me through Baker Street. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.75,
+                        "neutral": 0.18,
+                        "negative": 0.06
+                    },
+                    "offset": 4485,
+                    "length": 262,
+                    "text": "As I passed the well-remembered door, which must always be associated in my mind with my wooing, and with the dark incidents of the Study in Scarlet, I was seized with a keen desire to see Holmes again, and to know how he was employing his extraordinary powers. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.58,
+                        "neutral": 0.33,
+                        "negative": 0.09
+                    },
+                    "offset": 4747,
+                    "length": 138,
+                    "text": "His rooms were brilliantly lit, and, even as I looked up, I saw his tall, spare figure pass twice in a dark silhouette against the blind. ",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 0.99,
+                                "negative": 0.01
+                            },
+                            "offset": 4784,
+                            "length": 5,
+                            "text": "rooms",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/58/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 0.99,
+                                "negative": 0.01
+                            },
+                            "offset": 4795,
+                            "length": 15,
+                            "text": "brilliantly lit",
+                            "isNegated": false
+                        }
+                    ]
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2022-11-01"
+}
