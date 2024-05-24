@@ -1,0 +1,972 @@
+{
+    "documents": [
+        {
+            "id": "id__6238",
+            "entities": [
+                {
+                    "text": "DC",
+                    "category": "Location",
+                    "subcategory": "State",
+                    "offset": 52,
+                    "length": 2,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Lazer",
+                    "category": "Product",
+                    "offset": 282,
+                    "length": 5,
+                    "confidenceScore": 0.69
+                },
+                {
+                    "text": "In 5 Minutes",
+                    "category": "DateTime",
+                    "offset": 332,
+                    "length": 12,
+                    "confidenceScore": 0.7
+                },
+                {
+                    "text": "stranger",
+                    "category": "PersonType",
+                    "offset": 370,
+                    "length": 8,
+                    "confidenceScore": 0.79
+                },
+                {
+                    "text": "birthday",
+                    "category": "Event",
+                    "offset": 388,
+                    "length": 8,
+                    "confidenceScore": 0.95
+                },
+                {
+                    "text": "First",
+                    "category": "Quantity",
+                    "subcategory": "Ordinal",
+                    "offset": 412,
+                    "length": 5,
+                    "confidenceScore": 0.66
+                },
+                {
+                    "text": "Cubs",
+                    "category": "Organization",
+                    "offset": 418,
+                    "length": 4,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "game",
+                    "category": "Event",
+                    "offset": 423,
+                    "length": 4,
+                    "confidenceScore": 0.78
+                },
+                {
+                    "text": "Wrigley field",
+                    "category": "Location",
+                    "offset": 434,
+                    "length": 13,
+                    "confidenceScore": 0.98
+                },
+                {
+                    "text": "Cubs",
+                    "category": "Organization",
+                    "offset": 481,
+                    "length": 4,
+                    "confidenceScore": 0.74
+                },
+                {
+                    "text": "another day",
+                    "category": "DateTime",
+                    "subcategory": "Duration",
+                    "offset": 502,
+                    "length": 11,
+                    "confidenceScore": 0.51
+                },
+                {
+                    "text": "skool",
+                    "category": "Location",
+                    "offset": 523,
+                    "length": 5,
+                    "confidenceScore": 0.92
+                },
+                {
+                    "text": "damn",
+                    "category": "Product",
+                    "subcategory": "Computing",
+                    "offset": 581,
+                    "length": 4,
+                    "confidenceScore": 0.63
+                },
+                {
+                    "text": "cali",
+                    "category": "Location",
+                    "subcategory": "City",
+                    "offset": 639,
+                    "length": 4,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "sundrop",
+                    "category": "Product",
+                    "offset": 652,
+                    "length": 7,
+                    "confidenceScore": 0.53
+                },
+                {
+                    "text": "first",
+                    "category": "Quantity",
+                    "subcategory": "Ordinal",
+                    "offset": 687,
+                    "length": 5,
+                    "confidenceScore": 0.87
+                },
+                {
+                    "text": "THIS WEEK",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 720,
+                    "length": 9,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "guys",
+                    "category": "PersonType",
+                    "offset": 754,
+                    "length": 4,
+                    "confidenceScore": 0.91
+                },
+                {
+                    "text": "auctions",
+                    "category": "Event",
+                    "offset": 766,
+                    "length": 8,
+                    "confidenceScore": 0.66
+                },
+                {
+                    "text": "picture",
+                    "category": "Product",
+                    "offset": 879,
+                    "length": 7,
+                    "confidenceScore": 0.86
+                },
+                {
+                    "text": "green shirt",
+                    "category": "Product",
+                    "offset": 892,
+                    "length": 11,
+                    "confidenceScore": 0.58
+                },
+                {
+                    "text": "Desk",
+                    "category": "Product",
+                    "offset": 934,
+                    "length": 4,
+                    "confidenceScore": 0.93
+                },
+                {
+                    "text": "room",
+                    "category": "Location",
+                    "subcategory": "Structural",
+                    "offset": 953,
+                    "length": 4,
+                    "confidenceScore": 0.79
+                },
+                {
+                    "text": "office",
+                    "category": "Location",
+                    "subcategory": "Structural",
+                    "offset": 1036,
+                    "length": 6,
+                    "confidenceScore": 0.69
+                },
+                {
+                    "text": "Sally Walker",
+                    "category": "Person",
+                    "offset": 1052,
+                    "length": 12,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "the month",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 1101,
+                    "length": 9,
+                    "confidenceScore": 0.96
+                },
+                {
+                    "text": "street",
+                    "category": "Location",
+                    "subcategory": "Structural",
+                    "offset": 1165,
+                    "length": 6,
+                    "confidenceScore": 0.75
+                },
+                {
+                    "text": "movers",
+                    "category": "PersonType",
+                    "offset": 1194,
+                    "length": 6,
+                    "confidenceScore": 0.98
+                },
+                {
+                    "text": "ford focus hatchback",
+                    "category": "Product",
+                    "offset": 1204,
+                    "length": 20,
+                    "confidenceScore": 0.61
+                },
+                {
+                    "text": "National Retail Federation",
+                    "category": "Organization",
+                    "offset": 1248,
+                    "length": 26,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "$16.3 BILLION",
+                    "category": "Quantity",
+                    "subcategory": "Currency",
+                    "offset": 1275,
+                    "length": 13,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "MothersDay",
+                    "category": "Event",
+                    "offset": 1303,
+                    "length": 10,
+                    "confidenceScore": 0.57
+                },
+                {
+                    "text": "last year",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 1314,
+                    "length": 9,
+                    "confidenceScore": 0.98
+                },
+                {
+                    "text": "W.M. Lewis",
+                    "category": "Person",
+                    "offset": 1420,
+                    "length": 10,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "skating",
+                    "category": "Skill",
+                    "offset": 1437,
+                    "length": 7,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "movie",
+                    "category": "Product",
+                    "offset": 1470,
+                    "length": 5,
+                    "confidenceScore": 0.55
+                },
+                {
+                    "text": "dinner",
+                    "category": "Event",
+                    "offset": 1489,
+                    "length": 6,
+                    "confidenceScore": 0.55
+                },
+                {
+                    "text": "ice rink",
+                    "category": "Location",
+                    "subcategory": "Structural",
+                    "offset": 1535,
+                    "length": 8,
+                    "confidenceScore": 0.97
+                },
+                {
+                    "text": "mailbox",
+                    "category": "Product",
+                    "offset": 1556,
+                    "length": 7,
+                    "confidenceScore": 0.85
+                },
+                {
+                    "text": "the day",
+                    "category": "DateTime",
+                    "subcategory": "Date",
+                    "offset": 1579,
+                    "length": 7,
+                    "confidenceScore": 0.52
+                },
+                {
+                    "text": "website",
+                    "category": "Skill",
+                    "offset": 1669,
+                    "length": 7,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "push",
+                    "category": "Skill",
+                    "offset": 1820,
+                    "length": 4,
+                    "confidenceScore": 0.61
+                },
+                {
+                    "text": "Ron Artest",
+                    "category": "Person",
+                    "offset": 1851,
+                    "length": 10,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Linda",
+                    "category": "Person",
+                    "offset": 1912,
+                    "length": 5,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "Chula",
+                    "category": "Location",
+                    "subcategory": "Geographical",
+                    "offset": 1970,
+                    "length": 5,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Chula",
+                    "category": "Location",
+                    "subcategory": "City",
+                    "offset": 1970,
+                    "length": 5,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": ".M.",
+                    "category": "DateTime",
+                    "subcategory": "TimeRange",
+                    "offset": 1981,
+                    "length": 3,
+                    "confidenceScore": 0.52
+                },
+                {
+                    "text": "meetings",
+                    "category": "Event",
+                    "offset": 1985,
+                    "length": 8,
+                    "confidenceScore": 0.59
+                },
+                {
+                    "text": "4",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 2006,
+                    "length": 1,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "every Fri",
+                    "category": "DateTime",
+                    "subcategory": "Set",
+                    "offset": 2028,
+                    "length": 9,
+                    "confidenceScore": 0.92
+                },
+                {
+                    "text": "Bum Squad",
+                    "category": "Organization",
+                    "offset": 2039,
+                    "length": 9,
+                    "confidenceScore": 0.84
+                },
+                {
+                    "text": "ninja",
+                    "category": "PersonType",
+                    "offset": 2078,
+                    "length": 5,
+                    "confidenceScore": 0.6
+                },
+                {
+                    "text": "stairs",
+                    "category": "Location",
+                    "offset": 2159,
+                    "length": 6,
+                    "confidenceScore": 0.51
+                },
+                {
+                    "text": "now",
+                    "category": "DateTime",
+                    "offset": 2186,
+                    "length": 3,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "inspiration",
+                    "category": "Skill",
+                    "offset": 2207,
+                    "length": 11,
+                    "confidenceScore": 0.88
+                },
+                {
+                    "text": "state line",
+                    "category": "Location",
+                    "offset": 2286,
+                    "length": 10,
+                    "confidenceScore": 0.59
+                },
+                {
+                    "text": "now",
+                    "category": "DateTime",
+                    "offset": 2309,
+                    "length": 3,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "Exhaust",
+                    "category": "Skill",
+                    "offset": 2313,
+                    "length": 7,
+                    "confidenceScore": 0.61
+                },
+                {
+                    "text": "magazine",
+                    "category": "Product",
+                    "offset": 2354,
+                    "length": 8,
+                    "confidenceScore": 0.89
+                },
+                {
+                    "text": "Tables",
+                    "category": "Product",
+                    "offset": 2389,
+                    "length": 6,
+                    "confidenceScore": 0.94
+                },
+                {
+                    "text": "Masquerade",
+                    "category": "Event",
+                    "offset": 2430,
+                    "length": 10,
+                    "confidenceScore": 0.52
+                },
+                {
+                    "text": "one",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 2452,
+                    "length": 3,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "dumb machine",
+                    "category": "Product",
+                    "offset": 2532,
+                    "length": 12,
+                    "confidenceScore": 0.54
+                },
+                {
+                    "text": "one",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 2616,
+                    "length": 3,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "3",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 2667,
+                    "length": 1,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "guys",
+                    "category": "PersonType",
+                    "offset": 2690,
+                    "length": 4,
+                    "confidenceScore": 0.85
+                },
+                {
+                    "text": "tonight",
+                    "category": "DateTime",
+                    "subcategory": "DateTimeRange",
+                    "offset": 2695,
+                    "length": 7,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "next week",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 2734,
+                    "length": 9,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Jon",
+                    "category": "Person",
+                    "offset": 2744,
+                    "length": 3,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "Small",
+                    "category": "Skill",
+                    "offset": 2749,
+                    "length": 5,
+                    "confidenceScore": 0.52
+                },
+                {
+                    "text": "99%",
+                    "category": "Quantity",
+                    "subcategory": "Percentage",
+                    "offset": 2792,
+                    "length": 3,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "tonight",
+                    "category": "DateTime",
+                    "subcategory": "DateTimeRange",
+                    "offset": 2818,
+                    "length": 7,
+                    "confidenceScore": 0.97
+                },
+                {
+                    "text": "tomorrow",
+                    "category": "DateTime",
+                    "subcategory": "Date",
+                    "offset": 2832,
+                    "length": 8,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "sunday",
+                    "category": "DateTime",
+                    "subcategory": "Date",
+                    "offset": 2892,
+                    "length": 6,
+                    "confidenceScore": 0.96
+                },
+                {
+                    "text": "brunch",
+                    "category": "Event",
+                    "offset": 2899,
+                    "length": 6,
+                    "confidenceScore": 0.46
+                },
+                {
+                    "text": "FF",
+                    "category": "Event",
+                    "offset": 2948,
+                    "length": 2,
+                    "confidenceScore": 0.38
+                },
+                {
+                    "text": "persons",
+                    "category": "PersonType",
+                    "offset": 3038,
+                    "length": 7,
+                    "confidenceScore": 0.56
+                },
+                {
+                    "text": "Oliver Wendell Holmes",
+                    "category": "Person",
+                    "offset": 3050,
+                    "length": 21,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "99",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 3093,
+                    "length": 2,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "Julia",
+                    "category": "Person",
+                    "offset": 3142,
+                    "length": 5,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "mom",
+                    "category": "PersonType",
+                    "offset": 3156,
+                    "length": 3,
+                    "confidenceScore": 0.98
+                },
+                {
+                    "text": "Erica",
+                    "category": "Person",
+                    "offset": 3160,
+                    "length": 5,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "GOP",
+                    "category": "Organization",
+                    "offset": 3184,
+                    "length": 3,
+                    "confidenceScore": 0.93
+                },
+                {
+                    "text": "Obama",
+                    "category": "Person",
+                    "offset": 3196,
+                    "length": 5,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Romney",
+                    "category": "Person",
+                    "offset": 3285,
+                    "length": 6,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "presidential candidate",
+                    "category": "PersonType",
+                    "offset": 3300,
+                    "length": 22,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "fight",
+                    "category": "Event",
+                    "offset": 3372,
+                    "length": 5,
+                    "confidenceScore": 0.86
+                },
+                {
+                    "text": "upset",
+                    "category": "PersonType",
+                    "offset": 3404,
+                    "length": 5,
+                    "confidenceScore": 0.57
+                },
+                {
+                    "text": "balls",
+                    "category": "Product",
+                    "offset": 3455,
+                    "length": 5,
+                    "confidenceScore": 0.63
+                },
+                {
+                    "text": "keg",
+                    "category": "Product",
+                    "offset": 3464,
+                    "length": 3,
+                    "confidenceScore": 0.79
+                },
+                {
+                    "text": "crew",
+                    "category": "PersonType",
+                    "offset": 3482,
+                    "length": 4,
+                    "confidenceScore": 0.62
+                },
+                {
+                    "text": "guys",
+                    "category": "PersonType",
+                    "offset": 3500,
+                    "length": 4,
+                    "confidenceScore": 0.73
+                },
+                {
+                    "text": "William Davis",
+                    "category": "Person",
+                    "offset": 3523,
+                    "length": 13,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "attorney",
+                    "category": "PersonType",
+                    "offset": 3537,
+                    "length": 8,
+                    "confidenceScore": 0.96
+                },
+                {
+                    "text": "client",
+                    "category": "PersonType",
+                    "offset": 3551,
+                    "length": 6,
+                    "confidenceScore": 0.97
+                },
+                {
+                    "text": "first",
+                    "category": "Quantity",
+                    "subcategory": "Ordinal",
+                    "offset": 3588,
+                    "length": 5,
+                    "confidenceScore": 0.97
+                },
+                {
+                    "text": "murder",
+                    "category": "Event",
+                    "offset": 3601,
+                    "length": 6,
+                    "confidenceScore": 0.59
+                },
+                {
+                    "text": "woman",
+                    "category": "PersonType",
+                    "offset": 3618,
+                    "length": 5,
+                    "confidenceScore": 0.77
+                },
+                {
+                    "text": "death",
+                    "category": "Event",
+                    "offset": 3626,
+                    "length": 5,
+                    "confidenceScore": 0.9
+                },
+                {
+                    "text": "OccupyMadison",
+                    "category": "Location",
+                    "subcategory": "City",
+                    "offset": 3633,
+                    "length": 13,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "GA",
+                    "category": "Location",
+                    "subcategory": "State",
+                    "offset": 3647,
+                    "length": 2,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "liberal",
+                    "category": "PersonType",
+                    "offset": 3681,
+                    "length": 7,
+                    "confidenceScore": 0.95
+                },
+                {
+                    "text": "40",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 3824,
+                    "length": 2,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "one",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 3896,
+                    "length": 3,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "chris brown",
+                    "category": "Person",
+                    "offset": 3906,
+                    "length": 11,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "first",
+                    "category": "Quantity",
+                    "subcategory": "Ordinal",
+                    "offset": 4062,
+                    "length": 5,
+                    "confidenceScore": 0.97
+                },
+                {
+                    "text": "New Wave",
+                    "category": "Organization",
+                    "offset": 4079,
+                    "length": 8,
+                    "confidenceScore": 0.71
+                },
+                {
+                    "text": "friends",
+                    "category": "PersonType",
+                    "offset": 4126,
+                    "length": 7,
+                    "confidenceScore": 0.98
+                },
+                {
+                    "text": "Holiday show",
+                    "category": "Event",
+                    "offset": 4156,
+                    "length": 12,
+                    "confidenceScore": 0.84
+                },
+                {
+                    "text": "the 23",
+                    "category": "DateTime",
+                    "subcategory": "Date",
+                    "offset": 4172,
+                    "length": 6,
+                    "confidenceScore": 0.96
+                },
+                {
+                    "text": "Santa Barbara",
+                    "category": "Location",
+                    "subcategory": "City",
+                    "offset": 4182,
+                    "length": 13,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Tim",
+                    "category": "Person",
+                    "offset": 4213,
+                    "length": 3,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "Palin White T's",
+                    "category": "Organization",
+                    "offset": 4222,
+                    "length": 15,
+                    "confidenceScore": 0.91
+                },
+                {
+                    "text": "JR Richards",
+                    "category": "Person",
+                    "offset": 4242,
+                    "length": 11,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Dishwalla",
+                    "category": "Organization",
+                    "offset": 4259,
+                    "length": 9,
+                    "confidenceScore": 0.83
+                },
+                {
+                    "text": "Nate",
+                    "category": "Person",
+                    "offset": 4275,
+                    "length": 4,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "by yesterday",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 4301,
+                    "length": 12,
+                    "confidenceScore": 0.84
+                },
+                {
+                    "text": "meal",
+                    "category": "Product",
+                    "offset": 4328,
+                    "length": 4,
+                    "confidenceScore": 0.62
+                },
+                {
+                    "text": "friends",
+                    "category": "PersonType",
+                    "offset": 4452,
+                    "length": 7,
+                    "confidenceScore": 0.96
+                },
+                {
+                    "text": "wedding",
+                    "category": "Event",
+                    "offset": 4461,
+                    "length": 7,
+                    "confidenceScore": 0.96
+                },
+                {
+                    "text": "4 months",
+                    "category": "DateTime",
+                    "subcategory": "Duration",
+                    "offset": 4474,
+                    "length": 8,
+                    "confidenceScore": 0.96
+                },
+                {
+                    "text": "University of Arkansas",
+                    "category": "Organization",
+                    "subcategory": "Sports",
+                    "offset": 4540,
+                    "length": 22,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "athletics",
+                    "category": "Skill",
+                    "offset": 4563,
+                    "length": 9,
+                    "confidenceScore": 0.86
+                },
+                {
+                    "text": "Athletes",
+                    "category": "PersonType",
+                    "offset": 4582,
+                    "length": 8,
+                    "confidenceScore": 0.98
+                },
+                {
+                    "text": "celebrities",
+                    "category": "PersonType",
+                    "offset": 4591,
+                    "length": 11,
+                    "confidenceScore": 0.91
+                },
+                {
+                    "text": "$.99",
+                    "category": "Quantity",
+                    "subcategory": "Currency",
+                    "offset": 4632,
+                    "length": 4,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "support",
+                    "category": "Skill",
+                    "offset": 4658,
+                    "length": 7,
+                    "confidenceScore": 0.9
+                },
+                {
+                    "text": "fans",
+                    "category": "PersonType",
+                    "offset": 4689,
+                    "length": 4,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "chick",
+                    "category": "Person",
+                    "offset": 4735,
+                    "length": 5,
+                    "confidenceScore": 0.51
+                },
+                {
+                    "text": "third",
+                    "category": "Quantity",
+                    "subcategory": "Ordinal",
+                    "offset": 4840,
+                    "length": 5,
+                    "confidenceScore": 0.9
+                },
+                {
+                    "text": "control",
+                    "category": "Skill",
+                    "offset": 4893,
+                    "length": 7,
+                    "confidenceScore": 1
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2023-09-01"
+}
