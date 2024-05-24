@@ -1,0 +1,165 @@
+[
+    {
+        "kind": "AbstractiveSummarizationLROResults",
+        "lastUpdateDateTime": "2024-05-24T07:08:19.7032373Z",
+        "status": "succeeded",
+        "results": {
+            "documents": [
+                {
+                    "summaries": [
+                        {
+                            "text": "Nokia has announced no plans to move all production to Russia, despite the country's growth. The company's shares closed higher, led by Nokia's announcement of plans to team up with Sanyo to manufacture 3G handsets. Nokian Tyres also beat analysts' expectations with its fourth-quarter earnings report. Nordea Group's operating profit increased by 18% year-on-year to 3.64 billion euros in 2010, and total revenue by 3% to 9.33 billion euros. A Helsinki: EliiV reported an increase in EPS of EUR1.13 for 2009. The Finnish government sold a 32% stake in chemicals and fertilizer group Kemira Oyj for $890 million. The Finnish government also sold a 32% share in chemicals and fertilizer company Kemira Oyj.",
+                            "contexts": [
+                                {
+                                    "offset": 0,
+                                    "length": 125000
+                                }
+                            ]
+                        }
+                    ],
+                    "id": "id__574",
+                    "warnings": []
+                }
+            ],
+            "errors": [],
+            "modelVersion": "latest"
+        }
+    },
+    {
+        "kind": "ExtractiveSummarizationLROResults",
+        "lastUpdateDateTime": "2024-05-24T07:08:34.298696Z",
+        "status": "succeeded",
+        "results": {
+            "documents": [
+                {
+                    "id": "id__574",
+                    "sentences": [
+                        {
+                            "text": "HELSINKI ( AFX ) - Shares closed higher , led by Nokia after it announced plans to team up with Sanyo to manufacture 3G handsets , and by Nokian Tyres after its fourth-quarter earnings report beat analysts ' expectations , dealers said .@positive",
+                            "rankScore": 0.84,
+                            "offset": 1482,
+                            "length": 246
+                        },
+                        {
+                            "text": "Its board of directors will propose a dividend of EUR0 .12 per share for 2010 , up from the EUR0 .08 per share paid in 2009 .@positive",
+                            "rankScore": 0.86,
+                            "offset": 1729,
+                            "length": 134
+                        },
+                        {
+                            "text": "- Operating profit rose by 26.9 % to EUR 105.8 ( 83.4 ) million .@positive",
+                            "rankScore": 0.89,
+                            "offset": 11454,
+                            "length": 74
+                        },
+                        {
+                            "text": "EUR928 ,000 in Q1 2010 6 May 2010 - Finnish textile and clothing design company Marimekko Oyj ( HEL : MMO1V ) said today its net profit rose to EUR928 ,000 in the first quarter of 2010 from EUR13 ,000 in the corresponding period a year earlier .@positive",
+                            "rankScore": 0.88,
+                            "offset": 16432,
+                            "length": 254
+                        },
+                        {
+                            "text": "Finnish cutlery and hand tools maker Fiskars Oyj Abp ( HEL : FISAS ) said today its net profit rose to EUR 24.1 million ( USD 33.6 m ) in the third quarter of 2010 from EUR 17.9 million a year earlier .@positive",
+                            "rankScore": 0.86,
+                            "offset": 16932,
+                            "length": 211
+                        },
+                        {
+                            "text": "Orion Pharma 's operating profit increased by 42.5 % from 2004 .@positive",
+                            "rankScore": 0.93,
+                            "offset": 25031,
+                            "length": 73
+                        },
+                        {
+                            "text": "Sanoma Magazines Finland 's net sales grew to EUR 140.1 mn from EUR 131.8 mn .@positive",
+                            "rankScore": 0.84,
+                            "offset": 26336,
+                            "length": 87
+                        },
+                        {
+                            "text": "Satama 's net profit for the third quarter of 2007 rose to 275,000 euro ( $ 395,000 ) from 270,000 euro ( $ 388,000 ) for the same period of 2006 .@positive",
+                            "rankScore": 0.86,
+                            "offset": 26424,
+                            "length": 156
+                        },
+                        {
+                            "text": "Stora Enso 's third-quarter pre-tax profit doubled to EUR 197mn .@positive",
+                            "rankScore": 0.93,
+                            "offset": 33124,
+                            "length": 74
+                        },
+                        {
+                            "text": "The broad-based WIG index ended Thursday 's session 0.1 pct up at 65,003.34 pts , while the blue-chip WIG20 was 1.13 down at 3,687.15 pts .@neutral",
+                            "rankScore": 0.85,
+                            "offset": 37336,
+                            "length": 147
+                        },
+                        {
+                            "text": "For the first nine months of 2010 , Talvivaara 's net loss narrowed to EUR 8.3 million from EUR 21.9 million for the same period of 2009 .@positive",
+                            "rankScore": 0.92,
+                            "offset": 45141,
+                            "length": 147
+                        },
+                        {
+                            "text": "The new factory working model and reorganisations would decrease Nokian Tyres ' costs in the factory by EUR 30 million ( USD 38.7 m ) .@positive",
+                            "rankScore": 0.91,
+                            "offset": 45791,
+                            "length": 144
+                        },
+                        {
+                            "text": "9 September 2010 - Finnish stationery and gift retailer Tiimari HEL : TII1V said today its net sales rose by 2 % year-on-year to EUR5 .7 m in August 2010 , driven by growth in Finland , while demand in the Baltics remained weak .@positive",
+                            "rankScore": 1,
+                            "offset": 54138,
+                            "length": 238
+                        },
+                        {
+                            "text": "EBITDA for the year 2009 improved to EUR484m , as compared with EUR472m in 2008 .@positive",
+                            "rankScore": 0.86,
+                            "offset": 63663,
+                            "length": 90
+                        },
+                        {
+                            "text": "When completed , the 120-meter Watchtower will be the highest building in Ireland .@neutral",
+                            "rankScore": 0.87,
+                            "offset": 89008,
+                            "length": 91
+                        },
+                        {
+                            "text": "London 's leading shares today jumped almost 100 points , or 1.7 % , as the market opened .@positive",
+                            "rankScore": 0.85,
+                            "offset": 104541,
+                            "length": 100
+                        },
+                        {
+                            "text": "Shares in Royal and Sun Alliance continued to slide back from a 12-month high of 172p last month , after a potential suitor ruled itself out of a takeover bid .@negative",
+                            "rankScore": 0.87,
+                            "offset": 108822,
+                            "length": 169
+                        },
+                        {
+                            "text": "Markets had been expecting a poor performance , and the company 's stock was up 6 percent at x20ac 23.89 US$ 33.84 in early afternoon trading in Helsinki .@positive",
+                            "rankScore": 0.87,
+                            "offset": 111520,
+                            "length": 164
+                        },
+                        {
+                            "text": "Excluding non-recurring items , pre-tax profit surged 45 % to EUR80m .@positive",
+                            "rankScore": 0.85,
+                            "offset": 111685,
+                            "length": 79
+                        },
+                        {
+                            "text": "2010 16 July 2010 - Finnish steel maker Rautaruukki Oyj HEL : RTRKS , or Ruukki , said today it turned to a net profit of EUR20m in the second quarter of 2010 from a net loss of EUR94m in the corresponding period last year .@positive",
+                            "rankScore": 0.86,
+                            "offset": 119597,
+                            "length": 233
+                        }
+                    ],
+                    "warnings": []
+                }
+            ],
+            "errors": [],
+            "modelVersion": "2023-02-01-preview"
+        }
+    }
+]
