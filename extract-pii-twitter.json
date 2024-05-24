@@ -1,0 +1,389 @@
+{
+    "documents": [
+        {
+            "redactedText": "How are you? Btw thanks for the RT. You gonna be in DC anytime soon? Love to see you. Been way, way too long.\r\nWhen you meet someone special... you'll know. Your heart will beat more rapidly and you'll smile for no reason.\r\nthey've decided its more fun if I don't.\r\nSo Tired D; Played Lazer Tag & Ran A LOT D; Ughh Going To Sleep Like ************ ;)\r\nWords from a complete ********! Made my birthday even better :)\r\nFirst **** game ever! Wrigley field is gorgeous. This is perfect. Go **** Go!\r\ni no! i get another day off from skool due to the wonderful snow (: and THIS wakes me up...damn thing\r\nI'm coo... Jus at work hella tired r u ever in cali\r\nThe new sundrop commercial ...hehe love at first sight\r\nwe need to reconnect THIS WEEK\r\nI always wonder how the **** on the auctions shows learned to talk so fast!? all I hear is djsosnekspqnslanskam.\r\nDammnnnnn what a catch\r\nsuch a great picture! The green shirt totally brings out your eyes!\r\nDesk put together, room all set up. Oh boy, oh boy\r\nI'm doing it!👦\r\nBeauty Brainstorming in the Alchemy office with and ************!\r\nLooking for a new band to blog for the month. anyone interested?\r\nPacking for a quick move down the street... If only I had some ******...\r\n**** focus hatchback?\r\nRT : According to the ************************** $16.3 BILLION was spent on #MothersDay last year!!\r\n“: \"The tragedy of life is not that it ends so soon, but that we wait so long to begin it.\" - **********”\r\nMore skating! Come by the check out a movie, eat a great dinner and top it off with great times at the ice rink.\r\nwatch your mailbox! : )\r\nTommorows *******...\r\nGood questions. RT : Your #brand will be judged based on its #website. Is your website a good brand ambassador?...\r\nDon't care what others think of you, and you will save yourself a lot of mental energy that instead can be used to push you towards success.\r\nThis ********** interview... is it possible to die from laughter?\r\n*****! Just looked at my sched & I have to hustle back to Chula for P.M. meetings, so no time 4 lunch. :( Do u meet every Fri?\r\n********* lets get it! RT : Shout that ***** out for winning\r\nI love you, and I'm so proud of you. From sitting on those stairs on The X Factor, to ***. You boys are my inspiration.♥ :) xx\r\nMaybe some other time I can't slow down, right across that state line right about ***\r\nExhaust leak! arrrgh\r\ni Love Reading your magazine (: it always cheers me up\r\nTables are all sold out for the Mystique Masquerade Ball.\r\nMake one up! It might help you feel better. Alternative: just scream nonsense at the dumb machine.\r\nya ik and i never asked him to follow me i only mentioned him once in one of my tweets- i didnt do anything else\r\nI will <3\r\nGreat talking to you **** tonight! Looking forward to your piece next week ***.\r\nSmall market baseball. You, know...for the 99%.\r\nSing it!\r\nit comes on tonight!! not ********!!\r\nmaybe? just seems they thought up that idea over ****** brunch and thought it was swell.\r\nThanks for the #FF! Awfully good company to be in.\r\n\"The longer we live the more we find we are like other *******.\" ~ *********************\r\nmade my list for top 99 women.\r\nnice I watched the whole series, LOVED ***** and her *** ***** was such a badass\r\n*** line on ***** gay marriage stance seems to be that he flip-flopped. Really want to use that with ****** as your **********************?\r\nI know, I know. Then you kick yourself when the fight goes lopsided. But if the ***** DOES happen, wow. Nothing like it.\r\nNo stress balls or keg and different **** -- but these **** know how to party\r\n************* ******** says ****** will plead insanity. He faces first-degree murder charge in *****'s death\r\n#OccupyMadison GA: \"I always considered myself a ******* until I saw the liberal machine in action. It was ugly.\"\r\nWeird thought: we got to witness the change of a millenia, the next change is 40 generations away...imagine what the differences will be!!\r\ngot a good one?\r\nlove ***********\r\nWit them sexy ass lips\r\nits sounds good\r\nHow (un??)fortunate that those days when every status update was a song lyrics were also the days when I first discovered ********...\r\nI had a bomb ass day Chillin' with *******.\r\nWorking on music for Holiday show on ****** in Santa Barbara!! OPEN BAR!! Me, *** from *************** and *********** from *********!!\r\nHey ****! Thanks for dropping by yesterday. How was your meal?\r\n#FF : literary lights who brightened my week.\r\nTime to shape up! Water, pavement, weights, and zija are going to be my *******. wedding just 4 months away!\r\nReport the many things that are positive about the ********************** athletics program.\r\n********/*********** should have a tool to charge $.99 per RT request. $ to support foundations/charities, **** get involved.\r\nEnjoy!! Stay cool!!\r\n\"...yo ***** she so thirst...\" aye!!! I really don't know what else they're saying tho except that lol\r\ntalks in third person.\r\n. many things can happen. Only YOU can control your reaction to it. Practice t",
+            "id": "id__7714",
+            "entities": [
+                {
+                    "text": "In 5 Minutes",
+                    "category": "DateTime",
+                    "offset": 332,
+                    "length": 12,
+                    "confidenceScore": 0.7
+                },
+                {
+                    "text": "stranger",
+                    "category": "PersonType",
+                    "offset": 370,
+                    "length": 8,
+                    "confidenceScore": 0.79
+                },
+                {
+                    "text": "Cubs",
+                    "category": "Organization",
+                    "offset": 418,
+                    "length": 4,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "Cubs",
+                    "category": "Organization",
+                    "offset": 481,
+                    "length": 4,
+                    "confidenceScore": 0.74
+                },
+                {
+                    "text": "guys",
+                    "category": "PersonType",
+                    "offset": 754,
+                    "length": 4,
+                    "confidenceScore": 0.91
+                },
+                {
+                    "text": "Sally Walker",
+                    "category": "Person",
+                    "offset": 1052,
+                    "length": 12,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "movers",
+                    "category": "PersonType",
+                    "offset": 1194,
+                    "length": 6,
+                    "confidenceScore": 0.98
+                },
+                {
+                    "text": "ford",
+                    "category": "Organization",
+                    "offset": 1204,
+                    "length": 4,
+                    "confidenceScore": 0.75
+                },
+                {
+                    "text": "National Retail Federation",
+                    "category": "Organization",
+                    "offset": 1248,
+                    "length": 26,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "W.M. Lewis",
+                    "category": "Person",
+                    "offset": 1420,
+                    "length": 10,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "the day",
+                    "category": "DateTime",
+                    "subcategory": "Date",
+                    "offset": 1579,
+                    "length": 7,
+                    "confidenceScore": 0.52
+                },
+                {
+                    "text": "Ron Artest",
+                    "category": "Person",
+                    "offset": 1851,
+                    "length": 10,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Linda",
+                    "category": "Person",
+                    "offset": 1912,
+                    "length": 5,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "Bum Squad",
+                    "category": "Organization",
+                    "offset": 2039,
+                    "length": 9,
+                    "confidenceScore": 0.84
+                },
+                {
+                    "text": "ninja",
+                    "category": "PersonType",
+                    "offset": 2078,
+                    "length": 5,
+                    "confidenceScore": 0.6
+                },
+                {
+                    "text": "now",
+                    "category": "DateTime",
+                    "offset": 2186,
+                    "length": 3,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "now",
+                    "category": "DateTime",
+                    "offset": 2309,
+                    "length": 3,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "guys",
+                    "category": "PersonType",
+                    "offset": 2690,
+                    "length": 4,
+                    "confidenceScore": 0.85
+                },
+                {
+                    "text": "Jon",
+                    "category": "Person",
+                    "offset": 2744,
+                    "length": 3,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "tomorrow",
+                    "category": "DateTime",
+                    "subcategory": "Date",
+                    "offset": 2832,
+                    "length": 8,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "sunday",
+                    "category": "DateTime",
+                    "subcategory": "Date",
+                    "offset": 2892,
+                    "length": 6,
+                    "confidenceScore": 0.96
+                },
+                {
+                    "text": "persons",
+                    "category": "PersonType",
+                    "offset": 3038,
+                    "length": 7,
+                    "confidenceScore": 0.56
+                },
+                {
+                    "text": "Oliver Wendell Holmes",
+                    "category": "Person",
+                    "offset": 3050,
+                    "length": 21,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Julia",
+                    "category": "Person",
+                    "offset": 3142,
+                    "length": 5,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "mom",
+                    "category": "PersonType",
+                    "offset": 3156,
+                    "length": 3,
+                    "confidenceScore": 0.98
+                },
+                {
+                    "text": "Erica",
+                    "category": "Person",
+                    "offset": 3160,
+                    "length": 5,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "GOP",
+                    "category": "Organization",
+                    "offset": 3184,
+                    "length": 3,
+                    "confidenceScore": 0.93
+                },
+                {
+                    "text": "Obama",
+                    "category": "Person",
+                    "offset": 3196,
+                    "length": 5,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Romney",
+                    "category": "Person",
+                    "offset": 3285,
+                    "length": 6,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "presidential candidate",
+                    "category": "PersonType",
+                    "offset": 3300,
+                    "length": 22,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "upset",
+                    "category": "PersonType",
+                    "offset": 3404,
+                    "length": 5,
+                    "confidenceScore": 0.57
+                },
+                {
+                    "text": "crew",
+                    "category": "PersonType",
+                    "offset": 3482,
+                    "length": 4,
+                    "confidenceScore": 0.62
+                },
+                {
+                    "text": "guys",
+                    "category": "PersonType",
+                    "offset": 3500,
+                    "length": 4,
+                    "confidenceScore": 0.73
+                },
+                {
+                    "text": "William Davis",
+                    "category": "Person",
+                    "offset": 3523,
+                    "length": 13,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "attorney",
+                    "category": "PersonType",
+                    "offset": 3537,
+                    "length": 8,
+                    "confidenceScore": 0.96
+                },
+                {
+                    "text": "client",
+                    "category": "PersonType",
+                    "offset": 3551,
+                    "length": 6,
+                    "confidenceScore": 0.97
+                },
+                {
+                    "text": "woman",
+                    "category": "PersonType",
+                    "offset": 3618,
+                    "length": 5,
+                    "confidenceScore": 0.77
+                },
+                {
+                    "text": "liberal",
+                    "category": "PersonType",
+                    "offset": 3681,
+                    "length": 7,
+                    "confidenceScore": 0.95
+                },
+                {
+                    "text": "chris brown",
+                    "category": "Person",
+                    "offset": 3906,
+                    "length": 11,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "New Wave",
+                    "category": "Organization",
+                    "offset": 4079,
+                    "length": 8,
+                    "confidenceScore": 0.71
+                },
+                {
+                    "text": "friends",
+                    "category": "PersonType",
+                    "offset": 4126,
+                    "length": 7,
+                    "confidenceScore": 0.98
+                },
+                {
+                    "text": "the 23",
+                    "category": "DateTime",
+                    "subcategory": "Date",
+                    "offset": 4172,
+                    "length": 6,
+                    "confidenceScore": 0.96
+                },
+                {
+                    "text": "Tim",
+                    "category": "Person",
+                    "offset": 4213,
+                    "length": 3,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "Palin White T's",
+                    "category": "Organization",
+                    "offset": 4222,
+                    "length": 15,
+                    "confidenceScore": 0.91
+                },
+                {
+                    "text": "JR Richards",
+                    "category": "Person",
+                    "offset": 4242,
+                    "length": 11,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Dishwalla",
+                    "category": "Organization",
+                    "offset": 4259,
+                    "length": 9,
+                    "confidenceScore": 0.83
+                },
+                {
+                    "text": "Nate",
+                    "category": "Person",
+                    "offset": 4275,
+                    "length": 4,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "friends",
+                    "category": "PersonType",
+                    "offset": 4452,
+                    "length": 7,
+                    "confidenceScore": 0.96
+                },
+                {
+                    "text": "University of Arkansas",
+                    "category": "Organization",
+                    "subcategory": "Sports",
+                    "offset": 4540,
+                    "length": 22,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Athletes",
+                    "category": "PersonType",
+                    "offset": 4582,
+                    "length": 8,
+                    "confidenceScore": 0.98
+                },
+                {
+                    "text": "celebrities",
+                    "category": "PersonType",
+                    "offset": 4591,
+                    "length": 11,
+                    "confidenceScore": 0.91
+                },
+                {
+                    "text": "fans",
+                    "category": "PersonType",
+                    "offset": 4689,
+                    "length": 4,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "chick",
+                    "category": "Person",
+                    "offset": 4735,
+                    "length": 5,
+                    "confidenceScore": 0.51
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2023-09-01"
+}
