@@ -1,0 +1,626 @@
+{
+    "documents": [
+        {
+            "id": "id__1411",
+            "entities": [
+                {
+                    "text": "Project Gutenberg",
+                    "category": "Organization",
+                    "offset": 4,
+                    "length": 17,
+                    "confidenceScore": 0.54
+                },
+                {
+                    "text": "Arthur Conan Doyle",
+                    "category": "Person",
+                    "offset": 72,
+                    "length": 18,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "15",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 93,
+                    "length": 2,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "Arthur Conan Doyle",
+                    "category": "Person",
+                    "offset": 117,
+                    "length": 18,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "world",
+                    "category": "Location",
+                    "subcategory": "Structural",
+                    "offset": 179,
+                    "length": 5,
+                    "confidenceScore": 0.74
+                },
+                {
+                    "text": "Project Gutenberg",
+                    "category": "Organization",
+                    "offset": 294,
+                    "length": 17,
+                    "confidenceScore": 0.66
+                },
+                {
+                    "text": "eBook",
+                    "category": "Skill",
+                    "offset": 312,
+                    "length": 5,
+                    "confidenceScore": 0.78
+                },
+                {
+                    "text": "first",
+                    "category": "Quantity",
+                    "subcategory": "Ordinal",
+                    "offset": 346,
+                    "length": 5,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Gutenberg",
+                    "category": "Product",
+                    "subcategory": "Computing",
+                    "offset": 389,
+                    "length": 9,
+                    "confidenceScore": 0.57
+                },
+                {
+                    "text": "eBook",
+                    "category": "Product",
+                    "offset": 561,
+                    "length": 5,
+                    "confidenceScore": 0.65
+                },
+                {
+                    "text": "Vanilla",
+                    "category": "Location",
+                    "subcategory": "City",
+                    "offset": 861,
+                    "length": 7,
+                    "confidenceScore": 0.58
+                },
+                {
+                    "text": "eBooks",
+                    "category": "Product",
+                    "offset": 891,
+                    "length": 6,
+                    "confidenceScore": 0.65
+                },
+                {
+                    "text": "Computers",
+                    "category": "Product",
+                    "offset": 929,
+                    "length": 9,
+                    "confidenceScore": 0.93
+                },
+                {
+                    "text": "Since 1971",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 940,
+                    "length": 10,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "eBooks",
+                    "category": "Product",
+                    "offset": 965,
+                    "length": 6,
+                    "confidenceScore": 0.93
+                },
+                {
+                    "text": "Volunteers",
+                    "category": "PersonType",
+                    "offset": 1002,
+                    "length": 10,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Author",
+                    "category": "PersonType",
+                    "offset": 1063,
+                    "length": 6,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "Arthur Conan Doyle",
+                    "category": "Person",
+                    "offset": 1075,
+                    "length": 18,
+                    "confidenceScore": 0.98
+                },
+                {
+                    "text": "March, 1999",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 1109,
+                    "length": 11,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "1661",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 1129,
+                    "length": 4,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "recently",
+                    "category": "DateTime",
+                    "offset": 1141,
+                    "length": 8,
+                    "confidenceScore": 0.55
+                },
+                {
+                    "text": "November 29, 2002",
+                    "category": "DateTime",
+                    "subcategory": "Date",
+                    "offset": 1159,
+                    "length": 17,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "12",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 1188,
+                    "length": 2,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "Language",
+                    "category": "Skill",
+                    "offset": 1192,
+                    "length": 8,
+                    "confidenceScore": 0.87
+                },
+                {
+                    "text": "English",
+                    "category": "Skill",
+                    "offset": 1202,
+                    "length": 7,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "EBOOK",
+                    "category": "Product",
+                    "offset": 1277,
+                    "length": 5,
+                    "confidenceScore": 0.6
+                },
+                {
+                    "text": "SHERLOCK HOLMES",
+                    "category": "Location",
+                    "subcategory": "City",
+                    "offset": 1302,
+                    "length": 15,
+                    "confidenceScore": 0.69
+                },
+                {
+                    "text": "Jose Menendez",
+                    "category": "Person",
+                    "offset": 1349,
+                    "length": 13,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "SHERLOCK HOLMES",
+                    "category": "Location",
+                    "subcategory": "City",
+                    "offset": 1385,
+                    "length": 15,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "ARTHUR CONAN DOYLE",
+                    "category": "Person",
+                    "offset": 1410,
+                    "length": 18,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Bohemia",
+                    "category": "Location",
+                    "subcategory": "GPE",
+                    "offset": 1456,
+                    "length": 7,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "Red-Headed League",
+                    "category": "Organization",
+                    "offset": 1472,
+                    "length": 17,
+                    "confidenceScore": 0.9
+                },
+                {
+                    "text": "Boscombe Valley",
+                    "category": "Location",
+                    "offset": 1522,
+                    "length": 15,
+                    "confidenceScore": 0.88
+                },
+                {
+                    "text": "Five",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 1553,
+                    "length": 4,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "Adventure of the Blue Carbuncle",
+                    "category": "Product",
+                    "offset": 1612,
+                    "length": 31,
+                    "confidenceScore": 0.63
+                },
+                {
+                    "text": "Adventure of the Engineer's Thumb",
+                    "category": "Product",
+                    "offset": 1693,
+                    "length": 33,
+                    "confidenceScore": 0.68
+                },
+                {
+                    "text": "The Adventure of the Noble Bachelor",
+                    "category": "Product",
+                    "offset": 1730,
+                    "length": 35,
+                    "confidenceScore": 0.84
+                },
+                {
+                    "text": "Beryl Coronet",
+                    "category": "Person",
+                    "offset": 1791,
+                    "length": 13,
+                    "confidenceScore": 0.7
+                },
+                {
+                    "text": "The Adventure of the Copper Beeches",
+                    "category": "Product",
+                    "offset": 1810,
+                    "length": 35,
+                    "confidenceScore": 0.76
+                },
+                {
+                    "text": "BOHEMIA",
+                    "category": "Location",
+                    "subcategory": "GPE",
+                    "offset": 1874,
+                    "length": 7,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Sherlock Holmes",
+                    "category": "Person",
+                    "offset": 1891,
+                    "length": 15,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Irene Adler",
+                    "category": "Person",
+                    "offset": 2107,
+                    "length": 11,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "reasoning",
+                    "category": "Skill",
+                    "offset": 2262,
+                    "length": 9,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "observing",
+                    "category": "Skill",
+                    "offset": 2276,
+                    "length": 9,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "lover",
+                    "category": "PersonType",
+                    "offset": 2328,
+                    "length": 5,
+                    "confidenceScore": 0.91
+                },
+                {
+                    "text": "observer",
+                    "category": "PersonType",
+                    "offset": 2488,
+                    "length": 8,
+                    "confidenceScore": 0.98
+                },
+                {
+                    "text": "reasoner",
+                    "category": "PersonType",
+                    "offset": 2581,
+                    "length": 8,
+                    "confidenceScore": 0.88
+                },
+                {
+                    "text": "one",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 2808,
+                    "length": 3,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "high-power lenses",
+                    "category": "Product",
+                    "offset": 2823,
+                    "length": 17,
+                    "confidenceScore": 0.67
+                },
+                {
+                    "text": "one",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 2940,
+                    "length": 3,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "Irene Adler",
+                    "category": "Person",
+                    "offset": 2986,
+                    "length": 11,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Holmes",
+                    "category": "Person",
+                    "offset": 3057,
+                    "length": 6,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "marriage",
+                    "category": "Event",
+                    "offset": 3075,
+                    "length": 8,
+                    "confidenceScore": 0.83
+                },
+                {
+                    "text": "home",
+                    "category": "Location",
+                    "offset": 3156,
+                    "length": 4,
+                    "confidenceScore": 0.67
+                },
+                {
+                    "text": "man",
+                    "category": "PersonType",
+                    "offset": 3204,
+                    "length": 3,
+                    "confidenceScore": 0.68
+                },
+                {
+                    "text": "first",
+                    "category": "Quantity",
+                    "subcategory": "Ordinal",
+                    "offset": 3212,
+                    "length": 5,
+                    "confidenceScore": 0.98
+                },
+                {
+                    "text": "master",
+                    "category": "PersonType",
+                    "offset": 3232,
+                    "length": 6,
+                    "confidenceScore": 0.81
+                },
+                {
+                    "text": "Holmes",
+                    "category": "Person",
+                    "offset": 3315,
+                    "length": 6,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "lodgings",
+                    "category": "Location",
+                    "offset": 3403,
+                    "length": 8,
+                    "confidenceScore": 0.67
+                },
+                {
+                    "text": "Baker Street",
+                    "category": "Location",
+                    "offset": 3415,
+                    "length": 12,
+                    "confidenceScore": 0.66
+                },
+                {
+                    "text": "books",
+                    "category": "Product",
+                    "offset": 3450,
+                    "length": 5,
+                    "confidenceScore": 0.87
+                },
+                {
+                    "text": "week to",
+                    "category": "DateTime",
+                    "subcategory": "Set",
+                    "offset": 3478,
+                    "length": 7,
+                    "confidenceScore": 0.55
+                },
+                {
+                    "text": "cocaine",
+                    "category": "Product",
+                    "offset": 3499,
+                    "length": 7,
+                    "confidenceScore": 0.91
+                },
+                {
+                    "text": "drug",
+                    "category": "Product",
+                    "offset": 3543,
+                    "length": 4,
+                    "confidenceScore": 0.79
+                },
+                {
+                    "text": "observation",
+                    "category": "Skill",
+                    "offset": 3721,
+                    "length": 11,
+                    "confidenceScore": 0.97
+                },
+                {
+                    "text": "police",
+                    "category": "PersonType",
+                    "offset": 3848,
+                    "length": 6,
+                    "confidenceScore": 0.61
+                },
+                {
+                    "text": "Odessa",
+                    "category": "Location",
+                    "subcategory": "City",
+                    "offset": 3934,
+                    "length": 6,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "Trepoff murder",
+                    "category": "Event",
+                    "offset": 3960,
+                    "length": 14,
+                    "confidenceScore": 0.74
+                },
+                {
+                    "text": "Atkinson",
+                    "category": "Person",
+                    "offset": 4026,
+                    "length": 8,
+                    "confidenceScore": 0.91
+                },
+                {
+                    "text": "brothers",
+                    "category": "PersonType",
+                    "offset": 4035,
+                    "length": 8,
+                    "confidenceScore": 0.87
+                },
+                {
+                    "text": "Trincomalee",
+                    "category": "Location",
+                    "subcategory": "City",
+                    "offset": 4047,
+                    "length": 11,
+                    "confidenceScore": 0.92
+                },
+                {
+                    "text": "Holland",
+                    "category": "Location",
+                    "subcategory": "CountryRegion",
+                    "offset": 4171,
+                    "length": 7,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "readers",
+                    "category": "PersonType",
+                    "offset": 4260,
+                    "length": 7,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "daily",
+                    "category": "DateTime",
+                    "subcategory": "Set",
+                    "offset": 4275,
+                    "length": 5,
+                    "confidenceScore": 0.96
+                },
+                {
+                    "text": "friend",
+                    "category": "PersonType",
+                    "offset": 4315,
+                    "length": 6,
+                    "confidenceScore": 0.89
+                },
+                {
+                    "text": "companion",
+                    "category": "PersonType",
+                    "offset": 4326,
+                    "length": 9,
+                    "confidenceScore": 0.96
+                },
+                {
+                    "text": "One night",
+                    "category": "DateTime",
+                    "subcategory": "Duration",
+                    "offset": 4338,
+                    "length": 9,
+                    "confidenceScore": 0.97
+                },
+                {
+                    "text": "the twentieth of March, 1888",
+                    "category": "DateTime",
+                    "subcategory": "Date",
+                    "offset": 4359,
+                    "length": 28,
+                    "confidenceScore": 0.98
+                },
+                {
+                    "text": "patient",
+                    "category": "PersonType",
+                    "offset": 4425,
+                    "length": 7,
+                    "confidenceScore": 0.95
+                },
+                {
+                    "text": "now",
+                    "category": "DateTime",
+                    "offset": 4444,
+                    "length": 3,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "Baker Street",
+                    "category": "Address",
+                    "offset": 4504,
+                    "length": 12,
+                    "confidenceScore": 0.79
+                },
+                {
+                    "text": "Scarlet",
+                    "category": "Location",
+                    "subcategory": "City",
+                    "offset": 4659,
+                    "length": 7,
+                    "confidenceScore": 0.55
+                },
+                {
+                    "text": "Holmes",
+                    "category": "Person",
+                    "offset": 4707,
+                    "length": 6,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "rooms",
+                    "category": "Location",
+                    "offset": 4784,
+                    "length": 5,
+                    "confidenceScore": 0.97
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2023-09-01"
+}
