@@ -1,0 +1,474 @@
+{
+    "documents": [
+        {
+            "redactedText": "Hello Colorado. We love Colorado, most beautiful place And I'm thrilled to be back in Colorado Springs. I've spent a lot of time here over the years. Beautiful place, beneath the majestic peaks, that's true, of the Rocky Mountains with thousands of terrific, hardworking, great ******** ********. With your help this November, we are going to defeat the radical ********* and we are going to win Colorado in a landslide. And you're going to help us get ************ across that line because he's been with us 100%. there was no waiver. He's been with us. There was no waiver with *****. We appreciate it. Thank you *****. Thank you. This month we mark a very special anniversary. 75 years ago this week our brave ********************* landed on the shores of Iwo Jima and began one of the bloodiest battles of the second world war. It was a rough one. Tonight it's our great privilege to be joined by three of the ****** of the Battle of Iwo Jima, ************, ************** and ************. Great, great ********, very brave people. Just passed away. Sadly he passed away just **************. He was going to be here. Passed away **************, but he was great. I have a beautiful picture of him right outside and we're going to honor him and his ******. Great, great *********. So we were going to have four. We have three and we want to thank you for being here. Thank you all. Thank you. Because America is truly a land of ******, on behalf of the grateful nation I would like to recognize the many ******** of the Vietnam War and the Iraq and Afghanistan Wars who are here this evening, and a lot of them. Great ******, great ******. This is a truly incredible time for America. We have the best economy in our history, the most prosperity of any country. We are doing better than any country in the world, that is not even close. And we've rebuilt our military over the last three years. Don't tell anybody, but we spent two and a half trillion dollars. But when it comes to our military and our safety and our security, we don't worry about budgets, right? We don't worry about budgets. We had to rebuild it. It was depleted. It was in bad shape. It was old, it was tired. We have the best ****** in the world, but they had old equipment. *** we have brand new jets. We have brand new missiles and rockets. We have everything all made in the USA. In my State of the Union Address, I proudly declared that we are in the midst of the great American comeback. That's what we're doing. Our country is stronger ***** than ever before. After three years of ridiculous witch hunts and scams and partisan ******** crusades, the ************'s attempt to poison our democracy and overturn this last election have totally failed. They have been a complete flop and we ***** have the highest poll numbers we've ever had *****, just came out. And I don't know if anybody watched last night's debate, it got very big ratings and you know what? Mini **** didn't do well last night. I was going to send him a note saying it's not easy doing what I do, is it? It's not easy, ****. Not easy for any of them. Now, **** didn't do too well. He went way down. It's all right. Mini ****. How about *********, did you see her? She choked. She choked. She couldn't breathe. **************** looked at her and said something slightly derogatory and she said, \"Are you accusing me of being dumb?\" Who would make a statement like that? Because that's really what he was doing, but he doesn't want to say that. No, how about that? \"Are you saying I'm dumb?\" That was the end of her campaign in my book. You don't say that. Even if it's true, you don't say that. They had a crazy person on ***** on one of the *** shows. I tell you, *** doesn't treat us the way they used to. But we have the great ************, we do, and we have ***** and ******. And we have in the morning ***************, ***** and *******, and *****'s gotten much better, he's moving up. And we have the great *********. ********* says he's the greatest ********* ever. The great *********. He says, ********* a year and a half, two years ago he said, \"He's the greatest since ******.\" Then he said about six months ago, \"He's better than ******.\" And then he said a few nights ago, \"He's the greatest we've ever had.\" I said, \"Does that include ******* and *****************?\" He said, \"That includes them all.\" That's *********. The great *********. And you've got ******* and you've got ************. How about *****? And Judge ******* and even ************. **** hated us, right? But *** he says, \"Look, whether I like him or not, he gets it done. It's all about getting it done.\" We're getting it done. Nobody's ever done what we've done. No, but *** says, and I don't know, it's different. It was different. In the old days, it was better for us. It was better for us. But it's okay, we'll win anyway. No, but they had this ***** on. ***********, doesn't treat us good. ***********, he's not too good. She said, \"I don't like him.\" ",
+            "id": "id__2888",
+            "entities": [
+                {
+                    "text": "American",
+                    "category": "PersonType",
+                    "offset": 278,
+                    "length": 8,
+                    "confidenceScore": 0.7
+                },
+                {
+                    "text": "patriots",
+                    "category": "PersonType",
+                    "offset": 287,
+                    "length": 8,
+                    "confidenceScore": 0.64
+                },
+                {
+                    "text": "Democrats",
+                    "category": "PersonType",
+                    "offset": 362,
+                    "length": 9,
+                    "confidenceScore": 0.78
+                },
+                {
+                    "text": "Cory Gardner",
+                    "category": "Person",
+                    "offset": 453,
+                    "length": 12,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Corey",
+                    "category": "Person",
+                    "offset": 580,
+                    "length": 5,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Corey",
+                    "category": "Person",
+                    "offset": 615,
+                    "length": 5,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "United States Marines",
+                    "category": "Organization",
+                    "offset": 713,
+                    "length": 21,
+                    "confidenceScore": 0.72
+                },
+                {
+                    "text": "heroes",
+                    "category": "PersonType",
+                    "offset": 914,
+                    "length": 6,
+                    "confidenceScore": 0.96
+                },
+                {
+                    "text": "James Blaine",
+                    "category": "Person",
+                    "offset": 948,
+                    "length": 12,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Donald Whipple",
+                    "category": "Person",
+                    "offset": 962,
+                    "length": 14,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "John Thurman",
+                    "category": "Person",
+                    "offset": 981,
+                    "length": 12,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "patriots",
+                    "category": "PersonType",
+                    "offset": 1008,
+                    "length": 8,
+                    "confidenceScore": 0.97
+                },
+                {
+                    "text": "a few days ago",
+                    "category": "DateTime",
+                    "subcategory": "Date",
+                    "offset": 1081,
+                    "length": 14,
+                    "confidenceScore": 0.91
+                },
+                {
+                    "text": "a few days ago",
+                    "category": "DateTime",
+                    "subcategory": "Date",
+                    "offset": 1134,
+                    "length": 14,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "family",
+                    "category": "PersonType",
+                    "offset": 1253,
+                    "length": 6,
+                    "confidenceScore": 0.79
+                },
+                {
+                    "text": "gentlemen",
+                    "category": "PersonType",
+                    "offset": 1274,
+                    "length": 9,
+                    "confidenceScore": 0.67
+                },
+                {
+                    "text": "heroes",
+                    "category": "PersonType",
+                    "offset": 1432,
+                    "length": 6,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "veterans",
+                    "category": "PersonType",
+                    "offset": 1508,
+                    "length": 8,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "people",
+                    "category": "PersonType",
+                    "offset": 1622,
+                    "length": 6,
+                    "confidenceScore": 0.48
+                },
+                {
+                    "text": "people",
+                    "category": "PersonType",
+                    "offset": 1636,
+                    "length": 6,
+                    "confidenceScore": 0.38
+                },
+                {
+                    "text": "people",
+                    "category": "PersonType",
+                    "offset": 2202,
+                    "length": 6,
+                    "confidenceScore": 0.92
+                },
+                {
+                    "text": "Now",
+                    "category": "DateTime",
+                    "offset": 2251,
+                    "length": 3,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "today",
+                    "category": "DateTime",
+                    "subcategory": "Date",
+                    "offset": 2518,
+                    "length": 5,
+                    "confidenceScore": 0.91
+                },
+                {
+                    "text": "Democrat",
+                    "category": "Organization",
+                    "offset": 2609,
+                    "length": 8,
+                    "confidenceScore": 0.87
+                },
+                {
+                    "text": "radical left",
+                    "category": "Organization",
+                    "offset": 2632,
+                    "length": 12,
+                    "confidenceScore": 0.84
+                },
+                {
+                    "text": "today",
+                    "category": "DateTime",
+                    "subcategory": "Date",
+                    "offset": 2770,
+                    "length": 5,
+                    "confidenceScore": 0.94
+                },
+                {
+                    "text": "today",
+                    "category": "DateTime",
+                    "subcategory": "Date",
+                    "offset": 2821,
+                    "length": 5,
+                    "confidenceScore": 0.95
+                },
+                {
+                    "text": "Mike",
+                    "category": "Person",
+                    "offset": 2948,
+                    "length": 4,
+                    "confidenceScore": 0.56
+                },
+                {
+                    "text": "Mike",
+                    "category": "Person",
+                    "offset": 3071,
+                    "length": 4,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Mike",
+                    "category": "Person",
+                    "offset": 3108,
+                    "length": 4,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "mike",
+                    "category": "Person",
+                    "offset": 3172,
+                    "length": 4,
+                    "confidenceScore": 0.72
+                },
+                {
+                    "text": "Klobuchar",
+                    "category": "Person",
+                    "offset": 3188,
+                    "length": 9,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Alfred E. Neuman",
+                    "category": "Person",
+                    "offset": 3262,
+                    "length": 16,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "today",
+                    "category": "DateTime",
+                    "subcategory": "Date",
+                    "offset": 3673,
+                    "length": 5,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "Fox",
+                    "category": "Organization",
+                    "offset": 3693,
+                    "length": 3,
+                    "confidenceScore": 0.97
+                },
+                {
+                    "text": "Fox",
+                    "category": "Organization",
+                    "offset": 3716,
+                    "length": 3,
+                    "confidenceScore": 0.7
+                },
+                {
+                    "text": "Sean Hannity",
+                    "category": "Person",
+                    "offset": 3781,
+                    "length": 12,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Laura",
+                    "category": "Person",
+                    "offset": 3814,
+                    "length": 5,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Tucker",
+                    "category": "Person",
+                    "offset": 3824,
+                    "length": 6,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Fox and Friends",
+                    "category": "Organization",
+                    "offset": 3859,
+                    "length": 15,
+                    "confidenceScore": 0.78
+                },
+                {
+                    "text": "Steve",
+                    "category": "Person",
+                    "offset": 3876,
+                    "length": 5,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Ainsley",
+                    "category": "Person",
+                    "offset": 3886,
+                    "length": 7,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Brian",
+                    "category": "Person",
+                    "offset": 3899,
+                    "length": 5,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Lou Dobbs",
+                    "category": "Person",
+                    "offset": 3965,
+                    "length": 9,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Lou Dobbs",
+                    "category": "Person",
+                    "offset": 3976,
+                    "length": 9,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "president",
+                    "category": "PersonType",
+                    "offset": 4009,
+                    "length": 9,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Lou Dobbs",
+                    "category": "Person",
+                    "offset": 4035,
+                    "length": 9,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Lou Dobbs",
+                    "category": "Person",
+                    "offset": 4055,
+                    "length": 9,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Reagan",
+                    "category": "Person",
+                    "offset": 4132,
+                    "length": 6,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "Reagan",
+                    "category": "Person",
+                    "offset": 4194,
+                    "length": 6,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Lincoln",
+                    "category": "Person",
+                    "offset": 4301,
+                    "length": 7,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "George Washington",
+                    "category": "Person",
+                    "offset": 4313,
+                    "length": 17,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Lou Dobbs",
+                    "category": "Person",
+                    "offset": 4375,
+                    "length": 9,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Lou Dobbs",
+                    "category": "Person",
+                    "offset": 4396,
+                    "length": 9,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Hegseth",
+                    "category": "Person",
+                    "offset": 4422,
+                    "length": 7,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Jesse Waters",
+                    "category": "Person",
+                    "offset": 4445,
+                    "length": 12,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Jesse",
+                    "category": "Person",
+                    "offset": 4469,
+                    "length": 5,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Jeanine",
+                    "category": "Person",
+                    "offset": 4486,
+                    "length": 7,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Greg Gutfeld",
+                    "category": "Person",
+                    "offset": 4503,
+                    "length": 12,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Greg",
+                    "category": "Person",
+                    "offset": 4517,
+                    "length": 4,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "now",
+                    "category": "DateTime",
+                    "offset": 4543,
+                    "length": 3,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "Fox",
+                    "category": "Person",
+                    "offset": 4707,
+                    "length": 3,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "woman",
+                    "category": "PersonType",
+                    "offset": 4885,
+                    "length": 5,
+                    "confidenceScore": 0.72
+                },
+                {
+                    "text": "Neil Cavuto",
+                    "category": "Person",
+                    "offset": 4895,
+                    "length": 11,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Neil Cavuto",
+                    "category": "Person",
+                    "offset": 4931,
+                    "length": 11,
+                    "confidenceScore": 1
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2023-09-01"
+}
