@@ -1,0 +1,105 @@
+[
+    {
+        "kind": "AbstractiveSummarizationLROResults",
+        "lastUpdateDateTime": "2024-05-24T08:03:28.9596672Z",
+        "status": "succeeded",
+        "results": {
+            "documents": [
+                {
+                    "summaries": [
+                        {
+                            "text": "The document is a transcript from the Project Gutenberg EBook of The Adventures of Sherlock Holmes by Sir Arthur Conan Doyle. The book is a dialogue from the adventures of Sherlock Holmes, where he is dealing with a mysterious caller who claims to be the King of Bohemia and wants to consult him on a significant matter. The caller is revealed to be the King, who had written compromising letters to Irene Adler and is now seeking their return. The King is also concerned about a photograph of Adler that was sent to Holmes. However, the photograph was of Adler herself and she had left for the continent with her husband. The document also mentions a case involving a mysterious man named John Clay, who is known for his criminal activities. The document ends with a successful attempt at a bank robbery by Holmes.",
+                            "contexts": [
+                                {
+                                    "offset": 0,
+                                    "length": 103441
+                                }
+                            ]
+                        }
+                    ],
+                    "id": "id__661",
+                    "warnings": []
+                }
+            ],
+            "errors": [],
+            "modelVersion": "latest"
+        }
+    },
+    {
+        "kind": "ExtractiveSummarizationLROResults",
+        "lastUpdateDateTime": "2024-05-24T08:03:39.5330366Z",
+        "status": "succeeded",
+        "results": {
+            "documents": [
+                {
+                    "id": "id__661",
+                    "sentences": [
+                        {
+                            "text": "The Project Gutenberg EBook of The Adventures of Sherlock Holmes",
+                            "rankScore": 1,
+                            "offset": 0,
+                            "length": 64
+                        },
+                        {
+                            "text": "by Sir Arthur Conan Doyle",
+                            "rankScore": 0.79,
+                            "offset": 65,
+                            "length": 25
+                        },
+                        {
+                            "text": "(#15 in our series by Sir Arthur Conan Doyle)",
+                            "rankScore": 0.64,
+                            "offset": 91,
+                            "length": 45
+                        },
+                        {
+                            "text": "eBook and Project Gutenberg at the bottom of this file.",
+                            "rankScore": 0.71,
+                            "offset": 561,
+                            "length": 55
+                        },
+                        {
+                            "text": "**Welcome To The World of Free Plain Vanilla Electronic Texts**",
+                            "rankScore": 0.64,
+                            "offset": 824,
+                            "length": 63
+                        },
+                        {
+                            "text": "\"Irene Adler is married,\" remarked Holmes.",
+                            "rankScore": 0.67,
+                            "offset": 42912,
+                            "length": 42
+                        },
+                        {
+                            "text": "\"Irene's photograph!\" he cried.",
+                            "rankScore": 0.68,
+                            "offset": 47582,
+                            "length": 31
+                        },
+                        {
+                            "text": "And when he speaks of Irene Adler, or when he refers to her photograph, it is always under the honourable title of the woman.",
+                            "rankScore": 0.64,
+                            "offset": 48153,
+                            "length": 125
+                        },
+                        {
+                            "text": "As far as I can make out, the League was founded by an American millionaire, Ezekiah Hopkins, who was very peculiar in his ways.",
+                            "rankScore": 0.64,
+                            "offset": 59332,
+                            "length": 128
+                        },
+                        {
+                            "text": "He's a remarkable man, is young John Clay.",
+                            "rankScore": 0.64,
+                            "offset": 83728,
+                            "length": 42
+                        }
+                    ],
+                    "warnings": []
+                }
+            ],
+            "errors": [],
+            "modelVersion": "2023-02-01-preview"
+        }
+    }
+]
