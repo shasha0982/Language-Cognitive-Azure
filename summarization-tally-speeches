@@ -24,5 +24,142 @@
             "errors": [],
             "modelVersion": "latest"
         }
+    },
+    {
+        "kind": "ExtractiveSummarizationLROResults",
+        "lastUpdateDateTime": "2024-05-24T08:19:08.7426151Z",
+        "status": "succeeded",
+        "results": {
+            "documents": [
+                {
+                    "id": "id__1715",
+                    "sentences": [
+                        {
+                            "text": "75 years ago this week our brave United States Marines landed on the shores of Iwo Jima and began one of the bloodiest battles of the second world war.",
+                            "rankScore": 0.96,
+                            "offset": 680,
+                            "length": 151
+                        },
+                        {
+                            "text": "Tonight it's our great privilege to be joined by three of the heroes of the Battle of Iwo Jima, James Blaine, Donald Whipple and John Thurman.",
+                            "rankScore": 0.97,
+                            "offset": 852,
+                            "length": 142
+                        },
+                        {
+                            "text": "Lou Dobbs says he's the greatest president ever.",
+                            "rankScore": 1,
+                            "offset": 3976,
+                            "length": 48
+                        },
+                        {
+                            "text": "She said, \"Donald Trump didn't do well in the debates.\"",
+                            "rankScore": 0.87,
+                            "offset": 9746,
+                            "length": 55
+                        },
+                        {
+                            "text": "Trump didn't do well in the debate.",
+                            "rankScore": 0.87,
+                            "offset": 13122,
+                            "length": 35
+                        },
+                        {
+                            "text": "We have more enthusiasm than any party has had in the last 50 years.",
+                            "rankScore": 0.88,
+                            "offset": 25027,
+                            "length": 68
+                        },
+                        {
+                            "text": "The era of economic surrender is over, thank you.",
+                            "rankScore": 0.9,
+                            "offset": 37947,
+                            "length": 49
+                        },
+                        {
+                            "text": "Also, something we got that people don't talk about, if you love your children, you don't have to pay estate taxes on your beautiful small farms and businesses.",
+                            "rankScore": 0.88,
+                            "offset": 38268,
+                            "length": 160
+                        },
+                        {
+                            "text": "$50 billion on no issue have Washington Democrats more thoroughly sold out the American people than on immigration.",
+                            "rankScore": 0.96,
+                            "offset": 42616,
+                            "length": 115
+                        },
+                        {
+                            "text": "Democrats think that Colorado should be a haven for murderers, predators, kidnappers, and felons in our country and that come in illegally.",
+                            "rankScore": 0.9,
+                            "offset": 45051,
+                            "length": 139
+                        },
+                        {
+                            "text": "Republicans believe that Colorado should be a sanctuary for law abiding Americans, not criminal aliens.",
+                            "rankScore": 0.85,
+                            "offset": 45191,
+                            "length": 103
+                        },
+                        {
+                            "text": "If you want to shut down sanctuary cities and stop sanctuary states, if you want to protect your family and your loved ones, you must vote for Cory, vote for Trump, vote for the Republican party.",
+                            "rankScore": 0.92,
+                            "offset": 45295,
+                            "length": 195
+                        },
+                        {
+                            "text": "New Mexico is going to be a great, great state for the Republican party, and Arizona, what we're doing on the border in Arizona, they want us to do it badly.",
+                            "rankScore": 0.9,
+                            "offset": 46986,
+                            "length": 157
+                        },
+                        {
+                            "text": "Republicans are fighting for school choice, big deal, it's a big deal, because no parents should ever be forced to send their child to a failing government school.",
+                            "rankScore": 0.85,
+                            "offset": 56070,
+                            "length": 163
+                        },
+                        {
+                            "text": "To uphold the new rule of law, we have confirmed 217 brand new, beautiful federal judges who will interpret the Constitution as written.",
+                            "rankScore": 0.88,
+                            "offset": 56234,
+                            "length": 136
+                        },
+                        {
+                            "text": "Colorado zone, Neil Gorsuch and Brett Kavanaugh.",
+                            "rankScore": 0.91,
+                            "offset": 57078,
+                            "length": 48
+                        },
+                        {
+                            "text": "Now you have a President who is standing up for America and we are standing up for the great people of Colorado.",
+                            "rankScore": 0.89,
+                            "offset": 58427,
+                            "length": 112
+                        },
+                        {
+                            "text": "But I hear they're going to have 10 million people, they say anywhere from six to 10 million people are going to be showing up along the route to one of the largest stadiums in the world, the largest cricket stadium in the world, which is brand new and beautiful.",
+                            "rankScore": 0.91,
+                            "offset": 59701,
+                            "length": 263
+                        },
+                        {
+                            "text": "we will land the first woman on the moon and become the first station in the world to plant our flag on Mars.",
+                            "rankScore": 0.96,
+                            "offset": 61040,
+                            "length": 109
+                        },
+                        {
+                            "text": "Above all, we will never stop fighting for the sacred values that bind us together as one, beautiful America.",
+                            "rankScore": 0.88,
+                            "offset": 61313,
+                            "length": 109
+                        }
+                    ],
+                    "warnings": []
+                }
+            ],
+            "errors": [],
+            "modelVersion": "2023-02-01-preview"
+        }
     }
 ]
