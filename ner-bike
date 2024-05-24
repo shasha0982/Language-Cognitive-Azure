@@ -1,0 +1,992 @@
+{
+    "documents": [
+        {
+            "id": "id__3272",
+            "entities": [
+                {
+                    "text": "Bike",
+                    "category": "Product",
+                    "offset": 43,
+                    "length": 4,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "Hadi Fanaee-T",
+                    "category": "Person",
+                    "offset": 108,
+                    "length": 13,
+                    "confidenceScore": 0.58
+                },
+                {
+                    "text": "Laboratory of Artificial Intelligence and Decision Support",
+                    "category": "Organization",
+                    "offset": 123,
+                    "length": 58,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "LIAAD",
+                    "category": "Organization",
+                    "offset": 183,
+                    "length": 5,
+                    "confidenceScore": 0.94
+                },
+                {
+                    "text": "University of Porto",
+                    "category": "Organization",
+                    "offset": 191,
+                    "length": 19,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "INESC",
+                    "category": "Organization",
+                    "offset": 211,
+                    "length": 5,
+                    "confidenceScore": 0.85
+                },
+                {
+                    "text": "Porto",
+                    "category": "Location",
+                    "subcategory": "City",
+                    "offset": 217,
+                    "length": 5,
+                    "confidenceScore": 0.92
+                },
+                {
+                    "text": "Campus",
+                    "category": "Location",
+                    "subcategory": "Structural",
+                    "offset": 224,
+                    "length": 6,
+                    "confidenceScore": 0.66
+                },
+                {
+                    "text": "FEUP",
+                    "category": "Organization",
+                    "offset": 234,
+                    "length": 4,
+                    "confidenceScore": 0.65
+                },
+                {
+                    "text": "Rua Dr. Roberto Frias, 378",
+                    "category": "Address",
+                    "offset": 239,
+                    "length": 26,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "4200 - 465 Porto, Portugal",
+                    "category": "Address",
+                    "offset": 266,
+                    "length": 26,
+                    "confidenceScore": 0.97
+                },
+                {
+                    "text": "Bike",
+                    "category": "Product",
+                    "offset": 391,
+                    "length": 4,
+                    "confidenceScore": 0.69
+                },
+                {
+                    "text": "bike",
+                    "category": "Product",
+                    "offset": 446,
+                    "length": 4,
+                    "confidenceScore": 0.71
+                },
+                {
+                    "text": "user",
+                    "category": "PersonType",
+                    "offset": 564,
+                    "length": 4,
+                    "confidenceScore": 0.98
+                },
+                {
+                    "text": "bike",
+                    "category": "Product",
+                    "offset": 594,
+                    "length": 4,
+                    "confidenceScore": 0.97
+                },
+                {
+                    "text": "500",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 695,
+                    "length": 3,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "bike",
+                    "category": "Product",
+                    "offset": 699,
+                    "length": 4,
+                    "confidenceScore": 0.77
+                },
+                {
+                    "text": "500 thousands",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 764,
+                    "length": 13,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "bicycles",
+                    "category": "Product",
+                    "offset": 778,
+                    "length": 8,
+                    "confidenceScore": 0.98
+                },
+                {
+                    "text": "Today",
+                    "category": "DateTime",
+                    "subcategory": "Date",
+                    "offset": 788,
+                    "length": 5,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "bike sharing",
+                    "category": "Product",
+                    "offset": 964,
+                    "length": 12,
+                    "confidenceScore": 0.75
+                },
+                {
+                    "text": "data",
+                    "category": "Skill",
+                    "offset": 1009,
+                    "length": 4,
+                    "confidenceScore": 0.93
+                },
+                {
+                    "text": "research",
+                    "category": "Skill",
+                    "offset": 1076,
+                    "length": 8,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "transport services",
+                    "category": "Skill",
+                    "offset": 1103,
+                    "length": 18,
+                    "confidenceScore": 0.71
+                },
+                {
+                    "text": "bus",
+                    "category": "Product",
+                    "offset": 1130,
+                    "length": 3,
+                    "confidenceScore": 0.71
+                },
+                {
+                    "text": "bike",
+                    "category": "Product",
+                    "offset": 1260,
+                    "length": 4,
+                    "confidenceScore": 0.88
+                },
+                {
+                    "text": "virtual",
+                    "category": "Product",
+                    "subcategory": "Computing",
+                    "offset": 1287,
+                    "length": 7,
+                    "confidenceScore": 0.59
+                },
+                {
+                    "text": "mobility",
+                    "category": "Skill",
+                    "offset": 1339,
+                    "length": 8,
+                    "confidenceScore": 0.74
+                },
+                {
+                    "text": "city",
+                    "category": "Location",
+                    "offset": 1355,
+                    "length": 4,
+                    "confidenceScore": 0.95
+                },
+                {
+                    "text": "city",
+                    "category": "Location",
+                    "offset": 1420,
+                    "length": 4,
+                    "confidenceScore": 0.88
+                },
+                {
+                    "text": "monitoring",
+                    "category": "Skill",
+                    "offset": 1447,
+                    "length": 10,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "Data",
+                    "category": "Skill",
+                    "offset": 1513,
+                    "length": 4,
+                    "confidenceScore": 0.64
+                },
+                {
+                    "text": "Bike",
+                    "category": "Product",
+                    "offset": 1564,
+                    "length": 4,
+                    "confidenceScore": 0.87
+                },
+                {
+                    "text": "weather conditions",
+                    "category": "Skill",
+                    "offset": 1671,
+                    "length": 18,
+                    "confidenceScore": 0.72
+                },
+                {
+                    "text": "can",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 1749,
+                    "length": 3,
+                    "confidenceScore": 0.69
+                },
+                {
+                    "text": "data set",
+                    "category": "Skill",
+                    "offset": 1791,
+                    "length": 8,
+                    "confidenceScore": 0.98
+                },
+                {
+                    "text": "two-year",
+                    "category": "DateTime",
+                    "subcategory": "Duration",
+                    "offset": 1818,
+                    "length": 8,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "2011",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 1865,
+                    "length": 4,
+                    "confidenceScore": 0.89
+                },
+                {
+                    "text": "2012",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 1874,
+                    "length": 4,
+                    "confidenceScore": 0.97
+                },
+                {
+                    "text": "Capital Bikeshare",
+                    "category": "Organization",
+                    "offset": 1884,
+                    "length": 17,
+                    "confidenceScore": 0.84
+                },
+                {
+                    "text": "Washington D.C., USA",
+                    "category": "Location",
+                    "subcategory": "GPE",
+                    "offset": 1910,
+                    "length": 20,
+                    "confidenceScore": 0.88
+                },
+                {
+                    "text": "http://capitalbikeshare.com/system-data.",
+                    "category": "URL",
+                    "offset": 1962,
+                    "length": 40,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "two",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 2029,
+                    "length": 3,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "hourly",
+                    "category": "DateTime",
+                    "subcategory": "Set",
+                    "offset": 2033,
+                    "length": 6,
+                    "confidenceScore": 0.61
+                },
+                {
+                    "text": "daily",
+                    "category": "DateTime",
+                    "subcategory": "Set",
+                    "offset": 2044,
+                    "length": 5,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "http://www.freemeteo.com.",
+                    "category": "URL",
+                    "offset": 2176,
+                    "length": 25,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "bike",
+                    "category": "Product",
+                    "offset": 2334,
+                    "length": 4,
+                    "confidenceScore": 0.89
+                },
+                {
+                    "text": "daily",
+                    "category": "DateTime",
+                    "subcategory": "Set",
+                    "offset": 2362,
+                    "length": 5,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "Event",
+                    "category": "Event",
+                    "offset": 2421,
+                    "length": 5,
+                    "confidenceScore": 0.49
+                },
+                {
+                    "text": "bikes",
+                    "category": "Product",
+                    "offset": 2466,
+                    "length": 5,
+                    "confidenceScore": 0.94
+                },
+                {
+                    "text": "town",
+                    "category": "Location",
+                    "subcategory": "Structural",
+                    "offset": 2514,
+                    "length": 4,
+                    "confidenceScore": 0.81
+                },
+                {
+                    "text": "search engines",
+                    "category": "Skill",
+                    "offset": 2550,
+                    "length": 14,
+                    "confidenceScore": 0.82
+                },
+                {
+                    "text": "2012-10-30",
+                    "category": "DateTime",
+                    "subcategory": "Date",
+                    "offset": 2592,
+                    "length": 10,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "washington d.c.\"",
+                    "category": "Location",
+                    "subcategory": "City",
+                    "offset": 2603,
+                    "length": 16,
+                    "confidenceScore": 0.93
+                },
+                {
+                    "text": "Google",
+                    "category": "Product",
+                    "subcategory": "Computing",
+                    "offset": 2623,
+                    "length": 6,
+                    "confidenceScore": 0.98
+                },
+                {
+                    "text": "Hurricane Sandy",
+                    "category": "Event",
+                    "subcategory": "Natural",
+                    "offset": 2657,
+                    "length": 15,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "1",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 2722,
+                    "length": 1,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "event detection algorithms",
+                    "category": "Skill",
+                    "offset": 2786,
+                    "length": 26,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "hourly",
+                    "category": "DateTime",
+                    "subcategory": "Set",
+                    "offset": 2975,
+                    "length": 6,
+                    "confidenceScore": 0.81
+                },
+                {
+                    "text": "17379 hours",
+                    "category": "DateTime",
+                    "subcategory": "Duration",
+                    "offset": 2998,
+                    "length": 11,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "bike",
+                    "category": "Product",
+                    "offset": 3022,
+                    "length": 4,
+                    "confidenceScore": 0.6
+                },
+                {
+                    "text": "daily",
+                    "category": "DateTime",
+                    "subcategory": "Set",
+                    "offset": 3056,
+                    "length": 5,
+                    "confidenceScore": 0.95
+                },
+                {
+                    "text": "731 days",
+                    "category": "DateTime",
+                    "subcategory": "Duration",
+                    "offset": 3078,
+                    "length": 8,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Dataset",
+                    "category": "Skill",
+                    "offset": 3131,
+                    "length": 7,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "hour.csv",
+                    "category": "Product",
+                    "subcategory": "Computing",
+                    "offset": 3202,
+                    "length": 8,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "day.csv",
+                    "category": "Product",
+                    "subcategory": "Computing",
+                    "offset": 3215,
+                    "length": 7,
+                    "confidenceScore": 0.92
+                },
+                {
+                    "text": "hr",
+                    "category": "Skill",
+                    "offset": 3257,
+                    "length": 2,
+                    "confidenceScore": 0.95
+                },
+                {
+                    "text": "day.csv",
+                    "category": "Product",
+                    "subcategory": "Computing",
+                    "offset": 3286,
+                    "length": 7,
+                    "confidenceScore": 0.64
+                },
+                {
+                    "text": "dteday",
+                    "category": "Organization",
+                    "offset": 3321,
+                    "length": 6,
+                    "confidenceScore": 0.5
+                },
+                {
+                    "text": "1",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 3354,
+                    "length": 1,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "springer",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 3356,
+                    "length": 8,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "2",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 3366,
+                    "length": 1,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "summer",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 3368,
+                    "length": 6,
+                    "confidenceScore": 0.94
+                },
+                {
+                    "text": "3",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 3376,
+                    "length": 1,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "4",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 3384,
+                    "length": 1,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "winter",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 3386,
+                    "length": 6,
+                    "confidenceScore": 0.75
+                },
+                {
+                    "text": "yr",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 3396,
+                    "length": 2,
+                    "confidenceScore": 0.51
+                },
+                {
+                    "text": "0",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 3407,
+                    "length": 1,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "2011,",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 3410,
+                    "length": 5,
+                    "confidenceScore": 0.93
+                },
+                {
+                    "text": "1",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 3416,
+                    "length": 1,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "2012",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 3418,
+                    "length": 4,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "mnth",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 3426,
+                    "length": 4,
+                    "confidenceScore": 0.62
+                },
+                {
+                    "text": "month",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 3433,
+                    "length": 5,
+                    "confidenceScore": 0.56
+                },
+                {
+                    "text": "1",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 3441,
+                    "length": 1,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "12",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 3446,
+                    "length": 2,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "(0 to 23",
+                    "category": "DateTime",
+                    "subcategory": "TimeRange",
+                    "offset": 3462,
+                    "length": 8,
+                    "confidenceScore": 0.88
+                },
+                {
+                    "text": "http://dchr.dc.gov/page/holiday-schedule)",
+                    "category": "URL",
+                    "offset": 3530,
+                    "length": 41,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "- weekday",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 3572,
+                    "length": 9,
+                    "confidenceScore": 0.51
+                },
+                {
+                    "text": "day of the week",
+                    "category": "DateTime",
+                    "subcategory": "Date",
+                    "offset": 3584,
+                    "length": 15,
+                    "confidenceScore": 0.79
+                },
+                {
+                    "text": "weekend",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 3633,
+                    "length": 7,
+                    "confidenceScore": 0.74
+                },
+                {
+                    "text": "1",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 3656,
+                    "length": 1,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "0",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 3672,
+                    "length": 1,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "- 1",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 3690,
+                    "length": 3,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "1:",
+                    "category": "Quantity",
+                    "subcategory": "NumberRange",
+                    "offset": 3692,
+                    "length": 2,
+                    "confidenceScore": 0.68
+                },
+                {
+                    "text": "- 2",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 3743,
+                    "length": 3,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "- 3",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 3809,
+                    "length": 3,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "Thunderstorm",
+                    "category": "Event",
+                    "offset": 3839,
+                    "length": 12,
+                    "confidenceScore": 0.67
+                },
+                {
+                    "text": "- 4",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 3902,
+                    "length": 3,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "Rain",
+                    "category": "Event",
+                    "offset": 3913,
+                    "length": 4,
+                    "confidenceScore": 0.65
+                },
+                {
+                    "text": "Thunderstorm",
+                    "category": "Event",
+                    "offset": 3934,
+                    "length": 12,
+                    "confidenceScore": 0.96
+                },
+                {
+                    "text": "Mist",
+                    "category": "Event",
+                    "offset": 3949,
+                    "length": 4,
+                    "confidenceScore": 0.81
+                },
+                {
+                    "text": "Snow",
+                    "category": "Event",
+                    "offset": 3955,
+                    "length": 4,
+                    "confidenceScore": 0.75
+                },
+                {
+                    "text": "Celsius",
+                    "category": "Quantity",
+                    "subcategory": "Temperature",
+                    "offset": 4001,
+                    "length": 7,
+                    "confidenceScore": 0.41
+                },
+                {
+                    "text": "41",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 4036,
+                    "length": 2,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "50",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 4123,
+                    "length": 2,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "100",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 4186,
+                    "length": 3,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "67",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 4258,
+                    "length": 2,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "users",
+                    "category": "PersonType",
+                    "offset": 4293,
+                    "length": 5,
+                    "confidenceScore": 0.66
+                },
+                {
+                    "text": "registered",
+                    "category": "PersonType",
+                    "offset": 4322,
+                    "length": 10,
+                    "confidenceScore": 0.81
+                },
+                {
+                    "text": "users",
+                    "category": "PersonType",
+                    "offset": 4333,
+                    "length": 5,
+                    "confidenceScore": 0.58
+                },
+                {
+                    "text": "bikes",
+                    "category": "Product",
+                    "offset": 4368,
+                    "length": 5,
+                    "confidenceScore": 0.91
+                },
+                {
+                    "text": "dataset",
+                    "category": "Skill",
+                    "offset": 4516,
+                    "length": 7,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "publications",
+                    "category": "Skill",
+                    "offset": 4527,
+                    "length": 12,
+                    "confidenceScore": 0.98
+                },
+                {
+                    "text": "publication",
+                    "category": "Skill",
+                    "offset": 4571,
+                    "length": 11,
+                    "confidenceScore": 0.56
+                },
+                {
+                    "text": "1",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 4586,
+                    "length": 1,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "Fanaee-T",
+                    "category": "Person",
+                    "offset": 4589,
+                    "length": 8,
+                    "confidenceScore": 0.95
+                },
+                {
+                    "text": "Hadi",
+                    "category": "Person",
+                    "offset": 4599,
+                    "length": 4,
+                    "confidenceScore": 0.91
+                },
+                {
+                    "text": "Gama, Joao",
+                    "category": "Person",
+                    "offset": 4609,
+                    "length": 10,
+                    "confidenceScore": 0.79
+                },
+                {
+                    "text": "(2013)",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 4729,
+                    "length": 6,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "1",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 4741,
+                    "length": 1,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "15",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 4743,
+                    "length": 2,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "Springer Berlin",
+                    "category": "Organization",
+                    "offset": 4747,
+                    "length": 15,
+                    "confidenceScore": 0.75
+                },
+                {
+                    "text": "10.1007",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 4779,
+                    "length": 7,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "013",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 4794,
+                    "length": 3,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "0040",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 4798,
+                    "length": 4,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "3",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 4803,
+                    "length": 1,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "2013",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 4823,
+                    "length": 4,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "2192-6352",
+                    "category": "PhoneNumber",
+                    "offset": 4836,
+                    "length": 9,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "Progress in Artificial Intelligence",
+                    "category": "Event",
+                    "offset": 4857,
+                    "length": 35,
+                    "confidenceScore": 0.58
+                },
+                {
+                    "text": "10",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 4900,
+                    "length": 2,
+                    "confidenceScore": 0.8
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2023-09-01"
+}
