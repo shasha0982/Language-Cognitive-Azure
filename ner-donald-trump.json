@@ -1,0 +1,933 @@
+{
+    "documents": [
+        {
+            "id": "id__5988",
+            "entities": [
+                {
+                    "text": "Colorado",
+                    "category": "Location",
+                    "subcategory": "State",
+                    "offset": 6,
+                    "length": 8,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Colorado",
+                    "category": "Location",
+                    "subcategory": "State",
+                    "offset": 24,
+                    "length": 8,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Colorado Springs",
+                    "category": "Location",
+                    "subcategory": "City",
+                    "offset": 86,
+                    "length": 16,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "peaks",
+                    "category": "Location",
+                    "subcategory": "Structural",
+                    "offset": 188,
+                    "length": 5,
+                    "confidenceScore": 0.56
+                },
+                {
+                    "text": "Rocky Mountains",
+                    "category": "Location",
+                    "offset": 215,
+                    "length": 15,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "American",
+                    "category": "Location",
+                    "subcategory": "CountryRegion",
+                    "offset": 278,
+                    "length": 8,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "patriots",
+                    "category": "PersonType",
+                    "offset": 287,
+                    "length": 8,
+                    "confidenceScore": 0.64
+                },
+                {
+                    "text": "this November",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 312,
+                    "length": 13,
+                    "confidenceScore": 0.97
+                },
+                {
+                    "text": "Democrats",
+                    "category": "PersonType",
+                    "offset": 362,
+                    "length": 9,
+                    "confidenceScore": 0.78
+                },
+                {
+                    "text": "Colorado",
+                    "category": "Location",
+                    "subcategory": "State",
+                    "offset": 396,
+                    "length": 8,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Cory Gardner",
+                    "category": "Person",
+                    "offset": 453,
+                    "length": 12,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "100%",
+                    "category": "Quantity",
+                    "subcategory": "Percentage",
+                    "offset": 509,
+                    "length": 4,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Corey",
+                    "category": "Person",
+                    "offset": 580,
+                    "length": 5,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Corey",
+                    "category": "Person",
+                    "offset": 615,
+                    "length": 5,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "This month",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 633,
+                    "length": 10,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "anniversary",
+                    "category": "Event",
+                    "offset": 667,
+                    "length": 11,
+                    "confidenceScore": 0.82
+                },
+                {
+                    "text": "75 years ago this week",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 680,
+                    "length": 22,
+                    "confidenceScore": 0.76
+                },
+                {
+                    "text": "United States Marines",
+                    "category": "Organization",
+                    "offset": 713,
+                    "length": 21,
+                    "confidenceScore": 0.72
+                },
+                {
+                    "text": "shores",
+                    "category": "Location",
+                    "offset": 749,
+                    "length": 6,
+                    "confidenceScore": 0.59
+                },
+                {
+                    "text": "Iwo Jima",
+                    "category": "Location",
+                    "subcategory": "City",
+                    "offset": 759,
+                    "length": 8,
+                    "confidenceScore": 0.72
+                },
+                {
+                    "text": "one",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 778,
+                    "length": 3,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "second world war",
+                    "category": "Event",
+                    "offset": 814,
+                    "length": 16,
+                    "confidenceScore": 0.96
+                },
+                {
+                    "text": "one",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 847,
+                    "length": 3,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "Tonight",
+                    "category": "DateTime",
+                    "subcategory": "DateTimeRange",
+                    "offset": 852,
+                    "length": 7,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "three",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 901,
+                    "length": 5,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "heroes",
+                    "category": "PersonType",
+                    "offset": 914,
+                    "length": 6,
+                    "confidenceScore": 0.96
+                },
+                {
+                    "text": "Battle of Iwo Jima",
+                    "category": "Event",
+                    "offset": 928,
+                    "length": 18,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "James Blaine",
+                    "category": "Person",
+                    "offset": 948,
+                    "length": 12,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Donald Whipple",
+                    "category": "Person",
+                    "offset": 962,
+                    "length": 14,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "John Thurman",
+                    "category": "Person",
+                    "offset": 981,
+                    "length": 12,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "patriots",
+                    "category": "PersonType",
+                    "offset": 1008,
+                    "length": 8,
+                    "confidenceScore": 0.97
+                },
+                {
+                    "text": "a few days ago",
+                    "category": "DateTime",
+                    "subcategory": "Date",
+                    "offset": 1081,
+                    "length": 14,
+                    "confidenceScore": 0.91
+                },
+                {
+                    "text": "a few days ago",
+                    "category": "DateTime",
+                    "subcategory": "Date",
+                    "offset": 1134,
+                    "length": 14,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "family",
+                    "category": "PersonType",
+                    "offset": 1253,
+                    "length": 6,
+                    "confidenceScore": 0.79
+                },
+                {
+                    "text": "gentlemen",
+                    "category": "PersonType",
+                    "offset": 1274,
+                    "length": 9,
+                    "confidenceScore": 0.67
+                },
+                {
+                    "text": "four",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 1310,
+                    "length": 4,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "three",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 1324,
+                    "length": 5,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "America",
+                    "category": "Location",
+                    "subcategory": "CountryRegion",
+                    "offset": 1405,
+                    "length": 7,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "heroes",
+                    "category": "PersonType",
+                    "offset": 1432,
+                    "length": 6,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "veterans",
+                    "category": "PersonType",
+                    "offset": 1508,
+                    "length": 8,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "Vietnam War",
+                    "category": "Event",
+                    "offset": 1524,
+                    "length": 11,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "Iraq and",
+                    "category": "Event",
+                    "offset": 1544,
+                    "length": 8,
+                    "confidenceScore": 0.75
+                },
+                {
+                    "text": "Afghanistan Wars",
+                    "category": "Event",
+                    "offset": 1553,
+                    "length": 16,
+                    "confidenceScore": 0.66
+                },
+                {
+                    "text": "this evening",
+                    "category": "DateTime",
+                    "subcategory": "DateTimeRange",
+                    "offset": 1583,
+                    "length": 12,
+                    "confidenceScore": 0.98
+                },
+                {
+                    "text": "people",
+                    "category": "PersonType",
+                    "offset": 1622,
+                    "length": 6,
+                    "confidenceScore": 0.48
+                },
+                {
+                    "text": "people",
+                    "category": "PersonType",
+                    "offset": 1636,
+                    "length": 6,
+                    "confidenceScore": 0.38
+                },
+                {
+                    "text": "America",
+                    "category": "Location",
+                    "subcategory": "CountryRegion",
+                    "offset": 1680,
+                    "length": 7,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "economy",
+                    "category": "Skill",
+                    "offset": 1706,
+                    "length": 7,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "country",
+                    "category": "Location",
+                    "offset": 1757,
+                    "length": 7,
+                    "confidenceScore": 0.74
+                },
+                {
+                    "text": "country",
+                    "category": "Location",
+                    "offset": 1795,
+                    "length": 7,
+                    "confidenceScore": 0.76
+                },
+                {
+                    "text": "world",
+                    "category": "Location",
+                    "subcategory": "Structural",
+                    "offset": 1810,
+                    "length": 5,
+                    "confidenceScore": 0.79
+                },
+                {
+                    "text": "last three years",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 1881,
+                    "length": 16,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "two and a half trillion dollars",
+                    "category": "Quantity",
+                    "subcategory": "Currency",
+                    "offset": 1932,
+                    "length": 31,
+                    "confidenceScore": 0.95
+                },
+                {
+                    "text": "military",
+                    "category": "Skill",
+                    "offset": 1990,
+                    "length": 8,
+                    "confidenceScore": 0.68
+                },
+                {
+                    "text": "safety",
+                    "category": "Skill",
+                    "offset": 2007,
+                    "length": 6,
+                    "confidenceScore": 0.76
+                },
+                {
+                    "text": "security",
+                    "category": "Skill",
+                    "offset": 2022,
+                    "length": 8,
+                    "confidenceScore": 0.68
+                },
+                {
+                    "text": "people",
+                    "category": "PersonType",
+                    "offset": 2202,
+                    "length": 6,
+                    "confidenceScore": 0.92
+                },
+                {
+                    "text": "equipment",
+                    "category": "Product",
+                    "offset": 2240,
+                    "length": 9,
+                    "confidenceScore": 0.75
+                },
+                {
+                    "text": "Now",
+                    "category": "DateTime",
+                    "offset": 2251,
+                    "length": 3,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "jets",
+                    "category": "Product",
+                    "offset": 2273,
+                    "length": 4,
+                    "confidenceScore": 0.97
+                },
+                {
+                    "text": "missiles",
+                    "category": "Product",
+                    "offset": 2297,
+                    "length": 8,
+                    "confidenceScore": 0.97
+                },
+                {
+                    "text": "rockets",
+                    "category": "Product",
+                    "offset": 2310,
+                    "length": 7,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "USA",
+                    "category": "Location",
+                    "subcategory": "CountryRegion",
+                    "offset": 2354,
+                    "length": 3,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "State of the Union Address",
+                    "category": "Event",
+                    "offset": 2365,
+                    "length": 26,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "American",
+                    "category": "Location",
+                    "subcategory": "CountryRegion",
+                    "offset": 2450,
+                    "length": 8,
+                    "confidenceScore": 0.95
+                },
+                {
+                    "text": "comeback",
+                    "category": "Event",
+                    "offset": 2459,
+                    "length": 8,
+                    "confidenceScore": 0.55
+                },
+                {
+                    "text": "today",
+                    "category": "DateTime",
+                    "subcategory": "Date",
+                    "offset": 2518,
+                    "length": 5,
+                    "confidenceScore": 0.91
+                },
+                {
+                    "text": "three years",
+                    "category": "DateTime",
+                    "subcategory": "Duration",
+                    "offset": 2548,
+                    "length": 11,
+                    "confidenceScore": 0.7
+                },
+                {
+                    "text": "witch hunts",
+                    "category": "Skill",
+                    "offset": 2574,
+                    "length": 11,
+                    "confidenceScore": 0.65
+                },
+                {
+                    "text": "scams",
+                    "category": "Skill",
+                    "offset": 2590,
+                    "length": 5,
+                    "confidenceScore": 0.68
+                },
+                {
+                    "text": "Democrat",
+                    "category": "Organization",
+                    "offset": 2609,
+                    "length": 8,
+                    "confidenceScore": 0.87
+                },
+                {
+                    "text": "crusades",
+                    "category": "Event",
+                    "offset": 2618,
+                    "length": 8,
+                    "confidenceScore": 0.61
+                },
+                {
+                    "text": "radical left",
+                    "category": "Organization",
+                    "offset": 2632,
+                    "length": 12,
+                    "confidenceScore": 0.84
+                },
+                {
+                    "text": "election",
+                    "category": "Event",
+                    "offset": 2702,
+                    "length": 8,
+                    "confidenceScore": 0.73
+                },
+                {
+                    "text": "today",
+                    "category": "DateTime",
+                    "subcategory": "Date",
+                    "offset": 2770,
+                    "length": 5,
+                    "confidenceScore": 0.94
+                },
+                {
+                    "text": "poll",
+                    "category": "Event",
+                    "offset": 2793,
+                    "length": 4,
+                    "confidenceScore": 0.51
+                },
+                {
+                    "text": "today",
+                    "category": "DateTime",
+                    "subcategory": "Date",
+                    "offset": 2821,
+                    "length": 5,
+                    "confidenceScore": 0.95
+                },
+                {
+                    "text": "last night",
+                    "category": "DateTime",
+                    "subcategory": "DateTimeRange",
+                    "offset": 2879,
+                    "length": 10,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "debate",
+                    "category": "Event",
+                    "offset": 2892,
+                    "length": 6,
+                    "confidenceScore": 0.88
+                },
+                {
+                    "text": "Mike",
+                    "category": "Person",
+                    "offset": 2948,
+                    "length": 4,
+                    "confidenceScore": 0.56
+                },
+                {
+                    "text": "last night",
+                    "category": "DateTime",
+                    "subcategory": "DateTimeRange",
+                    "offset": 2968,
+                    "length": 10,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "note",
+                    "category": "Product",
+                    "offset": 3006,
+                    "length": 4,
+                    "confidenceScore": 0.51
+                },
+                {
+                    "text": "Mike",
+                    "category": "Person",
+                    "offset": 3071,
+                    "length": 4,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Mike",
+                    "category": "Person",
+                    "offset": 3108,
+                    "length": 4,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "mike",
+                    "category": "Person",
+                    "offset": 3172,
+                    "length": 4,
+                    "confidenceScore": 0.72
+                },
+                {
+                    "text": "Klobuchar",
+                    "category": "Person",
+                    "offset": 3188,
+                    "length": 9,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Alfred E. Neuman",
+                    "category": "Person",
+                    "offset": 3262,
+                    "length": 16,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "campaign",
+                    "category": "Event",
+                    "offset": 3566,
+                    "length": 8,
+                    "confidenceScore": 0.81
+                },
+                {
+                    "text": "book",
+                    "category": "Product",
+                    "offset": 3581,
+                    "length": 4,
+                    "confidenceScore": 0.91
+                },
+                {
+                    "text": "today",
+                    "category": "DateTime",
+                    "subcategory": "Date",
+                    "offset": 3673,
+                    "length": 5,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "one",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 3682,
+                    "length": 3,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "Fox",
+                    "category": "Organization",
+                    "offset": 3693,
+                    "length": 3,
+                    "confidenceScore": 0.97
+                },
+                {
+                    "text": "Fox",
+                    "category": "Organization",
+                    "offset": 3716,
+                    "length": 3,
+                    "confidenceScore": 0.7
+                },
+                {
+                    "text": "Sean Hannity",
+                    "category": "Person",
+                    "offset": 3781,
+                    "length": 12,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Laura",
+                    "category": "Person",
+                    "offset": 3814,
+                    "length": 5,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Tucker",
+                    "category": "Person",
+                    "offset": 3824,
+                    "length": 6,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "in the morning",
+                    "category": "DateTime",
+                    "subcategory": "TimeRange",
+                    "offset": 3844,
+                    "length": 14,
+                    "confidenceScore": 0.93
+                },
+                {
+                    "text": "Fox and Friends",
+                    "category": "Organization",
+                    "offset": 3859,
+                    "length": 15,
+                    "confidenceScore": 0.78
+                },
+                {
+                    "text": "Steve",
+                    "category": "Person",
+                    "offset": 3876,
+                    "length": 5,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Ainsley",
+                    "category": "Person",
+                    "offset": 3886,
+                    "length": 7,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Brian",
+                    "category": "Person",
+                    "offset": 3899,
+                    "length": 5,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Lou Dobbs",
+                    "category": "Person",
+                    "offset": 3965,
+                    "length": 9,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Lou Dobbs",
+                    "category": "Person",
+                    "offset": 3976,
+                    "length": 9,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "president",
+                    "category": "PersonType",
+                    "offset": 4009,
+                    "length": 9,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Lou Dobbs",
+                    "category": "Person",
+                    "offset": 4035,
+                    "length": 9,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Lou Dobbs",
+                    "category": "Person",
+                    "offset": 4055,
+                    "length": 9,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "a year and a half, two years ago",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 4065,
+                    "length": 32,
+                    "confidenceScore": 0.83
+                },
+                {
+                    "text": "Reagan",
+                    "category": "Person",
+                    "offset": 4132,
+                    "length": 6,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "six months ago",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 4160,
+                    "length": 14,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "Reagan",
+                    "category": "Person",
+                    "offset": 4194,
+                    "length": 6,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "a few nights ago",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 4220,
+                    "length": 16,
+                    "confidenceScore": 0.86
+                },
+                {
+                    "text": "Lincoln",
+                    "category": "Person",
+                    "offset": 4301,
+                    "length": 7,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "George Washington",
+                    "category": "Person",
+                    "offset": 4313,
+                    "length": 17,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Lou Dobbs",
+                    "category": "Person",
+                    "offset": 4375,
+                    "length": 9,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Lou Dobbs",
+                    "category": "Person",
+                    "offset": 4396,
+                    "length": 9,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Hegseth",
+                    "category": "Person",
+                    "offset": 4422,
+                    "length": 7,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Jesse Waters",
+                    "category": "Person",
+                    "offset": 4445,
+                    "length": 12,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Jesse",
+                    "category": "Person",
+                    "offset": 4469,
+                    "length": 5,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Jeanine",
+                    "category": "Person",
+                    "offset": 4486,
+                    "length": 7,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Greg Gutfeld",
+                    "category": "Person",
+                    "offset": 4503,
+                    "length": 12,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Greg",
+                    "category": "Person",
+                    "offset": 4517,
+                    "length": 4,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "now",
+                    "category": "DateTime",
+                    "offset": 4543,
+                    "length": 3,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "Fox",
+                    "category": "Person",
+                    "offset": 4707,
+                    "length": 3,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "woman",
+                    "category": "PersonType",
+                    "offset": 4885,
+                    "length": 5,
+                    "confidenceScore": 0.72
+                },
+                {
+                    "text": "Neil Cavuto",
+                    "category": "Person",
+                    "offset": 4895,
+                    "length": 11,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Neil Cavuto",
+                    "category": "Person",
+                    "offset": 4931,
+                    "length": 11,
+                    "confidenceScore": 1
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2023-09-01"
+}
