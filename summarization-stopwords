@@ -1,0 +1,49 @@
+[
+    {
+        "kind": "AbstractiveSummarizationLROResults",
+        "lastUpdateDateTime": "2024-05-24T08:21:06.9922873Z",
+        "status": "succeeded",
+        "results": {
+            "documents": [
+                {
+                    "summaries": [
+                        {
+                            "text": "The document is a collection of humorous and sarcastic comments and phrases, presumably from a popular culture or a popular culture.",
+                            "contexts": [
+                                {
+                                    "offset": 0,
+                                    "length": 5961
+                                }
+                            ]
+                        }
+                    ],
+                    "id": "id__1999",
+                    "warnings": []
+                }
+            ],
+            "errors": [],
+            "modelVersion": "latest"
+        }
+    },
+    {
+        "kind": "ExtractiveSummarizationLROResults",
+        "lastUpdateDateTime": "2024-05-24T08:21:03.0870673Z",
+        "status": "succeeded",
+        "results": {
+            "documents": [
+                {
+                    "id": "id__1999",
+                    "sentences": [],
+                    "warnings": [
+                        {
+                            "code": "GenerationFailure",
+                            "message": "The input doesn't have any qualified sentences."
+                        }
+                    ]
+                }
+            ],
+            "errors": [],
+            "modelVersion": "2023-02-01-preview"
+        }
+    }
+]
