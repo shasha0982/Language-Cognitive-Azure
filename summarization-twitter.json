@@ -1,0 +1,105 @@
+[
+    {
+        "kind": "AbstractiveSummarizationLROResults",
+        "lastUpdateDateTime": "2024-05-24T08:52:13.9966332Z",
+        "status": "succeeded",
+        "results": {
+            "documents": [
+                {
+                    "summaries": [
+                        {
+                            "text": "The document contains a series of tweets and posts from various individuals and groups. The topics of discussion include a new hashtag, #SNT CK, and the importance of not caring about others' opinions. The author also mentions a hacking incident and expresses gratitude for the support of their followers. The document also includes a discussion about the lack of women in marketing/pr leadership, the use of social media for business management, and the use of the hashtag #AmpTopTrend. It also mentions a meeting of the minds for Open Access and an upcoming event in Anderson, IN. The author also shares personal anecdotes and thoughts, such as the need for self-love and the importance of personal growth. The document ends with a tweet about a secret show in Austin, TX.",
+                            "contexts": [
+                                {
+                                    "offset": 0,
+                                    "length": 102400
+                                }
+                            ]
+                        }
+                    ],
+                    "id": "id__6928",
+                    "warnings": []
+                }
+            ],
+            "errors": [],
+            "modelVersion": "latest"
+        }
+    },
+    {
+        "kind": "ExtractiveSummarizationLROResults",
+        "lastUpdateDateTime": "2024-05-24T08:52:27.5513189Z",
+        "status": "succeeded",
+        "results": {
+            "documents": [
+                {
+                    "id": "id__6928",
+                    "sentences": [
+                        {
+                            "text": "RT : According to the National Retail Federation $16.3 BILLION was spent on #MothersDay last year!!",
+                            "rankScore": 0.87,
+                            "offset": 1226,
+                            "length": 99
+                        },
+                        {
+                            "text": "Congrats to Patti Groff, CLM on winning the Spirit of ALA Award - a huge honor recognizing leadership and dedication!",
+                            "rankScore": 0.85,
+                            "offset": 14931,
+                            "length": 117
+                        },
+                        {
+                            "text": "TWEET this: #AmpTopTrend with the name of the song or artist you want to hear on .",
+                            "rankScore": 0.83,
+                            "offset": 30266,
+                            "length": 82
+                        },
+                        {
+                            "text": "Are you aware of any news organizations that will be livestreaming the Celebration of Life for Jr. Seau on May 11?",
+                            "rankScore": 0.86,
+                            "offset": 41381,
+                            "length": 114
+                        },
+                        {
+                            "text": "Make your bucket list now it's the end of the world as we know it.",
+                            "rankScore": 0.89,
+                            "offset": 47144,
+                            "length": 66
+                        },
+                        {
+                            "text": "67% of US wholesalers surveyed are more optimistic on their business now than three months ago, highest % in over a year.",
+                            "rankScore": 0.94,
+                            "offset": 69081,
+                            "length": 121
+                        },
+                        {
+                            "text": "I don't know who you are or how you got on my exam list, but I will take your advice in *Enough Is as Good as a Feast.*",
+                            "rankScore": 0.84,
+                            "offset": 69237,
+                            "length": 119
+                        },
+                        {
+                            "text": "A Monthly payment plan is now available for those wishing to enroll in Hawaii's #1 RE Investor training program - the Millionaire Mentor...",
+                            "rankScore": 0.91,
+                            "offset": 76338,
+                            "length": 139
+                        },
+                        {
+                            "text": "Reports say the Angels have agreed to terms with Albert Pujols for 10 years $250 Million",
+                            "rankScore": 0.85,
+                            "offset": 78592,
+                            "length": 88
+                        },
+                        {
+                            "text": "The Library is closed today in observance of President's Day",
+                            "rankScore": 1,
+                            "offset": 99423,
+                            "length": 60
+                        }
+                    ],
+                    "warnings": []
+                }
+            ],
+            "errors": [],
+            "modelVersion": "2023-02-01-preview"
+        }
+    }
+]
