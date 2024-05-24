@@ -1,0 +1,165 @@
+[
+    {
+        "kind": "AbstractiveSummarizationLROResults",
+        "lastUpdateDateTime": "2024-05-24T08:12:14.2720277Z",
+        "status": "succeeded",
+        "results": {
+            "documents": [
+                {
+                    "summaries": [
+                        {
+                            "text": "The Fulton County Grand Jury's investigation of Atlanta's recent primary election found no irregularities. Atlanta Mayor William B. Hartsfield filed for divorce from his wife, Pearl Williams Hartsfield. Georgia Republicans were encouraged to enter a candidate in the 1962 governor's race. The Georgia Legislature was set to wind up its 1961 session and head home, where some of the highway bond money it approved will follow shortly. Miller County had a new school superintendent, Harry Davis, elected after a long controversy. Texas approved a bill to take over bank accounts, stocks, and other personal property of persons missing for seven years or more. Texas also approved a bill to establish day schools for the deaf in Dallas and the four other largest counties.",
+                            "contexts": [
+                                {
+                                    "offset": 0,
+                                    "length": 125000
+                                }
+                            ]
+                        }
+                    ],
+                    "id": "id__1388",
+                    "warnings": []
+                }
+            ],
+            "errors": [],
+            "modelVersion": "latest"
+        }
+    },
+    {
+        "kind": "ExtractiveSummarizationLROResults",
+        "lastUpdateDateTime": "2024-05-24T08:12:27.0903924Z",
+        "status": "succeeded",
+        "results": {
+            "documents": [
+                {
+                    "id": "id__1388",
+                    "sentences": [
+                        {
+                            "text": "The Fulton County Grand Jury said Friday an investigation of Atlanta's recent primary election produced \"no evidence\" that any irregularities took place.",
+                            "rankScore": 0.94,
+                            "offset": 0,
+                            "length": 153
+                        },
+                        {
+                            "text": "Mayor William B& Hartsfield filed suit for divorce from his wife, Pearl Williams Hartsfield, in Fulton Superior Court Friday.",
+                            "rankScore": 0.92,
+                            "offset": 4335,
+                            "length": 125
+                        },
+                        {
+                            "text": "Georgia Republicans are getting strong encouragement to enter a candidate in the 1962 governor's race, a top official said Wednesday.",
+                            "rankScore": 0.91,
+                            "offset": 5452,
+                            "length": 133
+                        },
+                        {
+                            "text": "An adverse vote of 81 to 65 kept in the State Affairs Committee a bill which would order the referendum on the April 4 ballot, when Texas votes on a U&S& senator.",
+                            "rankScore": 0.9,
+                            "offset": 18862,
+                            "length": 162
+                        },
+                        {
+                            "text": "Rep& Henry C& Grover, who teaches history in the Houston public schools, would reduce from 24 to 12 semester hours the so-called \"teaching methods\" courses required to obtain a junior or senior high school teaching certificate.",
+                            "rankScore": 0.94,
+                            "offset": 21206,
+                            "length": 227
+                        },
+                        {
+                            "text": "State and federal legislation against racial discrimination in employment was called for yesterday in a report of a \"blue ribbon\" citizens committee on the aid to dependent children program.",
+                            "rankScore": 0.91,
+                            "offset": 23320,
+                            "length": 190
+                        },
+                        {
+                            "text": "The President, in a special message to Congress, tied in with his aged care plan requests for large federal grants to finance medical and dental scholarships, build 20 new medical and 20 new dental schools, and expand child health care and general medical research.",
+                            "rankScore": 0.89,
+                            "offset": 29879,
+                            "length": 265
+                        },
+                        {
+                            "text": "It would be financed by boosting the social security payroll tax by as much as $37 a year for each of the workers now paying such taxes.",
+                            "rankScore": 1,
+                            "offset": 30321,
+                            "length": 136
+                        },
+                        {
+                            "text": "Officials estimated the annual tax boost for the medical plan would amount to 1.5 billion dollars and that medical benefits paid out would run 1 billion or more in the first year, 1963.",
+                            "rankScore": 0.88,
+                            "offset": 31042,
+                            "length": 185
+                        },
+                        {
+                            "text": "Sen& Charles W& Sandman, ~R-Cape May, said today Jones will run well ahead of his ~GOP opponents for the gubernatorial nomination.",
+                            "rankScore": 0.96,
+                            "offset": 66466,
+                            "length": 130
+                        },
+                        {
+                            "text": "The housing bill is now in the House Rules Committee.",
+                            "rankScore": 0.89,
+                            "offset": 79387,
+                            "length": 53
+                        },
+                        {
+                            "text": "The Advisory Committee on Administrative and Budgetary Questions is expected to receive the report this week.",
+                            "rankScore": 0.89,
+                            "offset": 84752,
+                            "length": 109
+                        },
+                        {
+                            "text": "If Barnett doesn't call a special session in 1961, it will be the first year in the last decade that the Legislature has not met in regular or special session.",
+                            "rankScore": 0.91,
+                            "offset": 92577,
+                            "length": 159
+                        },
+                        {
+                            "text": "Mississippi's relations with the national Democratic party will be at a crossroads during 1961, with the first Democratic president in eight years in the White House.",
+                            "rankScore": 0.91,
+                            "offset": 93516,
+                            "length": 166
+                        },
+                        {
+                            "text": "Davis may use the tax bill as a means to effect a transition from special sessions of the Legislature to normalcy.",
+                            "rankScore": 0.94,
+                            "offset": 96147,
+                            "length": 114
+                        },
+                        {
+                            "text": "The city expects the higher rooming house, hotel and apartment house fees to bring in an additional $457,000 a year.",
+                            "rankScore": 0.95,
+                            "offset": 104218,
+                            "length": 116
+                        },
+                        {
+                            "text": "Battalion Chief Stanton M& Gladden, 42, the central figure in a representation dispute between the fire fighters association and the teamsters union, suffered multiple fractures of both ankles.",
+                            "rankScore": 0.94,
+                            "offset": 108447,
+                            "length": 193
+                        },
+                        {
+                            "text": "An agreement between the leaders of four parties which contested indecisive elections on Oct& 15 was reached after almost 18 hours of political bargaining under the threat of an army coup d'etat.",
+                            "rankScore": 0.97,
+                            "offset": 110648,
+                            "length": 195
+                        },
+                        {
+                            "text": "Friday afternoon the Rev& T& F& Zimmerman was reelected for his second consecutive two-year term as general superintendent of Assemblies of God.",
+                            "rankScore": 0.89,
+                            "offset": 120293,
+                            "length": 144
+                        },
+                        {
+                            "text": "U&S& Dist& Judge Charles L& Powell denied all motions made by defense attorneys Monday in Portland's insurance fraud trial.",
+                            "rankScore": 0.94,
+                            "offset": 122622,
+                            "length": 123
+                        }
+                    ],
+                    "warnings": []
+                }
+            ],
+            "errors": [],
+            "modelVersion": "2023-02-01-preview"
+        }
+    }
+]
