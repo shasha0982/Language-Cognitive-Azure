@@ -1,0 +1,1395 @@
+{
+    "documents": [
+        {
+            "id": "id__1257",
+            "entities": [
+                {
+                    "text": "Gran",
+                    "category": "Person",
+                    "offset": 13,
+                    "length": 4,
+                    "confidenceScore": 0.77
+                },
+                {
+                    "text": "Russia",
+                    "category": "Location",
+                    "subcategory": "CountryRegion",
+                    "offset": 71,
+                    "length": 6,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "the last quarter of 2010",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 140,
+                    "length": 24,
+                    "confidenceScore": 0.93
+                },
+                {
+                    "text": "Componenta",
+                    "category": "Organization",
+                    "offset": 167,
+                    "length": 10,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "EUR131m",
+                    "category": "Quantity",
+                    "subcategory": "Currency",
+                    "offset": 202,
+                    "length": 7,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "EUR76m",
+                    "category": "Quantity",
+                    "subcategory": "Currency",
+                    "offset": 215,
+                    "length": 6,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "a",
+                    "category": "DateTime",
+                    "subcategory": "Date",
+                    "offset": 242,
+                    "length": 1,
+                    "confidenceScore": 0.5
+                },
+                {
+                    "text": "year earlier",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 244,
+                    "length": 12,
+                    "confidenceScore": 0.6
+                },
+                {
+                    "text": "zero",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 279,
+                    "length": 4,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "EUR7m",
+                    "category": "Quantity",
+                    "subcategory": "Currency",
+                    "offset": 322,
+                    "length": 5,
+                    "confidenceScore": 0.95
+                },
+                {
+                    "text": "the third quarter of 2010",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 342,
+                    "length": 25,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "5.2 %",
+                    "category": "Quantity",
+                    "subcategory": "Percentage",
+                    "offset": 393,
+                    "length": 5,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "EUR 205.5 mn",
+                    "category": "Quantity",
+                    "subcategory": "Currency",
+                    "offset": 402,
+                    "length": 12,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "34.9 %",
+                    "category": "Quantity",
+                    "subcategory": "Percentage",
+                    "offset": 441,
+                    "length": 6,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "EUR 23.5 mn",
+                    "category": "Quantity",
+                    "subcategory": "Currency",
+                    "offset": 451,
+                    "length": 11,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "EUR 13.1 mn",
+                    "category": "Quantity",
+                    "subcategory": "Currency",
+                    "offset": 499,
+                    "length": 11,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "EUR 8.7 mn",
+                    "category": "Quantity",
+                    "subcategory": "Currency",
+                    "offset": 516,
+                    "length": 10,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "2007",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 558,
+                    "length": 4,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "7.7 %",
+                    "category": "Quantity",
+                    "subcategory": "Percentage",
+                    "offset": 576,
+                    "length": 5,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "EUR 21.1 mn",
+                    "category": "Quantity",
+                    "subcategory": "Currency",
+                    "offset": 632,
+                    "length": 11,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "EUR 18.6 mn",
+                    "category": "Quantity",
+                    "subcategory": "Currency",
+                    "offset": 654,
+                    "length": 11,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "2007",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 669,
+                    "length": 4,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "9.7 %",
+                    "category": "Quantity",
+                    "subcategory": "Percentage",
+                    "offset": 689,
+                    "length": 5,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Finnish Talentum",
+                    "category": "Organization",
+                    "offset": 719,
+                    "length": 16,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "EUR 20.5 mn",
+                    "category": "Quantity",
+                    "subcategory": "Currency",
+                    "offset": 778,
+                    "length": 11,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "2005",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 793,
+                    "length": 4,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "EUR 9.3 mn",
+                    "category": "Quantity",
+                    "subcategory": "Currency",
+                    "offset": 803,
+                    "length": 10,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "2004",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 817,
+                    "length": 4,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "EUR 103.3 mn",
+                    "category": "Quantity",
+                    "subcategory": "Currency",
+                    "offset": 846,
+                    "length": 12,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "EUR 96.4 mn",
+                    "category": "Quantity",
+                    "subcategory": "Currency",
+                    "offset": 869,
+                    "length": 11,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Sepp+ñl+ñ",
+                    "category": "Organization",
+                    "offset": 914,
+                    "length": 9,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "8 %",
+                    "category": "Quantity",
+                    "subcategory": "Percentage",
+                    "offset": 946,
+                    "length": 3,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "EUR 155.2 mn",
+                    "category": "Quantity",
+                    "subcategory": "Currency",
+                    "offset": 953,
+                    "length": 12,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "EUR 31.1 mn",
+                    "category": "Quantity",
+                    "subcategory": "Currency",
+                    "offset": 997,
+                    "length": 11,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "EUR 17.1 mn",
+                    "category": "Quantity",
+                    "subcategory": "Currency",
+                    "offset": 1014,
+                    "length": 11,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "2004",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 1029,
+                    "length": 4,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "16 %",
+                    "category": "Quantity",
+                    "subcategory": "Percentage",
+                    "offset": 1078,
+                    "length": 4,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "EUR74 .8 m",
+                    "category": "Quantity",
+                    "subcategory": "Currency",
+                    "offset": 1092,
+                    "length": 10,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "EUR0 .9 m",
+                    "category": "Quantity",
+                    "subcategory": "Currency",
+                    "offset": 1140,
+                    "length": 9,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "EUR0 .7 m",
+                    "category": "Quantity",
+                    "subcategory": "Currency",
+                    "offset": 1172,
+                    "length": 9,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "prior year",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 1189,
+                    "length": 10,
+                    "confidenceScore": 0.58
+                },
+                {
+                    "text": "Foundries",
+                    "category": "Organization",
+                    "offset": 1218,
+                    "length": 9,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "9.7 %",
+                    "category": "Quantity",
+                    "subcategory": "Percentage",
+                    "offset": 1268,
+                    "length": 5,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "EUR 63.1 mn",
+                    "category": "Quantity",
+                    "subcategory": "Currency",
+                    "offset": 1277,
+                    "length": 11,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "EUR 57.5 mn",
+                    "category": "Quantity",
+                    "subcategory": "Currency",
+                    "offset": 1294,
+                    "length": 11,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "2006",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 1337,
+                    "length": 4,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Machine Shop division",
+                    "category": "Organization",
+                    "offset": 1361,
+                    "length": 21,
+                    "confidenceScore": 0.79
+                },
+                {
+                    "text": "16.4 %",
+                    "category": "Quantity",
+                    "subcategory": "Percentage",
+                    "offset": 1396,
+                    "length": 6,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "EUR 41.2 mn",
+                    "category": "Quantity",
+                    "subcategory": "Currency",
+                    "offset": 1406,
+                    "length": 11,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "EUR 35.4 mn",
+                    "category": "Quantity",
+                    "subcategory": "Currency",
+                    "offset": 1423,
+                    "length": 11,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "2006",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 1466,
+                    "length": 4,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "HELSINKI",
+                    "category": "Location",
+                    "subcategory": "City",
+                    "offset": 1482,
+                    "length": 8,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "AFX",
+                    "category": "Organization",
+                    "offset": 1493,
+                    "length": 3,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "Nokia",
+                    "category": "Organization",
+                    "offset": 1531,
+                    "length": 5,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Sanyo",
+                    "category": "Organization",
+                    "offset": 1578,
+                    "length": 5,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "3G",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 1599,
+                    "length": 2,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "handsets",
+                    "category": "Product",
+                    "offset": 1602,
+                    "length": 8,
+                    "confidenceScore": 0.38
+                },
+                {
+                    "text": "Nokian Tyres",
+                    "category": "Organization",
+                    "offset": 1620,
+                    "length": 12,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "fourth-quarter",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 1643,
+                    "length": 14,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "analysts",
+                    "category": "PersonType",
+                    "offset": 1679,
+                    "length": 8,
+                    "confidenceScore": 0.83
+                },
+                {
+                    "text": "dealers",
+                    "category": "PersonType",
+                    "offset": 1705,
+                    "length": 7,
+                    "confidenceScore": 0.74
+                },
+                {
+                    "text": "directors",
+                    "category": "PersonType",
+                    "offset": 1742,
+                    "length": 9,
+                    "confidenceScore": 0.5
+                },
+                {
+                    "text": "EUR0 .12",
+                    "category": "Quantity",
+                    "subcategory": "Currency",
+                    "offset": 1779,
+                    "length": 8,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "2010",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 1802,
+                    "length": 4,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "EUR0 .08",
+                    "category": "Quantity",
+                    "subcategory": "Currency",
+                    "offset": 1821,
+                    "length": 8,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "2009",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 1848,
+                    "length": 4,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "MegaFon",
+                    "category": "Organization",
+                    "offset": 1864,
+                    "length": 7,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "16.1 %",
+                    "category": "Quantity",
+                    "subcategory": "Percentage",
+                    "offset": 1901,
+                    "length": 6,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "2009",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 1911,
+                    "length": 4,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "50.5 million",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 1919,
+                    "length": 12,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "users",
+                    "category": "PersonType",
+                    "offset": 1932,
+                    "length": 5,
+                    "confidenceScore": 0.67
+                },
+                {
+                    "text": "December 31",
+                    "category": "DateTime",
+                    "subcategory": "Date",
+                    "offset": 1944,
+                    "length": 11,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "customers",
+                    "category": "PersonType",
+                    "offset": 1998,
+                    "length": 9,
+                    "confidenceScore": 0.76
+                },
+                {
+                    "text": "24 %",
+                    "category": "Quantity",
+                    "subcategory": "Percentage",
+                    "offset": 2020,
+                    "length": 4,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "late 2009",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 2031,
+                    "length": 9,
+                    "confidenceScore": 0.76
+                },
+                {
+                    "text": "23 %",
+                    "category": "Quantity",
+                    "subcategory": "Percentage",
+                    "offset": 2051,
+                    "length": 4,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "late 2008",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 2062,
+                    "length": 9,
+                    "confidenceScore": 0.96
+                },
+                {
+                    "text": "TeliaSonera",
+                    "category": "Organization",
+                    "offset": 2087,
+                    "length": 11,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "life insurance",
+                    "category": "Skill",
+                    "offset": 2136,
+                    "length": 14,
+                    "confidenceScore": 0.85
+                },
+                {
+                    "text": "EUR 6.8 mn",
+                    "category": "Quantity",
+                    "subcategory": "Currency",
+                    "offset": 2162,
+                    "length": 10,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "EUR 3.2 mn",
+                    "category": "Quantity",
+                    "subcategory": "Currency",
+                    "offset": 2178,
+                    "length": 10,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "EUR 5.2 mn",
+                    "category": "Quantity",
+                    "subcategory": "Currency",
+                    "offset": 2238,
+                    "length": 10,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "EUR 1.5 mn",
+                    "category": "Quantity",
+                    "subcategory": "Currency",
+                    "offset": 2254,
+                    "length": 10,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "2009",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 2296,
+                    "length": 4,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "EUR193 .3 m",
+                    "category": "Quantity",
+                    "subcategory": "Currency",
+                    "offset": 2335,
+                    "length": 11,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "EUR179 .9 m",
+                    "category": "Quantity",
+                    "subcategory": "Currency",
+                    "offset": 2352,
+                    "length": 11,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "34.2 %",
+                    "category": "Quantity",
+                    "subcategory": "Percentage",
+                    "offset": 2390,
+                    "length": 6,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "EUR43 .1 m",
+                    "category": "Quantity",
+                    "subcategory": "Currency",
+                    "offset": 2400,
+                    "length": 10,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "EUR1",
+                    "category": "Quantity",
+                    "subcategory": "Currency",
+                    "offset": 2414,
+                    "length": 4,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "USD1 .4",
+                    "category": "Quantity",
+                    "subcategory": "Currency",
+                    "offset": 2421,
+                    "length": 7,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "18.5 %",
+                    "category": "Quantity",
+                    "subcategory": "Percentage",
+                    "offset": 2460,
+                    "length": 6,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "EUR167 .8 m",
+                    "category": "Quantity",
+                    "subcategory": "Currency",
+                    "offset": 2470,
+                    "length": 11,
+                    "confidenceScore": 0.92
+                },
+                {
+                    "text": "Teleste",
+                    "category": "Organization",
+                    "offset": 2483,
+                    "length": 7,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "EUR20 .4 m",
+                    "category": "Quantity",
+                    "subcategory": "Currency",
+                    "offset": 2501,
+                    "length": 10,
+                    "confidenceScore": 0.97
+                },
+                {
+                    "text": "12.2 %",
+                    "category": "Quantity",
+                    "subcategory": "Percentage",
+                    "offset": 2517,
+                    "length": 6,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "2009",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 2574,
+                    "length": 4,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "Nordea Group",
+                    "category": "Organization",
+                    "offset": 2590,
+                    "length": 12,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "2010",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 2636,
+                    "length": 4,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "18 percent",
+                    "category": "Quantity",
+                    "subcategory": "Percentage",
+                    "offset": 2644,
+                    "length": 10,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "3.64 billion euros",
+                    "category": "Quantity",
+                    "subcategory": "Currency",
+                    "offset": 2671,
+                    "length": 18,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "3 percent",
+                    "category": "Quantity",
+                    "subcategory": "Percentage",
+                    "offset": 2711,
+                    "length": 9,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "9.33 billion euros",
+                    "category": "Quantity",
+                    "subcategory": "Currency",
+                    "offset": 2724,
+                    "length": 18,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "nine-month",
+                    "category": "DateTime",
+                    "subcategory": "Duration",
+                    "offset": 2779,
+                    "length": 10,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "EUR13 .6 m",
+                    "category": "Quantity",
+                    "subcategory": "Currency",
+                    "offset": 2812,
+                    "length": 10,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "EUR394 .7 m",
+                    "category": "Quantity",
+                    "subcategory": "Currency",
+                    "offset": 2856,
+                    "length": 11,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "2005",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 2913,
+                    "length": 4,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "three-month",
+                    "category": "DateTime",
+                    "subcategory": "Duration",
+                    "offset": 2954,
+                    "length": 11,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "EUR1 .2 m",
+                    "category": "Quantity",
+                    "subcategory": "Currency",
+                    "offset": 2988,
+                    "length": 9,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "EUR20 .2 m",
+                    "category": "Quantity",
+                    "subcategory": "Currency",
+                    "offset": 3029,
+                    "length": 10,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "2005",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 3085,
+                    "length": 4,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "11.4 %",
+                    "category": "Quantity",
+                    "subcategory": "Percentage",
+                    "offset": 3132,
+                    "length": 6,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "the year",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 3142,
+                    "length": 8,
+                    "confidenceScore": 0.86
+                },
+                {
+                    "text": "82.2 million euros",
+                    "category": "Quantity",
+                    "subcategory": "Currency",
+                    "offset": 3154,
+                    "length": 18,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "2005",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 3176,
+                    "length": 4,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "686.5 million euros",
+                    "category": "Quantity",
+                    "subcategory": "Currency",
+                    "offset": 3193,
+                    "length": 19,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "13.8 %",
+                    "category": "Quantity",
+                    "subcategory": "Percentage",
+                    "offset": 3215,
+                    "length": 6,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "the year",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 3228,
+                    "length": 8,
+                    "confidenceScore": 0.92
+                },
+                {
+                    "text": "positive",
+                    "category": "Organization",
+                    "offset": 3266,
+                    "length": 8,
+                    "confidenceScore": 0.58
+                },
+                {
+                    "text": "Lithuanian",
+                    "category": "Location",
+                    "subcategory": "CountryRegion",
+                    "offset": 3279,
+                    "length": 10,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "beer",
+                    "category": "Product",
+                    "offset": 3290,
+                    "length": 4,
+                    "confidenceScore": 0.6
+                },
+                {
+                    "text": "14.41 million liters",
+                    "category": "Quantity",
+                    "subcategory": "Dimension",
+                    "offset": 3310,
+                    "length": 20,
+                    "confidenceScore": 0.92
+                },
+                {
+                    "text": "January",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 3334,
+                    "length": 7,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "0.8 percent",
+                    "category": "Quantity",
+                    "subcategory": "Percentage",
+                    "offset": 3354,
+                    "length": 11,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "the year",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 3371,
+                    "length": 8,
+                    "confidenceScore": 0.49
+                },
+                {
+                    "text": "Lithuanian Brewers ' Association",
+                    "category": "Organization",
+                    "offset": 3401,
+                    "length": 32,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "members",
+                    "category": "PersonType",
+                    "offset": 3472,
+                    "length": 7,
+                    "confidenceScore": 0.88
+                },
+                {
+                    "text": "Viking Line",
+                    "category": "Organization",
+                    "offset": 3491,
+                    "length": 11,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "5.4 %",
+                    "category": "Quantity",
+                    "subcategory": "Percentage",
+                    "offset": 3533,
+                    "length": 5,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "EUR 21.46 mn",
+                    "category": "Quantity",
+                    "subcategory": "Currency",
+                    "offset": 3542,
+                    "length": 12,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "2.4 %",
+                    "category": "Quantity",
+                    "subcategory": "Percentage",
+                    "offset": 3587,
+                    "length": 5,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "70,116",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 3596,
+                    "length": 6,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "Kapiteeli",
+                    "category": "Organization",
+                    "offset": 3694,
+                    "length": 9,
+                    "confidenceScore": 0.9
+                },
+                {
+                    "text": "EUR 2,686.2 1,259.7 million",
+                    "category": "Quantity",
+                    "subcategory": "Currency",
+                    "offset": 3729,
+                    "length": 27,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "10 February 2011",
+                    "category": "DateTime",
+                    "subcategory": "Date",
+                    "offset": 3768,
+                    "length": 16,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Finnish",
+                    "category": "Location",
+                    "subcategory": "CountryRegion",
+                    "offset": 3787,
+                    "length": 7,
+                    "confidenceScore": 0.82
+                },
+                {
+                    "text": "media",
+                    "category": "Skill",
+                    "offset": 3795,
+                    "length": 5,
+                    "confidenceScore": 0.73
+                },
+                {
+                    "text": "Sanoma Oyj",
+                    "category": "Organization",
+                    "offset": 3809,
+                    "length": 10,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "HEL",
+                    "category": "Location",
+                    "subcategory": "City",
+                    "offset": 3820,
+                    "length": 3,
+                    "confidenceScore": 0.59
+                },
+                {
+                    "text": "SAA1V",
+                    "category": "Organization",
+                    "offset": 3826,
+                    "length": 5,
+                    "confidenceScore": 0.58
+                },
+                {
+                    "text": "yesterday",
+                    "category": "DateTime",
+                    "subcategory": "Date",
+                    "offset": 3837,
+                    "length": 9,
+                    "confidenceScore": 0.98
+                },
+                {
+                    "text": "2010",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 3851,
+                    "length": 4,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "EUR297 .3 m",
+                    "category": "Quantity",
+                    "subcategory": "Currency",
+                    "offset": 3885,
+                    "length": 11,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "EUR107 .1 m",
+                    "category": "Quantity",
+                    "subcategory": "Currency",
+                    "offset": 3902,
+                    "length": 11,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "2009",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 3918,
+                    "length": 4,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Helsinki",
+                    "category": "Location",
+                    "subcategory": "City",
+                    "offset": 3981,
+                    "length": 8,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "ELIiV",
+                    "category": "Organization",
+                    "offset": 3992,
+                    "length": 5,
+                    "confidenceScore": 0.95
+                },
+                {
+                    "text": "today",
+                    "category": "DateTime",
+                    "subcategory": "Date",
+                    "offset": 3998,
+                    "length": 5,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": ".13",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 4025,
+                    "length": 3,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "2009",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 4033,
+                    "length": 4,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": ".12",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 4069,
+                    "length": 3,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "2008",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 4076,
+                    "length": 4,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "Commission",
+                    "category": "Organization",
+                    "offset": 4092,
+                    "length": 10,
+                    "confidenceScore": 0.62
+                },
+                {
+                    "text": "22 %",
+                    "category": "Quantity",
+                    "subcategory": "Percentage",
+                    "offset": 4123,
+                    "length": 4,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "EUR 4.4 mn",
+                    "category": "Quantity",
+                    "subcategory": "Currency",
+                    "offset": 4131,
+                    "length": 10,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "13.5 %",
+                    "category": "Quantity",
+                    "subcategory": "Percentage",
+                    "offset": 4171,
+                    "length": 6,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "January",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 4192,
+                    "length": 7,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "traffic",
+                    "category": "Skill",
+                    "offset": 4202,
+                    "length": 7,
+                    "confidenceScore": 0.55
+                },
+                {
+                    "text": "passenger",
+                    "category": "PersonType",
+                    "offset": 4232,
+                    "length": 9,
+                    "confidenceScore": 0.74
+                },
+                {
+                    "text": "3.2 %",
+                    "category": "Quantity",
+                    "subcategory": "Percentage",
+                    "offset": 4270,
+                    "length": 5,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "12.2 %",
+                    "category": "Quantity",
+                    "subcategory": "Percentage",
+                    "offset": 4343,
+                    "length": 6,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "January-September 2010",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 4364,
+                    "length": 22,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Fiskars",
+                    "category": "Organization",
+                    "offset": 4389,
+                    "length": 7,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "14 %",
+                    "category": "Quantity",
+                    "subcategory": "Percentage",
+                    "offset": 4421,
+                    "length": 4,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "EUR 65.4 million",
+                    "category": "Quantity",
+                    "subcategory": "Currency",
+                    "offset": 4442,
+                    "length": 16,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "EUR 525.3 million",
+                    "category": "Quantity",
+                    "subcategory": "Currency",
+                    "offset": 4476,
+                    "length": 17,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "EUR 487.7 million",
+                    "category": "Quantity",
+                    "subcategory": "Currency",
+                    "offset": 4499,
+                    "length": 17,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "life insurance",
+                    "category": "Skill",
+                    "offset": 4544,
+                    "length": 14,
+                    "confidenceScore": 0.95
+                },
+                {
+                    "text": "EUR 16.5 mn",
+                    "category": "Quantity",
+                    "subcategory": "Currency",
+                    "offset": 4567,
+                    "length": 11,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "EUR 14.0 mn",
+                    "category": "Quantity",
+                    "subcategory": "Currency",
+                    "offset": 4584,
+                    "length": 11,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "life",
+                    "category": "Skill",
+                    "offset": 4622,
+                    "length": 4,
+                    "confidenceScore": 0.57
+                },
+                {
+                    "text": "insurance",
+                    "category": "Skill",
+                    "offset": 4627,
+                    "length": 9,
+                    "confidenceScore": 0.54
+                },
+                {
+                    "text": "EUR 22.6 mn",
+                    "category": "Quantity",
+                    "subcategory": "Currency",
+                    "offset": 4640,
+                    "length": 11,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "EUR 15.2 mn",
+                    "category": "Quantity",
+                    "subcategory": "Currency",
+                    "offset": 4657,
+                    "length": 11,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "2009",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 4672,
+                    "length": 4,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "Sales",
+                    "category": "Skill",
+                    "offset": 4688,
+                    "length": 5,
+                    "confidenceScore": 0.77
+                },
+                {
+                    "text": "positive",
+                    "category": "Organization",
+                    "offset": 4731,
+                    "length": 8,
+                    "confidenceScore": 0.53
+                },
+                {
+                    "text": "Nokia Siemens Networks",
+                    "category": "Organization",
+                    "offset": 4877,
+                    "length": 22,
+                    "confidenceScore": 0.98
+                },
+                {
+                    "text": "1.5 bln euro $ 2.2 bln",
+                    "category": "Quantity",
+                    "subcategory": "Currency",
+                    "offset": 4946,
+                    "length": 22,
+                    "confidenceScore": 0.94
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2023-09-01"
+}
