@@ -1,0 +1,1633 @@
+{
+    "documents": [
+        {
+            "id": "id__8303",
+            "sentiment": "mixed",
+            "confidenceScores": {
+                "positive": 0.62,
+                "neutral": 0.19,
+                "negative": 0.2
+            },
+            "sentences": [
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.08,
+                        "neutral": 0.87,
+                        "negative": 0.04
+                    },
+                    "offset": 0,
+                    "length": 13,
+                    "text": "How are you? ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.69,
+                        "neutral": 0.29,
+                        "negative": 0.02
+                    },
+                    "offset": 13,
+                    "length": 23,
+                    "text": "Btw thanks for the RT. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.03,
+                        "neutral": 0.95,
+                        "negative": 0.02
+                    },
+                    "offset": 36,
+                    "length": 33,
+                    "text": "You gonna be in DC anytime soon? ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.97,
+                        "neutral": 0.02,
+                        "negative": 0.01
+                    },
+                    "offset": 69,
+                    "length": 17,
+                    "text": "Love to see you. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.05,
+                        "neutral": 0.47,
+                        "negative": 0.47
+                    },
+                    "offset": 86,
+                    "length": 24,
+                    "text": "Been way, way too long.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.14,
+                        "neutral": 0.83,
+                        "negative": 0.03
+                    },
+                    "offset": 110,
+                    "length": 33,
+                    "text": "When you meet someone special... ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.06,
+                        "neutral": 0.93,
+                        "negative": 0.01
+                    },
+                    "offset": 143,
+                    "length": 13,
+                    "text": "you'll know. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.56,
+                        "neutral": 0.38,
+                        "negative": 0.06
+                    },
+                    "offset": 156,
+                    "length": 66,
+                    "text": "Your heart will beat more rapidly and you'll smile for no reason.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.42,
+                        "neutral": 0.56,
+                        "negative": 0.03
+                    },
+                    "offset": 222,
+                    "length": 41,
+                    "text": "they've decided its more fun if I don't.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.14,
+                        "negative": 0.84
+                    },
+                    "offset": 263,
+                    "length": 12,
+                    "text": "So Tired D; ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.28,
+                        "neutral": 0.67,
+                        "negative": 0.05
+                    },
+                    "offset": 275,
+                    "length": 32,
+                    "text": "Played Lazer Tag & Ran A LOT D; ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.69,
+                        "neutral": 0.25,
+                        "negative": 0.06
+                    },
+                    "offset": 307,
+                    "length": 73,
+                    "text": "Ughh Going To Sleep Like In 5 Minutes ;)  Words from a complete stranger! ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.97,
+                        "neutral": 0.02,
+                        "negative": 0.01
+                    },
+                    "offset": 380,
+                    "length": 54,
+                    "text": "Made my birthday even better :)  First Cubs game ever! ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.97,
+                        "neutral": 0.02,
+                        "negative": 0
+                    },
+                    "offset": 434,
+                    "length": 27,
+                    "text": "Wrigley field is gorgeous. ",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 439,
+                            "length": 13,
+                            "text": "Wrigley field",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/13/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 456,
+                            "length": 8,
+                            "text": "gorgeous",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.98,
+                        "neutral": 0.01,
+                        "negative": 0
+                    },
+                    "offset": 461,
+                    "length": 17,
+                    "text": "This is perfect. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.36,
+                        "neutral": 0.56,
+                        "negative": 0.07
+                    },
+                    "offset": 478,
+                    "length": 12,
+                    "text": "Go Cubs Go!  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.1,
+                        "neutral": 0.22,
+                        "negative": 0.68
+                    },
+                    "offset": 490,
+                    "length": 6,
+                    "text": "i no! ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.99,
+                        "neutral": 0.01,
+                        "negative": 0
+                    },
+                    "offset": 496,
+                    "length": 85,
+                    "text": "i get another day off from skool due to the wonderful snow (: and THIS wakes me up...",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.06,
+                        "neutral": 0.24,
+                        "negative": 0.7
+                    },
+                    "offset": 581,
+                    "length": 22,
+                    "text": "damn thing  I'm coo... ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.04,
+                        "neutral": 0.23,
+                        "negative": 0.73
+                    },
+                    "offset": 603,
+                    "length": 71,
+                    "text": "Jus at work hella tired r u ever in cali  The new sundrop commercial ...",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.9,
+                        "neutral": 0.08,
+                        "negative": 0.02
+                    },
+                    "offset": 674,
+                    "length": 133,
+                    "text": "hehe love at first sight  we need to reconnect THIS WEEK  I always wonder how the guys on the auctions shows learned to talk so fast!? ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.93,
+                        "negative": 0.06
+                    },
+                    "offset": 807,
+                    "length": 36,
+                    "text": "all I hear is djsosnekspqnslanskam.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.98,
+                        "neutral": 0.01,
+                        "negative": 0.01
+                    },
+                    "offset": 843,
+                    "length": 45,
+                    "text": "Dammnnnnn what a catch  such a great picture! ",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 891,
+                            "length": 7,
+                            "text": "picture",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/22/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 885,
+                            "length": 5,
+                            "text": "great",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.71,
+                        "neutral": 0.25,
+                        "negative": 0.03
+                    },
+                    "offset": 888,
+                    "length": 46,
+                    "text": "The green shirt totally brings out your eyes!  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.16,
+                        "neutral": 0.82,
+                        "negative": 0.02
+                    },
+                    "offset": 934,
+                    "length": 36,
+                    "text": "Desk put together, room all set up. ",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 0.99,
+                                "negative": 0.01
+                            },
+                            "offset": 966,
+                            "length": 4,
+                            "text": "room",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/24/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 0.99,
+                                "negative": 0.01
+                            },
+                            "offset": 975,
+                            "length": 6,
+                            "text": "set up",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.74,
+                        "neutral": 0.23,
+                        "negative": 0.04
+                    },
+                    "offset": 970,
+                    "length": 96,
+                    "text": "Oh boy, oh boy  I'm doing it!👦  Beauty Brainstorming in the Alchemy office with and Sally Walker!  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.09,
+                        "neutral": 0.91,
+                        "negative": 0.01
+                    },
+                    "offset": 1066,
+                    "length": 46,
+                    "text": "Looking for a new band to blog for the month. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.07,
+                        "neutral": 0.88,
+                        "negative": 0.05
+                    },
+                    "offset": 1112,
+                    "length": 19,
+                    "text": "anyone interested?  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.07,
+                        "neutral": 0.92,
+                        "negative": 0.01
+                    },
+                    "offset": 1131,
+                    "length": 44,
+                    "text": "Packing for a quick move down the street... ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.08,
+                        "neutral": 0.89,
+                        "negative": 0.02
+                    },
+                    "offset": 1175,
+                    "length": 29,
+                    "text": "If only I had some movers...  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.98,
+                        "negative": 0.01
+                    },
+                    "offset": 1204,
+                    "length": 22,
+                    "text": "ford focus hatchback?  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.31,
+                        "neutral": 0.54,
+                        "negative": 0.15
+                    },
+                    "offset": 1226,
+                    "length": 100,
+                    "text": "RT : According to the National Retail Federation $16.3 BILLION was spent on #MothersDay last year!!  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.24,
+                        "neutral": 0.42,
+                        "negative": 0.34
+                    },
+                    "offset": 1326,
+                    "length": 120,
+                    "text": "“: \"The tragedy of life is not that it ends so soon, but that we wait so long to begin it.\" - W.M. Lewis”  More skating! ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.9,
+                        "neutral": 0.09,
+                        "negative": 0.01
+                    },
+                    "offset": 1446,
+                    "length": 99,
+                    "text": "Come by the check out a movie, eat a great dinner and top it off with great times at the ice rink.  ",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 1511,
+                            "length": 6,
+                            "text": "dinner",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/33/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 1505,
+                            "length": 5,
+                            "text": "great",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.47,
+                        "neutral": 0.46,
+                        "negative": 0.07
+                    },
+                    "offset": 1545,
+                    "length": 20,
+                    "text": "watch your mailbox! ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.59,
+                        "neutral": 0.38,
+                        "negative": 0.03
+                    },
+                    "offset": 1565,
+                    "length": 25,
+                    "text": ": )  Tommorows the day...  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.94,
+                        "neutral": 0.06,
+                        "negative": 0.01
+                    },
+                    "offset": 1590,
+                    "length": 16,
+                    "text": "Good questions. ",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 1620,
+                            "length": 9,
+                            "text": "questions",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/36/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 1615,
+                            "length": 4,
+                            "text": "Good",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.05,
+                        "neutral": 0.92,
+                        "negative": 0.03
+                    },
+                    "offset": 1606,
+                    "length": 55,
+                    "text": "RT : Your #brand will be judged based on its #website. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.29,
+                        "neutral": 0.69,
+                        "negative": 0.02
+                    },
+                    "offset": 1661,
+                    "length": 44,
+                    "text": "Is your website a good brand ambassador?...  ",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 0.98,
+                                "negative": 0.02
+                            },
+                            "offset": 1709,
+                            "length": 16,
+                            "text": "brand ambassador",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/38/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 0.98,
+                                "negative": 0.02
+                            },
+                            "offset": 1704,
+                            "length": 4,
+                            "text": "good",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.46,
+                        "neutral": 0.5,
+                        "negative": 0.04
+                    },
+                    "offset": 1705,
+                    "length": 141,
+                    "text": "Don't care what others think of you, and you will save yourself a lot of mental energy that instead can be used to push you towards success.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.07,
+                        "neutral": 0.91,
+                        "negative": 0.02
+                    },
+                    "offset": 1846,
+                    "length": 29,
+                    "text": "This Ron Artest interview... ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.1,
+                        "neutral": 0.62,
+                        "negative": 0.28
+                    },
+                    "offset": 1875,
+                    "length": 37,
+                    "text": "is it possible to die from laughter?  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.6,
+                        "neutral": 0.35,
+                        "negative": 0.06
+                    },
+                    "offset": 1912,
+                    "length": 7,
+                    "text": "Linda! ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.03,
+                        "neutral": 0.77,
+                        "negative": 0.2
+                    },
+                    "offset": 1919,
+                    "length": 96,
+                    "text": "Just looked at my sched & I have to hustle back to Chula for P.M. meetings, so no time 4 lunch. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.05,
+                        "neutral": 0.34,
+                        "negative": 0.61
+                    },
+                    "offset": 2015,
+                    "length": 24,
+                    "text": ":( Do u meet every Fri?  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.6,
+                        "neutral": 0.32,
+                        "negative": 0.09
+                    },
+                    "offset": 2039,
+                    "length": 23,
+                    "text": "Bum Squad lets get it! ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.94,
+                        "neutral": 0.05,
+                        "negative": 0.01
+                    },
+                    "offset": 2062,
+                    "length": 75,
+                    "text": "RT : Shout that ninja out for winning  I love you, and I'm so proud of you. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.05,
+                        "neutral": 0.93,
+                        "negative": 0.02
+                    },
+                    "offset": 2137,
+                    "length": 54,
+                    "text": "From sitting on those stairs on The X Factor, to now. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.55,
+                        "neutral": 0.25,
+                        "negative": 0.21
+                    },
+                    "offset": 2191,
+                    "length": 136,
+                    "text": "You boys are my inspiration.♥ :) xx  Maybe some other time I can't slow down, right across that state line right about now  Exhaust leak! ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.99,
+                        "neutral": 0.01,
+                        "negative": 0
+                    },
+                    "offset": 2327,
+                    "length": 120,
+                    "text": "arrrgh  i Love Reading your magazine (: it always cheers me up  Tables are all sold out for the Mystique Masquerade Ball.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.16,
+                        "neutral": 0.69,
+                        "negative": 0.14
+                    },
+                    "offset": 2447,
+                    "length": 13,
+                    "text": "Make one up! ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.85,
+                        "neutral": 0.14,
+                        "negative": 0.01
+                    },
+                    "offset": 2460,
+                    "length": 31,
+                    "text": "It might help you feel better. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.16,
+                        "negative": 0.83
+                    },
+                    "offset": 2491,
+                    "length": 55,
+                    "text": "Alternative: just scream nonsense at the dumb machine.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.94,
+                        "neutral": 0.04,
+                        "negative": 0.01
+                    },
+                    "offset": 2546,
+                    "length": 158,
+                    "text": "ya ik and i never asked him to follow me i only mentioned him once in one of my tweets- i didnt do anything else  I will <3  Great talking to you guys tonight! ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.84,
+                        "neutral": 0.15,
+                        "negative": 0.01
+                    },
+                    "offset": 2704,
+                    "length": 45,
+                    "text": "Looking forward to your piece next week Jon.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.12,
+                        "neutral": 0.85,
+                        "negative": 0.03
+                    },
+                    "offset": 2749,
+                    "length": 23,
+                    "text": "Small market baseball. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.06,
+                        "neutral": 0.91,
+                        "negative": 0.03
+                    },
+                    "offset": 2772,
+                    "length": 12,
+                    "text": "You, know...",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.98,
+                        "negative": 0.01
+                    },
+                    "offset": 2784,
+                    "length": 13,
+                    "text": "for the 99%.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.54,
+                        "neutral": 0.37,
+                        "negative": 0.09
+                    },
+                    "offset": 2797,
+                    "length": 9,
+                    "text": "Sing it!  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.72,
+                        "neutral": 0.21,
+                        "negative": 0.06
+                    },
+                    "offset": 2806,
+                    "length": 22,
+                    "text": "it comes on tonight!! ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.06,
+                        "neutral": 0.14,
+                        "negative": 0.8
+                    },
+                    "offset": 2828,
+                    "length": 15,
+                    "text": "not tomorrow!!  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.04,
+                        "neutral": 0.92,
+                        "negative": 0.05
+                    },
+                    "offset": 2843,
+                    "length": 7,
+                    "text": "maybe? ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.59,
+                        "neutral": 0.38,
+                        "negative": 0.03
+                    },
+                    "offset": 2850,
+                    "length": 82,
+                    "text": "just seems they thought up that idea over sunday brunch and thought it was swell.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.92,
+                        "neutral": 0.07,
+                        "negative": 0.01
+                    },
+                    "offset": 2932,
+                    "length": 20,
+                    "text": "Thanks for the #FF! ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.99,
+                        "neutral": 0.01,
+                        "negative": 0
+                    },
+                    "offset": 2952,
+                    "length": 31,
+                    "text": "Awfully good company to be in.  ",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 3008,
+                            "length": 7,
+                            "text": "company",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/64/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 3003,
+                            "length": 4,
+                            "text": "good",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.25,
+                        "neutral": 0.73,
+                        "negative": 0.02
+                    },
+                    "offset": 2983,
+                    "length": 120,
+                    "text": "\"The longer we live the more we find we are like other persons.\" ~ Oliver Wendell Holmes  made my list for top 99 women.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.99,
+                        "neutral": 0.01,
+                        "negative": 0
+                    },
+                    "offset": 3103,
+                    "length": 153,
+                    "text": "nice I watched the whole series, LOVED Julia and her mom Erica was such a badass  GOP line on Obama gay marriage stance seems to be that he flip-flopped. ",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 3174,
+                            "length": 6,
+                            "text": "series",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/66/assessments/0"
+                                },
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/66/assessments/1"
+                                }
+                            ]
+                        },
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 3188,
+                            "length": 5,
+                            "text": "Julia",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/66/assessments/1"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 3149,
+                            "length": 4,
+                            "text": "nice",
+                            "isNegated": false
+                        },
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 3182,
+                            "length": 5,
+                            "text": "LOVED",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.97,
+                        "negative": 0.01
+                    },
+                    "offset": 3256,
+                    "length": 68,
+                    "text": "Really want to use that with Romney as your presidential candidate?  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.16,
+                        "neutral": 0.77,
+                        "negative": 0.07
+                    },
+                    "offset": 3324,
+                    "length": 16,
+                    "text": "I know, I know. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.09,
+                        "neutral": 0.81,
+                        "negative": 0.09
+                    },
+                    "offset": 3340,
+                    "length": 53,
+                    "text": "Then you kick yourself when the fight goes lopsided. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.19,
+                        "neutral": 0.48,
+                        "negative": 0.33
+                    },
+                    "offset": 3393,
+                    "length": 35,
+                    "text": "But if the upset DOES happen, wow. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.05,
+                        "neutral": 0.66,
+                        "negative": 0.29
+                    },
+                    "offset": 3428,
+                    "length": 17,
+                    "text": "Nothing like it.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.24,
+                        "neutral": 0.43,
+                        "negative": 0.33
+                    },
+                    "offset": 3445,
+                    "length": 134,
+                    "text": "No stress balls or keg and different crew -- but these guys know how to party  William Davis attorney says client will plead insanity. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.25,
+                        "negative": 0.73
+                    },
+                    "offset": 3579,
+                    "length": 153,
+                    "text": "He faces first-degree murder charge in woman's death  #OccupyMadison GA: \"I always considered myself a liberal until I saw the liberal machine in action. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0.03,
+                        "negative": 0.96
+                    },
+                    "offset": 3732,
+                    "length": 14,
+                    "text": "It was ugly.\"  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.16,
+                        "neutral": 0.34,
+                        "negative": 0.5
+                    },
+                    "offset": 3746,
+                    "length": 100,
+                    "text": "Weird thought: we got to witness the change of a millenia, the next change is 40 generations away...",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.41,
+                        "neutral": 0.45,
+                        "negative": 0.14
+                    },
+                    "offset": 3846,
+                    "length": 39,
+                    "text": "imagine what the differences will be!!  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.3,
+                        "neutral": 0.68,
+                        "negative": 0.02
+                    },
+                    "offset": 3885,
+                    "length": 16,
+                    "text": "got a good one?  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.95,
+                        "neutral": 0.04,
+                        "negative": 0.01
+                    },
+                    "offset": 3901,
+                    "length": 66,
+                    "text": "love chris brown  Wit them sexy ass lips  its sounds good  How (un??)",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.8,
+                        "neutral": 0.17,
+                        "negative": 0.03
+                    },
+                    "offset": 3967,
+                    "length": 124,
+                    "text": "fortunate that those days when every status update was a song lyrics were also the days when I first discovered New Wave...  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.18,
+                        "neutral": 0.5,
+                        "negative": 0.31
+                    },
+                    "offset": 4091,
+                    "length": 44,
+                    "text": "I had a bomb ass day Chillin' with friends.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.46,
+                        "neutral": 0.53,
+                        "negative": 0.01
+                    },
+                    "offset": 4135,
+                    "length": 63,
+                    "text": "Working on music for Holiday show on the 23 in Santa Barbara!! ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.43,
+                        "neutral": 0.51,
+                        "negative": 0.06
+                    },
+                    "offset": 4198,
+                    "length": 11,
+                    "text": "OPEN BAR!! ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.28,
+                        "neutral": 0.69,
+                        "negative": 0.04
+                    },
+                    "offset": 4209,
+                    "length": 62,
+                    "text": "Me, Tim from Palin White T's and JR Richards from Dishwalla!!  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.47,
+                        "neutral": 0.48,
+                        "negative": 0.04
+                    },
+                    "offset": 4271,
+                    "length": 10,
+                    "text": "Hey Nate! ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.88,
+                        "neutral": 0.11,
+                        "negative": 0.01
+                    },
+                    "offset": 4281,
+                    "length": 34,
+                    "text": "Thanks for dropping by yesterday. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.03,
+                        "neutral": 0.94,
+                        "negative": 0.03
+                    },
+                    "offset": 4315,
+                    "length": 19,
+                    "text": "How was your meal?  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.4,
+                        "neutral": 0.57,
+                        "negative": 0.03
+                    },
+                    "offset": 4334,
+                    "length": 46,
+                    "text": "#FF : literary lights who brightened my week.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.65,
+                        "neutral": 0.31,
+                        "negative": 0.04
+                    },
+                    "offset": 4380,
+                    "length": 18,
+                    "text": "Time to shape up! ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.21,
+                        "neutral": 0.77,
+                        "negative": 0.02
+                    },
+                    "offset": 4398,
+                    "length": 63,
+                    "text": "Water, pavement, weights, and zija are going to be my friends. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.57,
+                        "neutral": 0.27,
+                        "negative": 0.15
+                    },
+                    "offset": 4461,
+                    "length": 28,
+                    "text": "wedding just 4 months away!  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.47,
+                        "neutral": 0.51,
+                        "negative": 0.02
+                    },
+                    "offset": 4489,
+                    "length": 93,
+                    "text": "Report the many things that are positive about the University of Arkansas athletics program.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.98,
+                        "negative": 0.01
+                    },
+                    "offset": 4582,
+                    "length": 71,
+                    "text": "Athletes/celebrities should have a tool to charge $.99 per RT request. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.56,
+                        "neutral": 0.42,
+                        "negative": 0.02
+                    },
+                    "offset": 4653,
+                    "length": 55,
+                    "text": "$ to support foundations/charities, fans get involved.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.95,
+                        "neutral": 0.05,
+                        "negative": 0.01
+                    },
+                    "offset": 4708,
+                    "length": 8,
+                    "text": "Enjoy!! ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.63,
+                        "neutral": 0.31,
+                        "negative": 0.06
+                    },
+                    "offset": 4716,
+                    "length": 12,
+                    "text": "Stay cool!!  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.04,
+                        "neutral": 0.94,
+                        "negative": 0.03
+                    },
+                    "offset": 4728,
+                    "length": 4,
+                    "text": "\"...",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.2,
+                        "negative": 0.78
+                    },
+                    "offset": 4732,
+                    "length": 27,
+                    "text": "yo chick she so thirst...\" ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.67,
+                        "neutral": 0.25,
+                        "negative": 0.08
+                    },
+                    "offset": 4759,
+                    "length": 7,
+                    "text": "aye!!! ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.22,
+                        "neutral": 0.7,
+                        "negative": 0.08
+                    },
+                    "offset": 4766,
+                    "length": 88,
+                    "text": "I really don't know what else they're saying tho except that lol  talks in third person.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.09,
+                        "neutral": 0.85,
+                        "negative": 0.06
+                    },
+                    "offset": 4854,
+                    "length": 2,
+                    "text": ". ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.14,
+                        "neutral": 0.84,
+                        "negative": 0.02
+                    },
+                    "offset": 4856,
+                    "length": 24,
+                    "text": "many things can happen. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.98,
+                        "negative": 0.01
+                    },
+                    "offset": 4880,
+                    "length": 42,
+                    "text": "Only YOU can control your reaction to it. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.07,
+                        "neutral": 0.93,
+                        "negative": 0.01
+                    },
+                    "offset": 4922,
+                    "length": 10,
+                    "text": "Practice t",
+                    "targets": [],
+                    "assessments": []
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2022-11-01"
+}
