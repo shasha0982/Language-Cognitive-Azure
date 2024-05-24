@@ -1,0 +1,28 @@
+[
+    {
+        "kind": "AbstractiveSummarizationLROResults",
+        "lastUpdateDateTime": "2024-05-24T08:19:02.669481Z",
+        "status": "succeeded",
+        "results": {
+            "documents": [
+                {
+                    "summaries": [
+                        {
+                            "text": "The speaker, presumably President Trump, addressed a gathering in Colorado, where he was joined by three veterans of the Battle of Iwo Jima. He also acknowledged the veterans of the Vietnam, Iraq, and Afghanistan Wars. Trump made several comments about his presidency, including his victory over Hillary Clinton, his performance in the debates, and the state of the Republican party. He also highlighted the economic achievements of his administration, including the lowest unemployment rate for workers without a high school diploma, the lifting of 10 million people off welfare, and the signing of a trade agreement with China. He criticized Democrats for their immigration policies, particularly those supported by Bernie Sanders. He also criticized the Democrats' healthcare policies, stating that his administration is protecting social security and Medicare. He concluded by stating that the Republican party is the party of the American worker, the American family, and the American dream.",
+                            "contexts": [
+                                {
+                                    "offset": 0,
+                                    "length": 63212
+                                }
+                            ]
+                        }
+                    ],
+                    "id": "id__1715",
+                    "warnings": []
+                }
+            ],
+            "errors": [],
+            "modelVersion": "latest"
+        }
+    }
+]
