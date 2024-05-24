@@ -1,0 +1,165 @@
+[
+    {
+        "kind": "AbstractiveSummarizationLROResults",
+        "lastUpdateDateTime": "2024-05-24T08:24:40.769771Z",
+        "status": "succeeded",
+        "results": {
+            "documents": [
+                {
+                    "summaries": [
+                        {
+                            "text": "The source document is a detailed discussion on various topics related to Anders Celsius, a Swedish astronomer who determined the dependence of the boiling of water with atmospheric pressure. It also includes a detailed explanation of the species of beetle and their characteristics. The document further delves into the life and presidency of Calvin Coolidge, the twenty-ninth vice president of the United States. It also includes information about the state of Canada during his presidency and his personal life. The document further discusses the role of Canada in UN peacekeeping efforts and its role in the European colonization of the continent. It also includes detailed information about the population of Canada and its population density. The document concludes with a brief discussion on the history and current state of Canada.",
+                            "contexts": [
+                                {
+                                    "offset": 0,
+                                    "length": 24313
+                                }
+                            ]
+                        }
+                    ],
+                    "id": "id__2248",
+                    "warnings": []
+                }
+            ],
+            "errors": [],
+            "modelVersion": "latest"
+        }
+    },
+    {
+        "kind": "ExtractiveSummarizationLROResults",
+        "lastUpdateDateTime": "2024-05-24T08:24:41.8250284Z",
+        "status": "succeeded",
+        "results": {
+            "documents": [
+                {
+                    "id": "id__2248",
+                    "sentences": [
+                        {
+                            "text": "Anders_Celsius Who determined the dependence of the boiling of water with atmospheric pressure?",
+                            "rankScore": 1,
+                            "offset": 93,
+                            "length": 95
+                        },
+                        {
+                            "text": "Anders_Celsius Who was the first to perform and publish careful experiments aiming at the definition of an international temperature scale on scientific grounds ?",
+                            "rankScore": 0.68,
+                            "offset": 880,
+                            "length": 162
+                        },
+                        {
+                            "text": "Anders_Celsius Had his thermometer 100 for the freezing point of water and 0 for the boiling point ?",
+                            "rankScore": 0.86,
+                            "offset": 1270,
+                            "length": 100
+                        },
+                        {
+                            "text": "Anders_Celsius Did he not determine the dependence of the boiling of water with atmospheric pressure -LRB- in excellent agreement with modern data -RRB- ?",
+                            "rankScore": 0.74,
+                            "offset": 1578,
+                            "length": 154
+                        },
+                        {
+                            "text": "Coolidge moved to Northampton, MassachuS08_setts to take up the practice of law hard medium S08_set3_a9",
+                            "rankScore": 0.74,
+                            "offset": 8296,
+                            "length": 103
+                        },
+                        {
+                            "text": "The town of Plymouth Notch medium hard S08_set3_a9",
+                            "rankScore": 0.78,
+                            "offset": 9603,
+                            "length": 50
+                        },
+                        {
+                            "text": "Plymouth, Windsor County, Vermont medium medium S08_set3_a9",
+                            "rankScore": 0.69,
+                            "offset": 9705,
+                            "length": 59
+                        },
+                        {
+                            "text": "Calvin_Coolidge What to be born on the fourth of July?",
+                            "rankScore": 0.68,
+                            "offset": 12241,
+                            "length": 54
+                        },
+                        {
+                            "text": "Calvin_Coolidge Who was the elder of two children of John Calvin Sr and Victoria Coolidge?",
+                            "rankScore": 0.71,
+                            "offset": 12323,
+                            "length": 90
+                        },
+                        {
+                            "text": "Calvin_Coolidge Who or what placed as high as sixth in the voting?",
+                            "rankScore": 0.73,
+                            "offset": 12441,
+                            "length": 66
+                        },
+                        {
+                            "text": "Calvin_Coolidge Is the genius of the average the most convincing proof of $ his strength?",
+                            "rankScore": 0.66,
+                            "offset": 14626,
+                            "length": 89
+                        },
+                        {
+                            "text": "Quebec City medium medium S08_set2_a8",
+                            "rankScore": 0.67,
+                            "offset": 15960,
+                            "length": 37
+                        },
+                        {
+                            "text": "Canada has since served in 50 peacekeeping missions, including every UN peacekeeping effort until 1989 hard medium S08_set2_a8",
+                            "rankScore": 0.67,
+                            "offset": 16881,
+                            "length": 126
+                        },
+                        {
+                            "text": "Canada has played a leading role in UN peacekeeping efforts.",
+                            "rankScore": 0.88,
+                            "offset": 17062,
+                            "length": 60
+                        },
+                        {
+                            "text": "During the Suez Crisis of 1956, Lester B. Pearson eased tensions by proposing the inception of the United Nations Peacekeeping Force.",
+                            "rankScore": 0.69,
+                            "offset": 17123,
+                            "length": 133
+                        },
+                        {
+                            "text": "Canada What is Canada's national unemployment rate?",
+                            "rankScore": 0.79,
+                            "offset": 18535,
+                            "length": 51
+                        },
+                        {
+                            "text": "While as of October 2007, Canada's national unemployment rate of 5.9% is its lowest in 33 years.",
+                            "rankScore": 0.69,
+                            "offset": 18587,
+                            "length": 96
+                        },
+                        {
+                            "text": "In October 2007, Canada's national unemployment rate is 5.9%.",
+                            "rankScore": 0.76,
+                            "offset": 18876,
+                            "length": 61
+                        },
+                        {
+                            "text": "Canada is the second largest country in the world, after Russia, and largest on the continent.",
+                            "rankScore": 0.81,
+                            "offset": 19479,
+                            "length": 94
+                        },
+                        {
+                            "text": "Canada Is it the world 's second largest country by total area?",
+                            "rankScore": 0.71,
+                            "offset": 21978,
+                            "length": 63
+                        }
+                    ],
+                    "warnings": []
+                }
+            ],
+            "errors": [],
+            "modelVersion": "2023-02-01-preview"
+        }
+    }
+]
