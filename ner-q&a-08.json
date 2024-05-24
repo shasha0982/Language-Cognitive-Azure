@@ -1,0 +1,670 @@
+{
+    "documents": [
+        {
+            "id": "id__5738",
+            "entities": [
+                {
+                    "text": "Anders_Celsius",
+                    "category": "Person",
+                    "offset": 93,
+                    "length": 14,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "Anders Celsius",
+                    "category": "Person",
+                    "offset": 189,
+                    "length": 14,
+                    "confidenceScore": 0.77
+                },
+                {
+                    "text": "Anders_Celsius",
+                    "category": "Person",
+                    "offset": 228,
+                    "length": 14,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "Celsius crater",
+                    "category": "Location",
+                    "offset": 272,
+                    "length": 14,
+                    "confidenceScore": 0.59
+                },
+                {
+                    "text": "Moon",
+                    "category": "Location",
+                    "offset": 294,
+                    "length": 4,
+                    "confidenceScore": 0.71
+                },
+                {
+                    "text": "Anders_Celsius",
+                    "category": "Person",
+                    "offset": 323,
+                    "length": 14,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "1733",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 372,
+                    "length": 4,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "Anders_Celsius",
+                    "category": "Person",
+                    "offset": 399,
+                    "length": 14,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "1738",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 459,
+                    "length": 4,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Anders_Celsius",
+                    "category": "Person",
+                    "offset": 490,
+                    "length": 14,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "thermometer",
+                    "category": "Product",
+                    "offset": 521,
+                    "length": 11,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "100",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 537,
+                    "length": 3,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "Anders_Celsius",
+                    "category": "Person",
+                    "offset": 591,
+                    "length": 14,
+                    "confidenceScore": 0.97
+                },
+                {
+                    "text": "Celsius",
+                    "category": "Person",
+                    "offset": 610,
+                    "length": 7,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "Uppsala",
+                    "category": "Location",
+                    "subcategory": "City",
+                    "offset": 626,
+                    "length": 7,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Sweden",
+                    "category": "Location",
+                    "subcategory": "CountryRegion",
+                    "offset": 637,
+                    "length": 6,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Anders_Celsius",
+                    "category": "Person",
+                    "offset": 671,
+                    "length": 14,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "Anders Celsius",
+                    "category": "Person",
+                    "offset": 690,
+                    "length": 14,
+                    "confidenceScore": 0.98
+                },
+                {
+                    "text": "November 27,",
+                    "category": "DateTime",
+                    "subcategory": "Date",
+                    "offset": 706,
+                    "length": 12,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "1701",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 719,
+                    "length": 4,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "25",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 730,
+                    "length": 2,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "1744)",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 734,
+                    "length": 5,
+                    "confidenceScore": 0.74
+                },
+                {
+                    "text": "Swedish",
+                    "category": "PersonType",
+                    "offset": 742,
+                    "length": 7,
+                    "confidenceScore": 0.92
+                },
+                {
+                    "text": "astronomer",
+                    "category": "PersonType",
+                    "offset": 750,
+                    "length": 10,
+                    "confidenceScore": 0.66
+                },
+                {
+                    "text": "Anders_Celsius",
+                    "category": "Person",
+                    "offset": 788,
+                    "length": 14,
+                    "confidenceScore": 0.92
+                },
+                {
+                    "text": "Celsius crater",
+                    "category": "Location",
+                    "offset": 810,
+                    "length": 14,
+                    "confidenceScore": 0.78
+                },
+                {
+                    "text": "Moon",
+                    "category": "Location",
+                    "offset": 832,
+                    "length": 4,
+                    "confidenceScore": 0.92
+                },
+                {
+                    "text": "Anders_Celsius",
+                    "category": "Person",
+                    "offset": 880,
+                    "length": 14,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "first",
+                    "category": "Quantity",
+                    "subcategory": "Ordinal",
+                    "offset": 907,
+                    "length": 5,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Anders Celsius",
+                    "category": "Person",
+                    "offset": 1043,
+                    "length": 14,
+                    "confidenceScore": 0.77
+                },
+                {
+                    "text": "Anders_Celsius",
+                    "category": "Person",
+                    "offset": 1082,
+                    "length": 14,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Moon",
+                    "category": "Location",
+                    "offset": 1123,
+                    "length": 4,
+                    "confidenceScore": 0.93
+                },
+                {
+                    "text": "Anders_Celsius",
+                    "category": "Person",
+                    "offset": 1177,
+                    "length": 14,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "Moon",
+                    "category": "Location",
+                    "offset": 1221,
+                    "length": 4,
+                    "confidenceScore": 0.9
+                },
+                {
+                    "text": "Anders_Celsius",
+                    "category": "Person",
+                    "offset": 1270,
+                    "length": 14,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "thermometer",
+                    "category": "Product",
+                    "offset": 1293,
+                    "length": 11,
+                    "confidenceScore": 0.65
+                },
+                {
+                    "text": "100",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 1305,
+                    "length": 3,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "0",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 1345,
+                    "length": 1,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "Anders_Celsius",
+                    "category": "Person",
+                    "offset": 1404,
+                    "length": 14,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "Celsius",
+                    "category": "Person",
+                    "offset": 1423,
+                    "length": 7,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "Uppsala",
+                    "category": "Location",
+                    "subcategory": "City",
+                    "offset": 1439,
+                    "length": 7,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Sweden",
+                    "category": "Location",
+                    "subcategory": "CountryRegion",
+                    "offset": 1450,
+                    "length": 6,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Anders_Celsius",
+                    "category": "Person",
+                    "offset": 1485,
+                    "length": 14,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "Moon",
+                    "category": "Location",
+                    "offset": 1529,
+                    "length": 4,
+                    "confidenceScore": 0.9
+                },
+                {
+                    "text": "Anders_Celsius",
+                    "category": "Person",
+                    "offset": 1578,
+                    "length": 14,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "atmospheric pressure",
+                    "category": "Skill",
+                    "offset": 1658,
+                    "length": 20,
+                    "confidenceScore": 0.86
+                },
+                {
+                    "text": "Anders_Celsius",
+                    "category": "Person",
+                    "offset": 1766,
+                    "length": 14,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "from 1730 to 1744",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 1795,
+                    "length": 17,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "professor",
+                    "category": "PersonType",
+                    "offset": 1821,
+                    "length": 9,
+                    "confidenceScore": 0.98
+                },
+                {
+                    "text": "astronomy",
+                    "category": "Skill",
+                    "offset": 1834,
+                    "length": 9,
+                    "confidenceScore": 0.87
+                },
+                {
+                    "text": "Uppsala University",
+                    "category": "Organization",
+                    "offset": 1847,
+                    "length": 18,
+                    "confidenceScore": 0.89
+                },
+                {
+                    "text": "Anders_Celsius",
+                    "category": "Person",
+                    "offset": 1888,
+                    "length": 14,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "1745",
+                    "category": "DateTime",
+                    "subcategory": "DateRange",
+                    "offset": 1920,
+                    "length": 4,
+                    "confidenceScore": 0.98
+                },
+                {
+                    "text": "easy",
+                    "category": "Product",
+                    "offset": 2005,
+                    "length": 4,
+                    "confidenceScore": 0.65
+                },
+                {
+                    "text": "easy",
+                    "category": "Product",
+                    "offset": 2059,
+                    "length": 4,
+                    "confidenceScore": 0.65
+                },
+                {
+                    "text": "polar regions",
+                    "category": "Location",
+                    "offset": 2112,
+                    "length": 13,
+                    "confidenceScore": 0.95
+                },
+                {
+                    "text": "polar regions",
+                    "category": "Location",
+                    "offset": 2183,
+                    "length": 13,
+                    "confidenceScore": 0.95
+                },
+                {
+                    "text": "easy easy",
+                    "category": "Product",
+                    "offset": 2201,
+                    "length": 9,
+                    "confidenceScore": 0.58
+                },
+                {
+                    "text": "antennae",
+                    "category": "Product",
+                    "offset": 2241,
+                    "length": 8,
+                    "confidenceScore": 0.57
+                },
+                {
+                    "text": "organs",
+                    "category": "Skill",
+                    "offset": 2272,
+                    "length": 6,
+                    "confidenceScore": 0.83
+                },
+                {
+                    "text": "easy",
+                    "category": "Product",
+                    "offset": 2293,
+                    "length": 4,
+                    "confidenceScore": 0.65
+                },
+                {
+                    "text": "antennae",
+                    "category": "Product",
+                    "offset": 2333,
+                    "length": 8,
+                    "confidenceScore": 0.57
+                },
+                {
+                    "text": "organs",
+                    "category": "Skill",
+                    "offset": 2364,
+                    "length": 6,
+                    "confidenceScore": 0.83
+                },
+                {
+                    "text": "easy",
+                    "category": "Product",
+                    "offset": 2385,
+                    "length": 4,
+                    "confidenceScore": 0.65
+                },
+                {
+                    "text": "three",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 2427,
+                    "length": 5,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "three",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 2539,
+                    "length": 5,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "enemies",
+                    "category": "PersonType",
+                    "offset": 2704,
+                    "length": 7,
+                    "confidenceScore": 0.9
+                },
+                {
+                    "text": "enemies",
+                    "category": "PersonType",
+                    "offset": 2818,
+                    "length": 7,
+                    "confidenceScore": 0.9
+                },
+                {
+                    "text": "Mimicry",
+                    "category": "Skill",
+                    "offset": 2827,
+                    "length": 7,
+                    "confidenceScore": 0.51
+                },
+                {
+                    "text": "potato plants",
+                    "category": "Product",
+                    "offset": 2902,
+                    "length": 13,
+                    "confidenceScore": 0.95
+                },
+                {
+                    "text": "Colorado potato beetle medium",
+                    "category": "Product",
+                    "offset": 2917,
+                    "length": 29,
+                    "confidenceScore": 0.81
+                },
+                {
+                    "text": "potato plants",
+                    "category": "Product",
+                    "offset": 3005,
+                    "length": 13,
+                    "confidenceScore": 0.95
+                },
+                {
+                    "text": "Colorado",
+                    "category": "Location",
+                    "subcategory": "State",
+                    "offset": 3020,
+                    "length": 8,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "potato beetle medium",
+                    "category": "Product",
+                    "offset": 3029,
+                    "length": 20,
+                    "confidenceScore": 0.67
+                },
+                {
+                    "text": "generalists",
+                    "category": "PersonType",
+                    "offset": 3533,
+                    "length": 11,
+                    "confidenceScore": 0.97
+                },
+                {
+                    "text": "diet",
+                    "category": "Skill",
+                    "offset": 3624,
+                    "length": 4,
+                    "confidenceScore": 0.85
+                },
+                {
+                    "text": "plants",
+                    "category": "Product",
+                    "offset": 3699,
+                    "length": 6,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "fungi",
+                    "category": "Product",
+                    "offset": 3710,
+                    "length": 5,
+                    "confidenceScore": 0.65
+                },
+                {
+                    "text": "animal",
+                    "category": "Product",
+                    "offset": 3728,
+                    "length": 6,
+                    "confidenceScore": 0.52
+                },
+                {
+                    "text": "plant",
+                    "category": "Product",
+                    "offset": 3739,
+                    "length": 5,
+                    "confidenceScore": 0.66
+                },
+                {
+                    "text": "easy",
+                    "category": "Product",
+                    "offset": 4111,
+                    "length": 4,
+                    "confidenceScore": 0.65
+                },
+                {
+                    "text": "uniform",
+                    "category": "Product",
+                    "offset": 4252,
+                    "length": 7,
+                    "confidenceScore": 0.42
+                },
+                {
+                    "text": "Yes easy medium",
+                    "category": "Product",
+                    "offset": 4261,
+                    "length": 15,
+                    "confidenceScore": 0.78
+                },
+                {
+                    "text": "uniform",
+                    "category": "Product",
+                    "offset": 4326,
+                    "length": 7,
+                    "confidenceScore": 0.42
+                },
+                {
+                    "text": "beetle",
+                    "category": "Product",
+                    "offset": 4483,
+                    "length": 6,
+                    "confidenceScore": 0.53
+                },
+                {
+                    "text": "350,000",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 4529,
+                    "length": 7,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "beetle",
+                    "category": "Product",
+                    "offset": 4563,
+                    "length": 6,
+                    "confidenceScore": 0.53
+                },
+                {
+                    "text": "350,000",
+                    "category": "Quantity",
+                    "subcategory": "Number",
+                    "offset": 4615,
+                    "length": 7,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "female",
+                    "category": "PersonType",
+                    "offset": 4696,
+                    "length": 6,
+                    "confidenceScore": 0.93
+                },
+                {
+                    "text": "female",
+                    "category": "PersonType",
+                    "offset": 4790,
+                    "length": 6,
+                    "confidenceScore": 0.93
+                },
+                {
+                    "text": "study",
+                    "category": "Event",
+                    "offset": 4858,
+                    "length": 5,
+                    "confidenceScore": 0.82
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2023-09-01"
+}
