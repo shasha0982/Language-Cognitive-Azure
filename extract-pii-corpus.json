@@ -1,0 +1,438 @@
+{
+    "documents": [
+        {
+            "redactedText": "The ************************ said ****** an investigation of Atlanta's recent primary election produced \"no evidence\" that any irregularities took place.   \r\nThe jury further said in term-end presentments that the ************************, which had over-all charge of the election, \"deserves the praise and thanks of the City of Atlanta\" for the manner in which the election was conducted.\r\n\r\nThe September-October term jury had been charged by Fulton Superior Court Judge *********** to investigate reports of possible \"irregularities\" in the hard-fought primary which was won by *****-nominate **************.   \r\n\"Only a relative handful of such reports was received\", the **** said, \"considering the widespread interest in the election, the number of ****** and the size of this city\".   \r\nThe **** said it did find that many of Georgia's registration and election laws \"are outmoded or inadequate and often ambiguous\".   \r\nIt recommended that Fulton *********** act \"to have these laws studied and revised to the end of modernizing and improving them\".   \r\nThe grand jury commented on a number of other topics, among them the Atlanta and Fulton County purchasing departments which it said \"are well operated and follow generally accepted practices which inure to the best interest of both governments\".\r\n\r\n#MERGER PROPOSED#\r\n\r\nHowever, the **** said it believes \"these two offices should be combined to achieve greater efficiency and reduce the cost of administration\".   \r\nThe **************************, the jury said, \"is lacking in experienced clerical ********* as a result of city personnel policies\". It urged that the city \"take steps to remedy\" this problem.   \r\nImplementation of Georgia's automobile title law was also recommended by the outgoing jury.\r\n\r\nIt urged that the next Legislature \"provide enabling funds and re-set the effective date so that an orderly implementation of the law may be effected\".   \r\nThe grand jury took a swipe at the ************************'s handling of federal funds granted for child welfare services in foster homes.   \r\n\"This is one of the major items in the Fulton County general assistance program\", the **** said, but the ************************ \"has seen fit to distribute these funds through the welfare departments of all the counties in the state with the exception of Fulton County, which receives none of this money.   \r\nThe ****** said they realize \"a proportionate distribution of these funds might disable this program in our less populous counties\".   \r\nNevertheless, \"we feel that in the future Fulton County should receive some portion of these available funds\", the ****** said. \"Failure to do this will continue to place a disproportionate burden\" on Fulton *********.   \r\nThe **** also commented on the Fulton ordinary's court which has been under fire for its practices in the appointment of **********, ********* and ************** and the awarding of fees and compensation.\r\n\r\n#WARDS PROTECTED#\r\n\r\nThe **** said it found the court \"has incorporated into its operating procedures the recommendations\" of two previous grand ******, the *********************** and an interim ******** committee.\r\n\r\n\"These actions should serve to protect in fact and in effect the court's wards from undue costs and its ********* and **************** from unmeritorious criticisms\", the **** said.   \r\nRegarding Atlanta's new multi-million-dollar airport, the jury recommended \"that when the new management takes charge Jan& 1 the airport be operated in a manner that will eliminate political influences\".\r\n\r\nThe jury did not elaborate, but it added that \"there should be periodic surveillance of the pricing practices of the *************** for the purpose of keeping the prices reasonable\".\r\n\r\n#ASK JAIL DEPUTIES#\r\n\r\nOn other matters, the jury recommended that: _(1)_ Four additional ******** be employed at the Fulton County Jail and \"a ******, ************** or extern be employed for night and weekend duty at the jail\". _(2)_ Fulton *********** \"work with ************** to pass enabling legislation that will permit the establishment of a fair and equitable\" pension plan for city ********.\r\n\r\nThe jury praised the administration and operation of the *************************, the ********************************, the Bellwood and Alpharetta prison farms, ************** and the ************************.\r\n\r\nMayor ********************* filed suit for divorce from his ****, *************************, in Fulton Superior Court ******. His petition charged mental cruelty.   \r\nThe couple was married ***& 2, 1913. They have a ***, *****************, and a ********, ***& *& M& ******** of Griffin.   \r\n********* for the ***** said that an amicable property settlement has been agreed upon.   \r\nThe petition listed the *****'s occupation as \"********\" and his age as **. It listed his ****'s age as ** and place of birth as Opelika, Ala&.   \r\nThe petition said that the couple has not lived together as man and **** for more than a year.\r\n",
+            "id": "id__3164",
+            "entities": [
+                {
+                    "text": "Fulton County Grand Jury",
+                    "category": "Organization",
+                    "offset": 4,
+                    "length": 24,
+                    "confidenceScore": 0.85
+                },
+                {
+                    "text": "Friday",
+                    "category": "DateTime",
+                    "subcategory": "Date",
+                    "offset": 34,
+                    "length": 6,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "City Executive Committee",
+                    "category": "Organization",
+                    "offset": 213,
+                    "length": 24,
+                    "confidenceScore": 0.97
+                },
+                {
+                    "text": "Durwood Pye",
+                    "category": "Person",
+                    "offset": 471,
+                    "length": 11,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Mayor",
+                    "category": "PersonType",
+                    "offset": 579,
+                    "length": 5,
+                    "confidenceScore": 0.76
+                },
+                {
+                    "text": "Ivan Allen Jr&",
+                    "category": "Person",
+                    "offset": 594,
+                    "length": 14,
+                    "confidenceScore": 0.85
+                },
+                {
+                    "text": "jury",
+                    "category": "PersonType",
+                    "offset": 673,
+                    "length": 4,
+                    "confidenceScore": 0.92
+                },
+                {
+                    "text": "voters",
+                    "category": "PersonType",
+                    "offset": 752,
+                    "length": 6,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "jury",
+                    "category": "PersonType",
+                    "offset": 794,
+                    "length": 4,
+                    "confidenceScore": 0.55
+                },
+                {
+                    "text": "legislators",
+                    "category": "PersonType",
+                    "offset": 950,
+                    "length": 11,
+                    "confidenceScore": 0.89
+                },
+                {
+                    "text": "jury",
+                    "category": "PersonType",
+                    "offset": 1335,
+                    "length": 4,
+                    "confidenceScore": 0.58
+                },
+                {
+                    "text": "City Purchasing Department",
+                    "category": "Organization",
+                    "offset": 1472,
+                    "length": 26,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "personnel",
+                    "category": "PersonType",
+                    "offset": 1551,
+                    "length": 9,
+                    "confidenceScore": 0.56
+                },
+                {
+                    "text": "State Welfare Department",
+                    "category": "Organization",
+                    "offset": 1948,
+                    "length": 24,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "jury",
+                    "category": "PersonType",
+                    "offset": 2142,
+                    "length": 4,
+                    "confidenceScore": 0.87
+                },
+                {
+                    "text": "State Welfare Department",
+                    "category": "Organization",
+                    "offset": 2161,
+                    "length": 24,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "jurors",
+                    "category": "PersonType",
+                    "offset": 2370,
+                    "length": 6,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "jurors",
+                    "category": "PersonType",
+                    "offset": 2617,
+                    "length": 6,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "taxpayers",
+                    "category": "PersonType",
+                    "offset": 2710,
+                    "length": 9,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "jury",
+                    "category": "PersonType",
+                    "offset": 2728,
+                    "length": 4,
+                    "confidenceScore": 0.73
+                },
+                {
+                    "text": "appraisers",
+                    "category": "PersonType",
+                    "offset": 2845,
+                    "length": 10,
+                    "confidenceScore": 0.92
+                },
+                {
+                    "text": "guardians",
+                    "category": "PersonType",
+                    "offset": 2857,
+                    "length": 9,
+                    "confidenceScore": 0.92
+                },
+                {
+                    "text": "administrators",
+                    "category": "PersonType",
+                    "offset": 2871,
+                    "length": 14,
+                    "confidenceScore": 0.95
+                },
+                {
+                    "text": "jury",
+                    "category": "PersonType",
+                    "offset": 2953,
+                    "length": 4,
+                    "confidenceScore": 0.54
+                },
+                {
+                    "text": "juries",
+                    "category": "PersonType",
+                    "offset": 3073,
+                    "length": 6,
+                    "confidenceScore": 0.51
+                },
+                {
+                    "text": "Atlanta Bar Association",
+                    "category": "Organization",
+                    "offset": 3085,
+                    "length": 23,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "citizens",
+                    "category": "PersonType",
+                    "offset": 3124,
+                    "length": 8,
+                    "confidenceScore": 0.65
+                },
+                {
+                    "text": "appointed",
+                    "category": "PersonType",
+                    "offset": 3249,
+                    "length": 9,
+                    "confidenceScore": 0.73
+                },
+                {
+                    "text": "elected servants",
+                    "category": "PersonType",
+                    "offset": 3263,
+                    "length": 16,
+                    "confidenceScore": 0.74
+                },
+                {
+                    "text": "jury",
+                    "category": "PersonType",
+                    "offset": 3316,
+                    "length": 4,
+                    "confidenceScore": 0.91
+                },
+                {
+                    "text": "concessionaires",
+                    "category": "PersonType",
+                    "offset": 3652,
+                    "length": 15,
+                    "confidenceScore": 0.58
+                },
+                {
+                    "text": "deputies",
+                    "category": "PersonType",
+                    "offset": 3808,
+                    "length": 8,
+                    "confidenceScore": 0.92
+                },
+                {
+                    "text": "doctor",
+                    "category": "PersonType",
+                    "offset": 3862,
+                    "length": 6,
+                    "confidenceScore": 0.98
+                },
+                {
+                    "text": "medical intern",
+                    "category": "PersonType",
+                    "offset": 3870,
+                    "length": 14,
+                    "confidenceScore": 0.88
+                },
+                {
+                    "text": "legislators",
+                    "category": "PersonType",
+                    "offset": 3961,
+                    "length": 11,
+                    "confidenceScore": 0.68
+                },
+                {
+                    "text": "city officials",
+                    "category": "PersonType",
+                    "offset": 3984,
+                    "length": 14,
+                    "confidenceScore": 0.51
+                },
+                {
+                    "text": "employes",
+                    "category": "PersonType",
+                    "offset": 4110,
+                    "length": 8,
+                    "confidenceScore": 0.49
+                },
+                {
+                    "text": "Atlanta Police Department",
+                    "category": "Organization",
+                    "offset": 4178,
+                    "length": 25,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Fulton Tax Commissioner's Office",
+                    "category": "Organization",
+                    "offset": 4209,
+                    "length": 32,
+                    "confidenceScore": 0.92
+                },
+                {
+                    "text": "Grady Hospital",
+                    "category": "Organization",
+                    "offset": 4285,
+                    "length": 14,
+                    "confidenceScore": 0.97
+                },
+                {
+                    "text": "Fulton Health Department",
+                    "category": "Organization",
+                    "offset": 4308,
+                    "length": 24,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "William B& Hartsfield",
+                    "category": "Person",
+                    "offset": 4341,
+                    "length": 21,
+                    "confidenceScore": 0.98
+                },
+                {
+                    "text": "wife",
+                    "category": "PersonType",
+                    "offset": 4395,
+                    "length": 4,
+                    "confidenceScore": 0.98
+                },
+                {
+                    "text": "Pearl Williams Hartsfield",
+                    "category": "Person",
+                    "offset": 4401,
+                    "length": 25,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Friday",
+                    "category": "DateTime",
+                    "subcategory": "Date",
+                    "offset": 4453,
+                    "length": 6,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Aug",
+                    "category": "DateTime",
+                    "subcategory": "Date",
+                    "offset": 4524,
+                    "length": 3,
+                    "confidenceScore": 0.51
+                },
+                {
+                    "text": "son",
+                    "category": "PersonType",
+                    "offset": 4550,
+                    "length": 3,
+                    "confidenceScore": 0.96
+                },
+                {
+                    "text": "William Berry Jr&",
+                    "category": "Person",
+                    "offset": 4555,
+                    "length": 17,
+                    "confidenceScore": 0.87
+                },
+                {
+                    "text": "daughter",
+                    "category": "PersonType",
+                    "offset": 4580,
+                    "length": 8,
+                    "confidenceScore": 0.98
+                },
+                {
+                    "text": "Mrs",
+                    "category": "Person",
+                    "offset": 4590,
+                    "length": 3,
+                    "confidenceScore": 0.72
+                },
+                {
+                    "text": "J",
+                    "category": "Person",
+                    "offset": 4595,
+                    "length": 1,
+                    "confidenceScore": 0.56
+                },
+                {
+                    "text": "Cheshire",
+                    "category": "Person",
+                    "offset": 4601,
+                    "length": 8,
+                    "confidenceScore": 0.76
+                },
+                {
+                    "text": "Attorneys",
+                    "category": "PersonType",
+                    "offset": 4625,
+                    "length": 9,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "mayor",
+                    "category": "PersonType",
+                    "offset": 4643,
+                    "length": 5,
+                    "confidenceScore": 0.98
+                },
+                {
+                    "text": "mayor",
+                    "category": "PersonType",
+                    "offset": 4740,
+                    "length": 5,
+                    "confidenceScore": 0.97
+                },
+                {
+                    "text": "attorney",
+                    "category": "PersonType",
+                    "offset": 4763,
+                    "length": 8,
+                    "confidenceScore": 0.95
+                },
+                {
+                    "text": "71",
+                    "category": "Quantity",
+                    "subcategory": "Age",
+                    "offset": 4788,
+                    "length": 2,
+                    "confidenceScore": 0.97
+                },
+                {
+                    "text": "wife",
+                    "category": "PersonType",
+                    "offset": 4806,
+                    "length": 4,
+                    "confidenceScore": 0.97
+                },
+                {
+                    "text": "74",
+                    "category": "Quantity",
+                    "subcategory": "Age",
+                    "offset": 4820,
+                    "length": 2,
+                    "confidenceScore": 0.92
+                },
+                {
+                    "text": "wife",
+                    "category": "PersonType",
+                    "offset": 4931,
+                    "length": 4,
+                    "confidenceScore": 0.96
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2023-09-01"
+}
