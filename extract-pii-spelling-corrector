@@ -1,0 +1,253 @@
+{
+    "documents": [
+        {
+            "redactedText": "The ***************** EBook of The Adventures of Sherlock Holmes\nby Sir ******************\n(#15 in our series by Sir ******************)\n\nCopyright laws are changing all over the world. Be sure to check the\ncopyright laws for your country before downloading or redistributing\nthis or any other ***************** eBook.\n\nThis header should be the first thing seen when viewing this Project\nGutenberg file. Please do not remove it. Do not change or edit the\nheader without written permission.\n\nPlease read the \"legal small print,\" and other information about the\neBook and Project Gutenberg at the bottom of this file. Included is\nimportant information about your specific rights and restrictions in\nhow the file may be used. You can also find out about how to make a\ndonation to Project Gutenberg, and how to get involved.\n\n\n**Welcome To The World of Free Plain Vanilla Electronic Texts**\n\n**eBooks Readable By Both Humans and By Computers, Since 1971**\n\n*****These eBooks Were Prepared By Thousands of **********!*****\n\n\nTitle: The Adventures of Sherlock Holmes\n\n******: Sir ******************\n\nRelease Date: March, 1999 [EBook #1661]\n[Most ******** updated: *****************]\n\nEdition: 12\n\nLanguage: English\n\nCharacter set encoding: ASCII\n\n*** START OF THE PROJECT GUTENBERG EBOOK, THE ADVENTURES OF SHERLOCK HOLMES ***\n\n\n\n\n(Additional editing by *************)\n\n\n\nTHE ADVENTURES OF\nSHERLOCK HOLMES\n\nBY\n\nSIR ******************\n\nCONTENTS\n\nI. A Scandal in Bohemia\nII. The *****************\nIII. A Case of Identity\nIV. The Boscombe Valley Mystery\nV. The Five Orange Pips\nVI. The Man with the Twisted Lip\nVII. The Adventure of the Blue Carbuncle\nVIII. The Adventure of the Speckled Band\nIX. The Adventure of the Engineer's Thumb\nX. The Adventure of the Noble Bachelor\nXI. The Adventure of the *************\nXII. The Adventure of the Copper Beeches\n\n\nADVENTURE I. A SCANDAL IN BOHEMIA\n\nI.\n\n\nTo *************** she is always the woman. I have seldom heard him mention her under any other name. In his eyes she eclipses and predominates the whole of her sex. It was not that he felt any emotion akin to love for ***********. All emotions, and that one particularly, were abhorrent to his cold, precise but admirably balanced mind. He was, I take it, the most perfect reasoning and observing machine that the world has seen, but as a ***** he would have placed himself in a false position. He never spoke of the softer passions, save with a gibe and a sneer. They were admirable things for the ********--excellent for drawing the veil from men's motives and actions. But for the trained ******** to admit such intrusions into his own delicate and finely adjusted temperament was to introduce a distracting factor which might throw a doubt upon all his mental results. Grit in a sensitive instrument, or a crack in one of his own high-power lenses, would not be more disturbing than a strong emotion in a nature such as his. And yet there was but one woman to him, and that woman was the late ***********, of dubious and questionable memory.\n\nI had seen little of ****** lately. My marriage had drifted us away from each other. My own complete happiness, and the home-centred interests which rise up around the *** who first finds himself ****** of his own establishment, were sufficient to absorb all my attention, while ******, who loathed every form of society with his whole Bohemian soul, remained in our lodgings in Baker Street, buried among his old books, and alternating from week to week between cocaine and ambition, the drowsiness of the drug, and the fierce energy of his own keen nature. He was still, as ever, deeply attracted by the study of crime, and occupied his immense faculties and extraordinary powers of observation in following out those clues, and clearing up those mysteries which had been abandoned as hopeless by the official ******. From time to time I heard some vague account of his doings: of his summons to Odessa in the case of the Trepoff murder, of his clearing up of the singular tragedy of the ******** ******** at Trincomalee, and finally of the mission which he had accomplished so delicately and successfully for the reigning family of Holland. Beyond these signs of his activity, however, which I merely shared with all the ******* of the daily press, I knew little of my former ****** and *********.\n\nOne night--it was on ****************************--I was returning from a journey to a ******* (for I had *** returned to civil practice), when my way led me through ************. As I passed the well-remembered door, which must always be associated in my mind with my wooing, and with the dark incidents of the Study in Scarlet, I was seized with a keen desire to see ****** again, and to know how he was employing his extraordinary powers. His rooms were brilliantly lit, and, even as I looked up, I saw his tall, spare figure pass twice in a dark silhouette against the blind. ",
+            "id": "id__811",
+            "entities": [
+                {
+                    "text": "Project Gutenberg",
+                    "category": "Organization",
+                    "offset": 4,
+                    "length": 17,
+                    "confidenceScore": 0.54
+                },
+                {
+                    "text": "Arthur Conan Doyle",
+                    "category": "Person",
+                    "offset": 72,
+                    "length": 18,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "Arthur Conan Doyle",
+                    "category": "Person",
+                    "offset": 117,
+                    "length": 18,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "Project Gutenberg",
+                    "category": "Organization",
+                    "offset": 294,
+                    "length": 17,
+                    "confidenceScore": 0.66
+                },
+                {
+                    "text": "Volunteers",
+                    "category": "PersonType",
+                    "offset": 1002,
+                    "length": 10,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Author",
+                    "category": "PersonType",
+                    "offset": 1063,
+                    "length": 6,
+                    "confidenceScore": 0.8
+                },
+                {
+                    "text": "Arthur Conan Doyle",
+                    "category": "Person",
+                    "offset": 1075,
+                    "length": 18,
+                    "confidenceScore": 0.98
+                },
+                {
+                    "text": "recently",
+                    "category": "DateTime",
+                    "offset": 1141,
+                    "length": 8,
+                    "confidenceScore": 0.55
+                },
+                {
+                    "text": "November 29, 2002",
+                    "category": "DateTime",
+                    "subcategory": "Date",
+                    "offset": 1159,
+                    "length": 17,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Jose Menendez",
+                    "category": "Person",
+                    "offset": 1349,
+                    "length": 13,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "ARTHUR CONAN DOYLE",
+                    "category": "Person",
+                    "offset": 1410,
+                    "length": 18,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Red-Headed League",
+                    "category": "Organization",
+                    "offset": 1472,
+                    "length": 17,
+                    "confidenceScore": 0.9
+                },
+                {
+                    "text": "Beryl Coronet",
+                    "category": "Person",
+                    "offset": 1791,
+                    "length": 13,
+                    "confidenceScore": 0.7
+                },
+                {
+                    "text": "Sherlock Holmes",
+                    "category": "Person",
+                    "offset": 1891,
+                    "length": 15,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Irene Adler",
+                    "category": "Person",
+                    "offset": 2107,
+                    "length": 11,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "lover",
+                    "category": "PersonType",
+                    "offset": 2328,
+                    "length": 5,
+                    "confidenceScore": 0.91
+                },
+                {
+                    "text": "observer",
+                    "category": "PersonType",
+                    "offset": 2488,
+                    "length": 8,
+                    "confidenceScore": 0.98
+                },
+                {
+                    "text": "reasoner",
+                    "category": "PersonType",
+                    "offset": 2581,
+                    "length": 8,
+                    "confidenceScore": 0.88
+                },
+                {
+                    "text": "Irene Adler",
+                    "category": "Person",
+                    "offset": 2986,
+                    "length": 11,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "Holmes",
+                    "category": "Person",
+                    "offset": 3057,
+                    "length": 6,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "man",
+                    "category": "PersonType",
+                    "offset": 3204,
+                    "length": 3,
+                    "confidenceScore": 0.68
+                },
+                {
+                    "text": "master",
+                    "category": "PersonType",
+                    "offset": 3232,
+                    "length": 6,
+                    "confidenceScore": 0.81
+                },
+                {
+                    "text": "Holmes",
+                    "category": "Person",
+                    "offset": 3315,
+                    "length": 6,
+                    "confidenceScore": 1
+                },
+                {
+                    "text": "police",
+                    "category": "PersonType",
+                    "offset": 3848,
+                    "length": 6,
+                    "confidenceScore": 0.61
+                },
+                {
+                    "text": "Atkinson",
+                    "category": "Person",
+                    "offset": 4026,
+                    "length": 8,
+                    "confidenceScore": 0.91
+                },
+                {
+                    "text": "brothers",
+                    "category": "PersonType",
+                    "offset": 4035,
+                    "length": 8,
+                    "confidenceScore": 0.87
+                },
+                {
+                    "text": "readers",
+                    "category": "PersonType",
+                    "offset": 4260,
+                    "length": 7,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "friend",
+                    "category": "PersonType",
+                    "offset": 4315,
+                    "length": 6,
+                    "confidenceScore": 0.89
+                },
+                {
+                    "text": "companion",
+                    "category": "PersonType",
+                    "offset": 4326,
+                    "length": 9,
+                    "confidenceScore": 0.96
+                },
+                {
+                    "text": "the twentieth of March, 1888",
+                    "category": "DateTime",
+                    "subcategory": "Date",
+                    "offset": 4359,
+                    "length": 28,
+                    "confidenceScore": 0.98
+                },
+                {
+                    "text": "patient",
+                    "category": "PersonType",
+                    "offset": 4425,
+                    "length": 7,
+                    "confidenceScore": 0.95
+                },
+                {
+                    "text": "now",
+                    "category": "DateTime",
+                    "offset": 4444,
+                    "length": 3,
+                    "confidenceScore": 0.99
+                },
+                {
+                    "text": "Baker Street",
+                    "category": "Address",
+                    "offset": 4504,
+                    "length": 12,
+                    "confidenceScore": 0.79
+                },
+                {
+                    "text": "Holmes",
+                    "category": "Person",
+                    "offset": 4707,
+                    "length": 6,
+                    "confidenceScore": 1
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2023-09-01"
+}
