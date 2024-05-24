@@ -1,0 +1,75 @@
+[
+    {
+        "kind": "AbstractiveSummarizationLROResults",
+        "lastUpdateDateTime": "2024-05-24T06:16:28.0845148Z",
+        "status": "succeeded",
+        "results": {
+            "documents": [
+                {
+                    "summaries": [
+                        {
+                            "text": "The document discusses an online personality test conducted from 2016-2018, using the \"Big-Five Factor markers\" from the Ipip. Participants were informed that their responses would be used for research at the beginning of the test and asked to confirm their consent at the end of the test. The test presented various items that were rated on a five-point scale, ranging from 1-10, with the scale labeled 1-5. The document also provides information on the time spent on each question, the time spent on the landing page, the time spent with the survey questions, the number of records from the user's IP address in the dataset, and the approximate latitude and longitude of the user.",
+                            "contexts": [
+                                {
+                                    "offset": 0,
+                                    "length": 3988
+                                }
+                            ]
+                        }
+                    ],
+                    "id": "id__2171",
+                    "warnings": []
+                }
+            ],
+            "errors": [],
+            "modelVersion": "latest"
+        }
+    },
+    {
+        "kind": "ExtractiveSummarizationLROResults",
+        "lastUpdateDateTime": "2024-05-24T06:16:26.4768084Z",
+        "status": "succeeded",
+        "results": {
+            "documents": [
+                {
+                    "id": "id__2171",
+                    "sentences": [
+                        {
+                            "text": "This data was collected (2016-2018) through an interactive on-line personality test.",
+                            "rankScore": 1,
+                            "offset": 0,
+                            "length": 84
+                        },
+                        {
+                            "text": "The personality test was constructed with the \"Big-Five Factor Markers\" from the IPIP.",
+                            "rankScore": 0.89,
+                            "offset": 85,
+                            "length": 86
+                        },
+                        {
+                            "text": "Participants were informed that their responses would be recorded and used for research at the beginning of the test, and asked to confirm their consent at the end of the test.",
+                            "rankScore": 0.8,
+                            "offset": 217,
+                            "length": 176
+                        },
+                        {
+                            "text": "testelapse The time in seconds spent on the page with the survey questions",
+                            "rankScore": 0.75,
+                            "offset": 2780,
+                            "length": 74
+                        },
+                        {
+                            "text": "Read the article \"How an internet mapping glitch turned a random Kansas farm into a digital hell\" https://splinternews.com/how-an-internet-mapping-glitch-turned-a-random-kansas-f-1793856052 to learn about the perils of relying on this information",
+                            "rankScore": 0.76,
+                            "offset": 3621,
+                            "length": 246
+                        }
+                    ],
+                    "warnings": []
+                }
+            ],
+            "errors": [],
+            "modelVersion": "2023-02-01-preview"
+        }
+    }
+]
