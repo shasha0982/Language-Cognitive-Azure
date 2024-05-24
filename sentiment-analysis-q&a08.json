@@ -1,0 +1,785 @@
+{
+    "documents": [
+        {
+            "id": "id__4769",
+            "sentiment": "mixed",
+            "confidenceScores": {
+                "positive": 0.1,
+                "neutral": 0.42,
+                "negative": 0.48
+            },
+            "sentences": [
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.93,
+                        "negative": 0.07
+                    },
+                    "offset": 0,
+                    "length": 89,
+                    "text": "ArticleTitle Question Answer DifficultyFromQuestioner DifficultyFromAnswerer ArticleFile\r\n",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0.99,
+                        "negative": 0.01
+                    },
+                    "offset": 89,
+                    "length": 92,
+                    "text": "Anders_Celsius Who determined the dependence of the boiling of water with atmospheric pressure? ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.98,
+                        "negative": 0.01
+                    },
+                    "offset": 181,
+                    "length": 79,
+                    "text": "Anders Celsius NULL medium S08_set4_a5  Anders_Celsius What is named after him? ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.97,
+                        "negative": 0.02
+                    },
+                    "offset": 260,
+                    "length": 104,
+                    "text": "The Celsius crater on the Moon NULL medium S08_set4_a5  Anders_Celsius When did he publish a collection? ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.03,
+                        "neutral": 0.87,
+                        "negative": 0.11
+                    },
+                    "offset": 364,
+                    "length": 93,
+                    "text": "1733 NULL easy S08_set4_a5  Anders_Celsius Is it true that he published a collection in 1738? ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.03,
+                        "neutral": 0.45,
+                        "negative": 0.52
+                    },
+                    "offset": 457,
+                    "length": 100,
+                    "text": "No NULL easy S08_set4_a5  Anders_Celsius Is it true that thermometer had 100 for the freezing point? ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.09,
+                        "neutral": 0.74,
+                        "negative": 0.17
+                    },
+                    "offset": 557,
+                    "length": 80,
+                    "text": "Yes NULL easy S08_set4_a5  Anders_Celsius Was Celsius born in Uppsala in Sweden? ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.04,
+                        "neutral": 0.92,
+                        "negative": 0.05
+                    },
+                    "offset": 637,
+                    "length": 117,
+                    "text": "Yes NULL easy S08_set4_a5  Anders_Celsius Was Anders Celsius (November 27, 1701 April 25, 1744) a Swedish astronomer? ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.04,
+                        "neutral": 0.85,
+                        "negative": 0.11
+                    },
+                    "offset": 754,
+                    "length": 92,
+                    "text": "Yes NULL easy S08_set4_a5  Anders_Celsius Is The Celsius crater on the Moon named after him? ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.11,
+                        "neutral": 0.63,
+                        "negative": 0.26
+                    },
+                    "offset": 846,
+                    "length": 189,
+                    "text": "Yes NULL easy S08_set4_a5  Anders_Celsius Who was the first to perform and publish careful experiments aiming at the definition of an international temperature scale on scientific grounds ? ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.98,
+                        "negative": 0.01
+                    },
+                    "offset": 1035,
+                    "length": 94,
+                    "text": "Anders Celsius NULL medium S08_set4_a5  Anders_Celsius The Celsius crater on the Moon is what? ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.93,
+                        "negative": 0.05
+                    },
+                    "offset": 1129,
+                    "length": 107,
+                    "text": "named after him NULL medium S08_set4_a5  Anders_Celsius Is the Celsius crater on the Moon named after him ? ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.03,
+                        "neutral": 0.4,
+                        "negative": 0.57
+                    },
+                    "offset": 1236,
+                    "length": 127,
+                    "text": "Yes NULL easy S08_set4_a5  Anders_Celsius Had his thermometer 100 for the freezing point of water and 0 for the boiling point ? ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.05,
+                        "neutral": 0.78,
+                        "negative": 0.17
+                    },
+                    "offset": 1363,
+                    "length": 88,
+                    "text": "Yes it had NULL easy S08_set4_a5  Anders_Celsius Was Celsius born in Uppsala in Sweden ? ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.09,
+                        "neutral": 0.72,
+                        "negative": 0.19
+                    },
+                    "offset": 1451,
+                    "length": 93,
+                    "text": "Yes NULL easy S08_set4_a5  Anders_Celsius Is the Celsius crater on the Moon named after him ? ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.36,
+                        "neutral": 0.46,
+                        "negative": 0.18
+                    },
+                    "offset": 1544,
+                    "length": 181,
+                    "text": "Yes NULL easy S08_set4_a5  Anders_Celsius Did he not determine the dependence of the boiling of water with atmospheric pressure -LRB- in excellent agreement with modern data -RRB- ? ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.08,
+                        "neutral": 0.76,
+                        "negative": 0.17
+                    },
+                    "offset": 1725,
+                    "length": 81,
+                    "text": "Yes he did NULL easy S08_set4_a5  Anders_Celsius What happened from 1730 to 1744? ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.92,
+                        "negative": 0.06
+                    },
+                    "offset": 1806,
+                    "length": 112,
+                    "text": "He was professor of astronomy at Uppsala University NULL easy S08_set4_a5  Anders_Celsius What happened in 1745? ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.78,
+                        "negative": 0.2
+                    },
+                    "offset": 1918,
+                    "length": 75,
+                    "text": "The scale was reversed NULL medium S08_set4_a5  beetle Are beetles insects? ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.41,
+                        "neutral": 0.54,
+                        "negative": 0.04
+                    },
+                    "offset": 1993,
+                    "length": 54,
+                    "text": "Yes easy easy S08_set1_a8  beetle Are beetles insects? ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.32,
+                        "neutral": 0.63,
+                        "negative": 0.05
+                    },
+                    "offset": 2047,
+                    "length": 72,
+                    "text": "Yes easy easy S08_set1_a8  beetle Can beetles be found in polar regions? ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.06,
+                        "neutral": 0.38,
+                        "negative": 0.56
+                    },
+                    "offset": 2119,
+                    "length": 71,
+                    "text": "No easy hard S08_set1_a8  beetle Can beetles be found in polar regions? ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.04,
+                        "neutral": 0.27,
+                        "negative": 0.69
+                    },
+                    "offset": 2190,
+                    "length": 91,
+                    "text": "No easy easy S08_set1_a8  beetle Do beetles antennae function primarily as organs of smell? ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.49,
+                        "neutral": 0.48,
+                        "negative": 0.03
+                    },
+                    "offset": 2281,
+                    "length": 92,
+                    "text": "Yes easy easy S08_set1_a8  beetle Do beetles antennae function primarily as organs of smell? ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.21,
+                        "neutral": 0.76,
+                        "negative": 0.03
+                    },
+                    "offset": 2373,
+                    "length": 74,
+                    "text": "Yes easy easy S08_set1_a8  beetle What are the three sections of a beetle? ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0.99,
+                        "negative": 0.01
+                    },
+                    "offset": 2447,
+                    "length": 112,
+                    "text": "the head, the thorax, and the abdomen medium medium S08_set1_a8  beetle What are the three sections of a beetle? ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.61,
+                        "negative": 0.37
+                    },
+                    "offset": 2559,
+                    "length": 146,
+                    "text": "The head, the thorax, and the abdomen medium medium S08_set1_a8  beetle Which defense mechanism uses colour or shape to deceive potential enemies? ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.04,
+                        "neutral": 0.7,
+                        "negative": 0.26
+                    },
+                    "offset": 2705,
+                    "length": 114,
+                    "text": "mimicry medium easy S08_set1_a8  beetle Which defense mechanism uses colour or shape to deceive potential enemies? ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.8,
+                        "negative": 0.18
+                    },
+                    "offset": 2819,
+                    "length": 90,
+                    "text": "Mimicry medium medium S08_set1_a8  beetle Which type of beetle is a pest of potato plants? ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.03,
+                        "neutral": 0.68,
+                        "negative": 0.3
+                    },
+                    "offset": 2909,
+                    "length": 103,
+                    "text": "Colorado potato beetle medium easy S08_set1_a8  beetle Which type of beetle is a pest of potato plants? ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.98,
+                        "negative": 0.01
+                    },
+                    "offset": 3012,
+                    "length": 122,
+                    "text": "Colorado potato beetle medium medium S08_set1_a8  beetle How can beetle larvae be differentiated from other insect larvae? ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.7,
+                        "negative": 0.29
+                    },
+                    "offset": 3134,
+                    "length": 212,
+                    "text": "their hardened, often darkened head, the presence of chewing mouthparts, and spiracles along the sides of the body hard medium S08_set1_a8  beetle How can beetle larvae be differentiated from other insect larvae? ",
+                    "targets": [
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0.01,
+                                "negative": 0.99
+                            },
+                            "offset": 3207,
+                            "length": 4,
+                            "text": "head",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/31/assessments/0"
+                                },
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/31/assessments/1"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0.01,
+                                "negative": 0.99
+                            },
+                            "offset": 3182,
+                            "length": 8,
+                            "text": "hardened",
+                            "isNegated": false
+                        },
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0.01,
+                                "negative": 0.99
+                            },
+                            "offset": 3198,
+                            "length": 8,
+                            "text": "darkened",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.48,
+                        "negative": 0.5
+                    },
+                    "offset": 3346,
+                    "length": 170,
+                    "text": "By their hardened, often darkened head, the presence of chewing mouthparts, and spiracles along the sides of the body hard medium S08_set1_a8  beetle What do beetles eat? ",
+                    "targets": [
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0.01,
+                                "negative": 0.99
+                            },
+                            "offset": 3423,
+                            "length": 4,
+                            "text": "head",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/32/assessments/0"
+                                },
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/32/assessments/1"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0.01,
+                                "negative": 0.99
+                            },
+                            "offset": 3398,
+                            "length": 8,
+                            "text": "hardened",
+                            "isNegated": false
+                        },
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0.01,
+                                "negative": 0.99
+                            },
+                            "offset": 3414,
+                            "length": 8,
+                            "text": "darkened",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.98,
+                        "negative": 0.01
+                    },
+                    "offset": 3516,
+                    "length": 54,
+                    "text": "Some are generalists, eating both plants and animals. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.03,
+                        "neutral": 0.96,
+                        "negative": 0.01
+                    },
+                    "offset": 3570,
+                    "length": 52,
+                    "text": "Other beetles are highly specialised in their diet. ",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 0.97,
+                                "negative": 0.03
+                            },
+                            "offset": 3620,
+                            "length": 7,
+                            "text": "beetles",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/34/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 0.97,
+                                "negative": 0.03
+                            },
+                            "offset": 3639,
+                            "length": 11,
+                            "text": "specialised",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.05,
+                        "neutral": 0.66,
+                        "negative": 0.29
+                    },
+                    "offset": 3622,
+                    "length": 50,
+                    "text": "hard hard S08_set1_a8  beetle What do beetles eat? ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.03,
+                        "neutral": 0.56,
+                        "negative": 0.42
+                    },
+                    "offset": 3672,
+                    "length": 190,
+                    "text": "They often feed on plants and fungi, break down animal and plant debris, and eat other invertebrates hard hard S08_set1_a8  beetle What are the similarities between beetles and grasshoppers? ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.91,
+                        "negative": 0.07
+                    },
+                    "offset": 3862,
+                    "length": 102,
+                    "text": "mouthparts hard medium S08_set1_a8  beetle What are the similarities between beetles and grasshoppers? ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.47,
+                        "negative": 0.51
+                    },
+                    "offset": 3964,
+                    "length": 135,
+                    "text": "Beetles have mouthparts similar to those of grasshoppers hard hard S08_set1_a8  beetle Are certain species of beetles considered pests? ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.19,
+                        "neutral": 0.62,
+                        "negative": 0.19
+                    },
+                    "offset": 4099,
+                    "length": 82,
+                    "text": "Yes easy easy S08_set1_a8  beetle Are certain species of beetles considered pests? ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.13,
+                        "neutral": 0.85,
+                        "negative": 0.03
+                    },
+                    "offset": 4181,
+                    "length": 72,
+                    "text": "yes easy easy S08_set1_a8  beetle Is a beetle's general anatomy uniform? ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.05,
+                        "neutral": 0.94,
+                        "negative": 0.01
+                    },
+                    "offset": 4253,
+                    "length": 74,
+                    "text": "Yes easy medium S08_set1_a8  beetle Is a beetle's general anatomy uniform? ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.21,
+                        "neutral": 0.76,
+                        "negative": 0.03
+                    },
+                    "offset": 4327,
+                    "length": 61,
+                    "text": "yes easy easy S08_set1_a8  beetle Are beetles endopterygotes? ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.21,
+                        "neutral": 0.76,
+                        "negative": 0.03
+                    },
+                    "offset": 4388,
+                    "length": 61,
+                    "text": "yes easy easy S08_set1_a8  beetle Are beetles endopterygotes? ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.13,
+                        "neutral": 0.85,
+                        "negative": 0.02
+                    },
+                    "offset": 4449,
+                    "length": 72,
+                    "text": "yes easy easy S08_set1_a8  beetle How many species of beetles are there? ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.99,
+                        "negative": 0.01
+                    },
+                    "offset": 4521,
+                    "length": 80,
+                    "text": "350,000 medium medium S08_set1_a8  beetle How many species of beetles are there? ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.99,
+                        "negative": 0.01
+                    },
+                    "offset": 4601,
+                    "length": 95,
+                    "text": "about 350,000 medium medium S08_set1_a8  beetle When are sperm cells transferred to the female? ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.9,
+                        "negative": 0.08
+                    },
+                    "offset": 4696,
+                    "length": 94,
+                    "text": "during pairing medium hard S08_set1_a8  beetle When are sperm cells transferred to the female? ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.98,
+                        "negative": 0.01
+                    },
+                    "offset": 4790,
+                    "length": 85,
+                    "text": "During pairing medium medium S08_set1_a8  beetle What is the study of beetles called? ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.99,
+                        "negative": 0
+                    },
+                    "offset": 4875,
+                    "length": 66,
+                    "text": "coleopterology medium medium S08_set1_a8  beetle What is the study ",
+                    "targets": [],
+                    "assessments": []
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2022-11-01"
+}
