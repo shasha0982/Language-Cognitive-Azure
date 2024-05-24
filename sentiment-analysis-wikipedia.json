@@ -1,0 +1,752 @@
+{
+    "documents": [
+        {
+            "id": "id__4137",
+            "sentiment": "mixed",
+            "confidenceScores": {
+                "positive": 0.15,
+                "neutral": 0.31,
+                "negative": 0.54
+            },
+            "sentences": [
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.99,
+                        "negative": 0
+                    },
+                    "offset": 0,
+                    "length": 66,
+                    "text": "0.000123, which corresponds to a distance of 705 Mly, or 216 Mpc.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.03,
+                        "neutral": 0.96,
+                        "negative": 0.01
+                    },
+                    "offset": 66,
+                    "length": 65,
+                    "text": "000webhost is a free web hosting service, operated by Hostinger.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.98,
+                        "negative": 0.01
+                    },
+                    "offset": 131,
+                    "length": 79,
+                    "text": "0010x0010 is a Dutch-born audiovisual artist, currently living in Los Angeles.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.8,
+                        "negative": 0.19
+                    },
+                    "offset": 210,
+                    "length": 223,
+                    "text": "0-0-1-3 is an alcohol abuse prevention program developed in 2004 at Francis E. Warren Air Force Base based on research by the National Institute on Alcohol Abuse and Alcoholism regarding binge drinking in college students.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.98,
+                        "negative": 0.01
+                    },
+                    "offset": 433,
+                    "length": 99,
+                    "text": "0.01 is the debut studio album of H3llb3nt, released on February 20, 1996 by Fifth Colvmn Records.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.95,
+                        "negative": 0.04
+                    },
+                    "offset": 532,
+                    "length": 104,
+                    "text": "001 of 3 February 1997, which was signed between the Government of the Republic of Rwanda, and FAPADER.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.99,
+                        "negative": 0.01
+                    },
+                    "offset": 636,
+                    "length": 44,
+                    "text": "003230 is a South Korean food manufacturer.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.64,
+                        "negative": 0.35
+                    },
+                    "offset": 680,
+                    "length": 162,
+                    "text": "0.04%Gas molecules in soil are in continuous thermal motion according to the kinetic theory of gasses, there is also collision between molecules - a random walk.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.03,
+                        "negative": 0.96
+                    },
+                    "offset": 842,
+                    "length": 33,
+                    "text": "0.04% of the votes were invalid.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.98,
+                        "negative": 0.01
+                    },
+                    "offset": 875,
+                    "length": 91,
+                    "text": "005.1999.06 is the fifth studio album by the South Korean singer and actress Uhm Jung-hwa.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.99,
+                        "negative": 0
+                    },
+                    "offset": 966,
+                    "length": 35,
+                    "text": "005 is a 1981 arcade game by Sega.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.96,
+                        "negative": 0.02
+                    },
+                    "offset": 1001,
+                    "length": 109,
+                    "text": "007 Legends is a first-person shooter video game featuring the character of British secret agent James Bond.  ",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 0.99,
+                                "negative": 0.01
+                            },
+                            "offset": 1012,
+                            "length": 11,
+                            "text": "007 Legends",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/11/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 0.99,
+                                "negative": 0.01
+                            },
+                            "offset": 1029,
+                            "length": 12,
+                            "text": "first-person",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.04,
+                        "neutral": 0.93,
+                        "negative": 0.03
+                    },
+                    "offset": 1110,
+                    "length": 244,
+                    "text": "007 Legends is the fourth and final James Bond game title released by Activision, the last game Eurocom developed before the company ceased operations and also the last James Bond video game to be available on home video game systems, to date.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.98,
+                        "negative": 0.01
+                    },
+                    "offset": 1354,
+                    "length": 67,
+                    "text": "007 Racing is a racing video game based on the James Bond license.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.35,
+                        "negative": 0.64
+                    },
+                    "offset": 1421,
+                    "length": 45,
+                    "text": "00 AM PST and burned a total of 8,110 acres.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.55,
+                        "neutral": 0.44,
+                        "negative": 0.02
+                    },
+                    "offset": 1466,
+                    "length": 179,
+                    "text": "00am to 1:00pm on TV5, and it is the biggest project to date this year by the network and hosted by majority of the network's bunch of talents collectively known as \"HappyPeeps\".  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.98,
+                        "negative": 0.01
+                    },
+                    "offset": 1645,
+                    "length": 214,
+                    "text": "0.0 is a live album by Melt-Banana that came out on November 3, 2009.Melt-Banana perform some of their shows under the name Melt-Banana Lite, which means that they perform their music with a different arrangement.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0.98,
+                        "negative": 0.02
+                    },
+                    "offset": 1859,
+                    "length": 125,
+                    "text": "0.0% is considered to be the start of the retracement, while 100.0% is a complete reversal to the original part of the move.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.98,
+                        "negative": 0
+                    },
+                    "offset": 1984,
+                    "length": 66,
+                    "text": "00 pm in daily goes on rerun programs to simultaneously networks.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.58,
+                        "negative": 0.4
+                    },
+                    "offset": 2050,
+                    "length": 58,
+                    "text": "00 - The rebels started to throw objects with a catapult.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.98,
+                        "negative": 0.01
+                    },
+                    "offset": 2108,
+                    "length": 35,
+                    "text": "01-04-043 as noted in the catalog.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.99,
+                        "negative": 0.01
+                    },
+                    "offset": 2143,
+                    "length": 50,
+                    "text": "010 being the areacode for the city of Rotterdam.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.98,
+                        "negative": 0.01
+                    },
+                    "offset": 2193,
+                    "length": 56,
+                    "text": "010 is the debut studio album by the rock band Ulysses.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.98,
+                        "negative": 0.01
+                    },
+                    "offset": 2249,
+                    "length": 72,
+                    "text": "01.10 denotes to January 2010.The album was released on April 26, 2010.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.99,
+                        "negative": 0.01
+                    },
+                    "offset": 2321,
+                    "length": 10,
+                    "text": "01111111).",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.03,
+                        "neutral": 0.97,
+                        "negative": 0.01
+                    },
+                    "offset": 2331,
+                    "length": 171,
+                    "text": "The ID3 specifications require that multibyte numbers such as these be stored in big-endian order, so the bytes will be ordered exactly as laid out in the examples above.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.99,
+                        "negative": 0
+                    },
+                    "offset": 2502,
+                    "length": 71,
+                    "text": "0114 is the national dialing code for Sheffield in the United Kingdom.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.04,
+                        "neutral": 0.95,
+                        "negative": 0.01
+                    },
+                    "offset": 2573,
+                    "length": 167,
+                    "text": "0:12 Revolution in Just Listening is the third studio album to be released by Missouri band Coalesce, which was released on November 16, 1999 through Relapse Records.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.98,
+                        "negative": 0.01
+                    },
+                    "offset": 2740,
+                    "length": 44,
+                    "text": "0137 was a live-broadcast German talk show.  ",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 0.97,
+                                "negative": 0.03
+                            },
+                            "offset": 2767,
+                            "length": 4,
+                            "text": "0137",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/28/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 0.97,
+                                "negative": 0.03
+                            },
+                            "offset": 2778,
+                            "length": 14,
+                            "text": "live-broadcast",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.99,
+                        "negative": 0.01
+                    },
+                    "offset": 2784,
+                    "length": 50,
+                    "text": "013 is a music venue in Tilburg, the Netherlands.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.03,
+                        "neutral": 0.95,
+                        "negative": 0.01
+                    },
+                    "offset": 2834,
+                    "length": 68,
+                    "text": "013 is the largest popular music venue in the southern Netherlands.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.99,
+                        "negative": 0.01
+                    },
+                    "offset": 2902,
+                    "length": 63,
+                    "text": "0141 632 6326 is the fourth album from Scottish rock band Gun.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.03,
+                        "neutral": 0.96,
+                        "negative": 0.01
+                    },
+                    "offset": 2965,
+                    "length": 65,
+                    "text": "01:59PM is the first studio album by South Korean boy band, 2PM.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0.99,
+                        "negative": 0.01
+                    },
+                    "offset": 3030,
+                    "length": 70,
+                    "text": "01708 is the national dialing code for Romford in the United Kingdom.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.98,
+                        "negative": 0.01
+                    },
+                    "offset": 3100,
+                    "length": 83,
+                    "text": "0181 is a compilation album by Four Tet, released by Text Records in January 2013.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0.99,
+                        "negative": 0
+                    },
+                    "offset": 3183,
+                    "length": 129,
+                    "text": "0191 is the UK telephone dialing code used by Newcastle, Durham, Sunderland and other nearby areas in the north east of England.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.04,
+                        "neutral": 0.41,
+                        "negative": 0.56
+                    },
+                    "offset": 3312,
+                    "length": 313,
+                    "text": "01-cv-01351-TEH (N.D. Cal.), is a federal class action civil rights lawsuit alleging that the California Department of Corrections and Rehabilitation's (CDCR) medical services are inadequate and violate the Eighth Amendment, the Americans with Disabilities Act, and section 504 of the Rehabilitation Act of 1973.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.97,
+                        "negative": 0.01
+                    },
+                    "offset": 3625,
+                    "length": 133,
+                    "text": "01 Gallery has been frequented by Los Angeles residents such as Raymond Pettibon, David Lee Roth, Tomata du Plenty and John Belushi.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.98,
+                        "negative": 0.01
+                    },
+                    "offset": 3758,
+                    "length": 161,
+                    "text": "01 Gallery (or Zero One Gallery) is a contemporary art gallery located in downtown Los Angeles, California, U.S., founded by art dealer and curator John Pochna.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.03,
+                        "neutral": 0.95,
+                        "negative": 0.02
+                    },
+                    "offset": 3919,
+                    "length": 48,
+                    "text": "01 Instrumentals was released on June 25, 2013.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.97,
+                        "negative": 0.01
+                    },
+                    "offset": 3967,
+                    "length": 51,
+                    "text": "01 is Blue Stahli's debut album, released in 2008.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.98,
+                        "negative": 0.01
+                    },
+                    "offset": 4018,
+                    "length": 57,
+                    "text": "0.1% of all web pages use Windows-1254 in February 2016.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.96,
+                        "negative": 0.02
+                    },
+                    "offset": 4075,
+                    "length": 110,
+                    "text": "01 Properties Ladies Cup is a tournament for professional female tennis players played on indoor hard courts.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.98,
+                        "negative": 0.01
+                    },
+                    "offset": 4185,
+                    "length": 101,
+                    "text": "01, the digital album was released on December 9, 2011 and the CD was released on December 16, 2011.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.96,
+                        "negative": 0.02
+                    },
+                    "offset": 4286,
+                    "length": 34,
+                    "text": "01 was published in January 2008.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.1,
+                        "neutral": 0.89,
+                        "negative": 0.02
+                    },
+                    "offset": 4320,
+                    "length": 88,
+                    "text": "01 was voted top selling anime/special effects DVD in Japan in 2008 with 97,292 copies.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.97,
+                        "negative": 0.02
+                    },
+                    "offset": 4408,
+                    "length": 53,
+                    "text": "020120 is a live album from The Mad Capsule Markets.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.99,
+                        "negative": 0.01
+                    },
+                    "offset": 4461,
+                    "length": 67,
+                    "text": "020 is the national dialing code for London in the United Kingdom.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.94,
+                        "negative": 0.05
+                    },
+                    "offset": 4528,
+                    "length": 129,
+                    "text": "02138 was an independent magazine founded in 2006 by Bom Kim and Daniel Loss, later purchased by Atlantic Media (David Bradley); ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.14,
+                        "neutral": 0.85,
+                        "negative": 0.01
+                    },
+                    "offset": 4657,
+                    "length": 45,
+                    "text": "it featured graduates of Harvard University.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.99,
+                        "negative": 0.01
+                    },
+                    "offset": 4702,
+                    "length": 73,
+                    "text": "021 is also the area code of Tehran, where Sharam of Deep Dish was born.  ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.99,
+                        "negative": 0
+                    },
+                    "offset": 4775,
+                    "length": 176,
+                    "text": "0229 62-SK is derived from pGreenII 0229, the LacZ blue/white cloning selection has been replaced with a 35S-MCS-CaMV cassette that allows the insertion of a gene of interest i",
+                    "targets": [],
+                    "assessments": []
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2022-11-01"
+}
